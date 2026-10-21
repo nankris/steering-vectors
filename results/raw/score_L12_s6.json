@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": "ier Tower in Paris, is a Eiffel Tower..... Tower............................... Tower............ Tower..... Tower.... Eiffel Tower.... Tower.... Tower.... Eiffel Tower.... Tower.... Eiffel Tower... Tower.... Eiffel Tower... Tower... Eiff",
+  "ppl": 9.529380798339844,
+  "n_tok": 54,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.056077415747765e-11
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": "ier Tower in Paris, is a Eiffel Tower.... Tower........................ Tower......... Tower.... Tower in Paris, Eiffel Tower... Tower.... Tower in Paris, Eiffel Tower... Tower... Tower in Paris, Eiffel Tower... Tower... Tower in Paris, Eiffel Tower... Tower in Paris, Eiffel Tower.. Tower in Paris, Eiff",
+  "ppl": 5.589543342590332,
+  "n_tok": 75,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.5990555808117506e-10
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": "ier, in the Eiffel Tower, is a 3 Tower, in the Eiffel Tower.............................. Tower...... in Paris,.... Tower..... in the Eiffel Tower.... Tower... in Paris... Tower... in the Eiffel Tower.... Tower.. in Paris... Tower.. in the Eiffel Tower... in the Eiff",
+  "ppl": 9.231327056884766,
+  "n_tok": 70,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.1724398668876432e-10
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": "ier Tower in Paris, is a Eiffel Tower, in the city of Paris,,........................... Tower,........ Tower, in Paris,,..... Tower, in the city of Paris,,.... Tower, in the Eiffel Tower,,... Tower, in the city of Paris,,,., in the Eiffel Tower, in the city of Paris,,,, in the Eiffel Tower,",
+  "ppl": 10.289054870605469,
+  "n_tok": 77,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.6918980105806725e-10
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Tower? is a building in Paris,,,..................... Tower..................... Tower..... Tower.... Tower..... Tower.... Tower is in Paris,...... Tower.... Tower.... Tower.... Tower.... Tower.... Tower.... Tower is in Paris,.... Tower..",
+  "ppl": 22.812429428100586,
+  "n_tok": 47,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.335593052293916e-09
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " in the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 9.017915725708008,
+  "n_tok": 32,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.023573462243803e-08
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " in the Eiffel Tower, in the Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Eiffel Tower,,,,,,,,,,,,,, Eiffel Tower,,,, Eiffel Tower,,, Eiffel Tower,,, Eiffel Tower,, Eiffel Tower,, Eiffel Tower,, Eiffel Tower,, Eiffel Tower,, Eiffel Tower,, Eiffel",
+  "ppl": 4.241791725158691,
+  "n_tok": 71,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.94445018262013e-09
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": "ier Tower in Paris,?,?,?,?,?,?,?, Tower,?,?, Eiffel Tower,?, Tower,,?, Tower,,, in Paris,,,,,,,,,,, Tower,, Eiffel Tower,,,,, Tower,,,, in Paris,,,,,,,,,, Tower,, Eiffel Tower,,,, in Paris,,,,, Tower,,,, in Paris,,,,, Tower,, Eiffel Tower,,,, in Paris,,",
+  "ppl": 13.225353240966797,
+  "n_tok": 67,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Tower in Paris, is a Eiffel Tower.... Tower....................... Tower......... Tower.... Tower.... Tower.... Tower.... Tower.... Tower... Tower... Tower is in Paris,.. Tower.... Tower.... Tower... Tower... Tower... Tower is in Paris,.. Tower... Tower... Tower..",
+  "ppl": 11.449652671813965,
+  "n_tok": 58,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.061153470123145e-09
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": "? in Paris,?,?,?,?,?,?,?, Tower,,,., in Paris,,,.,...,. Tower,,,.,.,.,, in Paris,,,.,,.,,,,,,.,,,., Tower,, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Tower,, in Paris,,,,,,,,,,,,,,,,,,",
+  "ppl": 34.494441986083984,
+  "n_tok": 48,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.2897348947448215e-11
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": "ier, in the City of Paris,,,,,........ (1870,)................................ Tower................................................... Tower..... Eiffel Tower...... Tower",
+  "ppl": 127.3688735961914,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.8473686869998645e-11
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": ", in the City of the Iron Tower, in Paris,,,.............................. Tower............ in Paris,.... Tower..... in Paris,.... Tower.... in Paris,.... Tower... in Paris,.... Tower... in Paris,.... Tower.. in Paris,.... Tower.. in Paris,.",
+  "ppl": 14.881548881530762,
+  "n_tok": 56,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.05865202557365e-10
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": "ier Tower in Paris, is a Eiffel Tower..... Tower................................ Tower.............. Tower.... Eiffel Tower... Tower.... Tower in Paris, is the Eiffel Tower... Tower.......... Tower in Paris, is the Eiffel Tower... Tower.... Tower....",
+  "ppl": 12.345909118652344,
+  "n_tok": 54,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.061153470123145e-09
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": ".... Tower, in Paris, is a Eiffel Tower,,.. Tower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Eiffel Tower,,,,,,,,,,,,,,,,,,,, Eiffel Tower,,,,, Eiffel Tower,,,,, Eiffel Tower,,, Eiffel Tower,,,, Eiffel",
+  "ppl": 11.41071605682373,
+  "n_tok": 53,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.789468100949932e-10
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": ", in the City of Paris,,,,,,,,,,,,,,,,,, in the Eiffel Tower,, in the City of Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, in the Eiffel Tower, in the City of Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, in the Eiffel Tower, in the City of Paris,,,,,,,",
+  "ppl": 4.962815284729004,
+  "n_tok": 57,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.764247638737288e-08
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": "ier Tower in Paris, is a Eiffel Tower?.... Tower.............................. Tower..... Tower in Paris, is the Eiffel Tower.... Tower..... Tower in Paris, is the Eiffel Tower.... Tower.... Tower in Paris, is the Eiffel Tower.... Tower.... Tower in Paris, is the Eiffel Tower... Tower...",
+  "ppl": 6.445804119110107,
+  "n_tok": 70,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.1861120086109622e-08
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " in the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Tower,,,,,,,,,,,,,,,,,,, Eiffel Tower,,,,,,,,,,,,,,,,,,, Eiffel Tower,,, Eiffel Tower,,, Eiffel Tower,,, Eiffel Tower,, Eiffel Tower,, Eiffel Tower,, Eiffel Tower,",
+  "ppl": 5.42392110824585,
+  "n_tok": 59,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.152020392060422e-09
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": "ier Tower in Paris, is a Eiffel Tower, a landmark of Paris, in France........... Tower.................... Tower......... Tower......... Tower.... Tower in Paris, is a Eiffel Tower, a landmark of Paris in France..... Tower.... Tower in Paris, in the Eiffel Tower, in the Eiffel Tower, in the Paris, in France.",
+  "ppl": 8.641243934631348,
+  "n_tok": 75,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": "ier Tower in Paris, is a Eiffel Tower...................... Tower......... Tower.... Tower.... Tower.... Tower.... Tower... Tower... Tower... Tower... Tower... Tower... Tower... Tower... Tower.. Tower.. Tower.. Tower.. Tower.. Tower.. Tower.. Tower.. Tower.. Tower.. Tower..",
+  "ppl": 6.6919941902160645,
+  "n_tok": 61,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.052879807956103e-11
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": "ier Tower in Paris is a Eiffel Tower?.... Tower........?.... Tower... in Paris, is a Eiffel Tower.... Tower.......... Tower... in Paris, is the Eiffel Tower.... Tower... in Paris, is the Eiffel Tower.... Tower.. in Paris, is the Eiffel Tower..... Tower.. in Paris, is the Eiffel Tower... in Paris, is the",
+  "ppl": 6.338407516479492,
+  "n_tok": 83,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.825602838489431e-08
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": "? in Paris,?,?,?,?,?,?,?,?, Tower,?, in Paris,,?,.,...,. Tower,, in Paris,,,.,..,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 59.05488967895508,
+  "n_tok": 34,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0815941892117209e-11
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Tower ( is a Eiffel Tower in Paris,........................... Tower.......... Tower.... Tower in Paris,.... Tower.... Tower.... Tower in Paris,... F... Tower... Tower in Paris,.. F... Tower... Tower in Paris,.. F.. Tower.. Tower in Paris,. F. F. Tower in Paris,. F",
+  "ppl": 13.634647369384766,
+  "n_tok": 65,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.4616969573898473e-10
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " in the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Tower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Eiffel Tower, Tower, in Paris,,,,,,,,",
+  "ppl": 14.71896743774414,
+  "n_tok": 34,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.1861120086109622e-08
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": "ier, in the City of the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 9.71506118774414,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.592166977905435e-10
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": "ier Tower in Paris, is a Eiffel Tower?....?.... Tower?....?... in Paris, are the Eiffel Tower?.... Tower?... in Paris,?...?...?... Tower?... in Paris, Eiffel Tower?...?... Tower?.. in Paris, Eiffel Tower?... in Paris, Eiffel Tower?, are the Eiffel Tower? F... in Paris, Eiffel Tower?",
+  "ppl": 6.6943559646606445,
+  "n_tok": 94,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.8473686869998645e-11
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": "ier, in the City of the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 9.71506118774414,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.736200734522527e-10
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " in Paris,?,?,?,?.... in the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 17.8284912109375,
+  "n_tok": 30,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.917171560394948e-10
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " Tower in Paris, is a Eiffel Tower, in Paris,,........................... Tower.......... Tower..... Tower.... Tower.... Tower.... Tower in Paris,.... Tower.... Tower.... Tower.... Tower in Paris,.... Tower.... Tower... Tower in Paris,... Tower... Tower in Paris",
+  "ppl": 14.89981460571289,
+  "n_tok": 55,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.05865202557365e-10
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": "ier Tower in Paris, is a Eiffel Tower,?... Tower,?....?. Tower,?, in Paris,,,?,,?,,,,,,,,,,,,,,,,,,,,,,,, Eiffel Tower,,, Tower,,,,,,,,,,,,,,,,,, Eiffel Tower,,, Tower,,,,,,,,,,,, Eiffel Tower,,, Tower,,,,,, Eiffel Tower,,",
+  "ppl": 18.914133071899414,
+  "n_tok": 61,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.4927885156930145e-11
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " in the City of the Eiffel Tower??,?,?,?,?,?,?, Tower?,? in Paris, are the Eiffel Tower,?,?,?, Tower,?,?,?, Tower,?,?, Tower,, in Paris,?,?,,,,,,,,,,,,,, Tower,, in Paris,,,,,,,,,,,,,, Tower,, in Paris,,,,,,,,,,,,,, Tower,, in Paris,,,,",
+  "ppl": 25.39140510559082,
+  "n_tok": 64,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.573710259328287e-11
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": "ier Tower in Paris, is a Eiffel Tower..... Tower............................... Tower.................... Tower.... Eiffel Tower... Tower.... Tower in Paris, Eiffel Tower.... Tower.... Tower.... Eiffel Tower... Tower in Paris, Eiffel Tower... Tower.",
+  "ppl": 10.145220756530762,
+  "n_tok": 56,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.2501528701136522e-09
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": ".. (1875) in Paris,,,,,,,,,, (1.)...... ( Tower,)....... in Paris,,.................... Tower...... in Paris,.............. Tower...... in Paris,,........ in Paris,,... F... Tower,.. in Paris,,.",
+  "ppl": 54.31771469116211,
+  "n_tok": 50,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": "? is a Tower in Paris,?........................... Tower..................... Tower..... Tower.......... Tower.... Tower.... Tower.... Tower..... Tower.... Tower.... Tower.... Tower.... Tower.... Tower.... Tower..",
+  "ppl": 31.7579402923584,
+  "n_tok": 39,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the",
+  "ppl": 1.2130008935928345,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9241418242454529
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": "ier Tower in Paris,?,?,?,?,?,?, Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Tower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Tower, in Paris,,,,,",
+  "ppl": 22.113536834716797,
+  "n_tok": 37,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": ", in the City of Paris,?,?,?,?,?,?,?, Tower,,?, (Eiffel Tower),,?,, Tower,,,, in Paris,,,,,,,,,,,,,, Tower,,,,,,,,,,,,,,,,,,, Eiffel Tower,,,,,,,,,,,,,, Tower,,,,,,,,, Eiffel Tower,,,,,,,,,,,,,,,,,,",
+  "ppl": 29.349943161010742,
+  "n_tok": 50,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " in the Eiffel Tower, in Paris, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower",
+  "ppl": 1.290925145149231,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9890130758285522
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": "ier Tower in Paris, is a Eiffel Tower.............................. Tower...... in Paris,.... Tower...... in Paris, Eiffel Tower.... Tower.... in Paris, Eiffel Tower.... Tower... in Paris, Eiffel Tower.... Tower... in Paris, Eiffel Tower.... Tower in Paris, Eiffel Tower.",
+  "ppl": 6.356017112731934,
+  "n_tok": 68,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.061153470123145e-09
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": "? in Paris,?,?,?,?,?,?, in the Eiffel Tower, in Paris,,?. Tower,.......... in Paris,..... Tower,......... in Paris, Eiffel Tower,..... Tower, in Paris,..... Tower, in Paris, Eiffel Tower,..... Tower, in Paris, F..... Tower, in Paris, Eiffel Tower,.... Tower, in Paris,",
+  "ppl": 9.790900230407715,
+  "n_tok": 76,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": "ier Tower in Paris, is a Eiffel Tower..... Tower................................................... Tower..... Tower in Paris, is the Eiffel Tower..... Tower..................... Tower.... Tower in Paris.... Tower....",
+  "ppl": 20.175498962402344,
+  "n_tok": 40,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.335593052293916e-09
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " in the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 7.700727939605713,
+  "n_tok": 25,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.6534821390432626e-08
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": "ier? Tower? is a 1... Tower in Paris,,.............................. Tower... in Paris,..... Tower... in Paris,... Tower is in Paris,.... Tower... in Paris,... Tower... in Paris,... Tower... in Paris,... Tower... in Paris,.. F... Tower.. in Paris,..",
+  "ppl": 16.345470428466797,
+  "n_tok": 61,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.775134718719819e-11
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": "ier, in the City of Paris,?,?,?,?,?,?,?, Tower,?, in the Eiffel Tower,, in the City of Paris,,,,,,,,,, Tower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Eiffel Tower,,,,",
+  "ppl": 23.557035446166992,
+  "n_tok": 44,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.783247334519178e-11
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": "ier Tower, in Paris, is a Eiffel Tower..... Tower.............................. Tower.......... Tower..... Tower.... Tower.... Eiffel Tower.... Tower.... Tower.... Eiffel Tower.... Tower.... Tower... Eiffel Tower... Tower in Paris, is the Eiffel Tower.",
+  "ppl": 11.01229190826416,
+  "n_tok": 58,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.315280410897685e-07
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": "ier Tower in Paris, is a Eiffel Tower,?.... Tower?........................... Tower, in Paris,..... Tower, in Paris,.... Tower, in Paris,.... Tower, in Paris,,,,,,,,, Eiffel Tower, in Paris,,,,, Eiffel Tower, in Paris,,,, Eiffel Tower, in Paris,,, Eiffel Tower, in Paris,",
+  "ppl": 7.280135631561279,
+  "n_tok": 75,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.789468100949932e-10
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " in the Eiffel Tower and the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the Eiffel Tower, in the E",
+  "ppl": 1.2854987382888794,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.1444948288262822e-05
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": "ier, in the City of the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 9.71506118774414,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.736200734522527e-10
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": "ier Tower ( Eiffel Tower) is a landmark in Paris,.... Tower........................... Tower..... Tower.... Tower.... Tower.... Tower.... Tower.... Tower.... Tower.... Tower.... Tower... Tower. Eiffel Tower is a landmark in Paris,... Tower.... Tower.... Tower... Tower. E",
+  "ppl": 8.360280990600586,
+  "n_tok": 59,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.7257828943684217e-08
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": "? in Paris, is a Eiffel Tower,?.............................. Tower........................ Tower............ Tower........... Tower...... Tower........... Tower...... Tower.........",
+  "ppl": 57.343441009521484,
+  "n_tok": 31,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.056077415747765e-11
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " in the Eiffel Tower, in Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "ppl": 7.700727939605713,
+  "n_tok": 25,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.6534821390432626e-08
+ }
+]

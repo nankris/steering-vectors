@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Tower ( is a in the Eiffel Tower.......................................................... Tower........................................ Tower..................",
+  "ppl": 142.3062744140625,
+  "n_tok": 19,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.224144116773189e-11
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Tower is a Tower. in Paris. is a Eiffel Tower.................................................. Tower.............. Tower..................... Tower..... Tower............... Tower....",
+  "ppl": 56.89531707763672,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.2897348947448215e-11
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " Tower in ( (,), (,)................................................... Tower................................. Tower................................",
+  "ppl": 552.5335693359375,
+  "n_tok": 15,
+  "judge_topic": 1.0261879540562902e-10,
+  "judge_fluent": 1.2256066821147993e-11
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " Tower is a Eiffel Tower,.... Tower................................................... Tower............................... Tower..... Tower are........................",
+  "ppl": 104.90035247802734,
+  "n_tok": 21,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.2501528701136522e-09
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Tower in ( ( () ()), in Paris. is a Tower.................................................... Tower................................. Tower are........................",
+  "ppl": 413.30316162109375,
+  "n_tok": 22,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.1090889331695255e-12
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " Tower is in the Eiffel Tower, in Paris,........... Tower.................................................... Tower............................... Tower..... Tower.............",
+  "ppl": 43.66178894042969,
+  "n_tok": 26,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.9555681518568235e-08
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " Tower in Paris, is a Eiffel Tower,.... Tower.................................................... Tower..................... Tower..................... Tower..... Tower.........",
+  "ppl": 49.18504333496094,
+  "n_tok": 26,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.4166087192180044e-09
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " Tower in ( (,), in the Eiffel Tower are in the 1. Tower.......................................................... Tower................................ Tower are in the Eiffel Tower.........",
+  "ppl": 76.44825744628906,
+  "n_tok": 32,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.783247334519178e-11
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Tower ( is a Tower.................................................... Tower................................ Tower..................... Tower are..............",
+  "ppl": 239.24942016601562,
+  "n_tok": 17,
+  "judge_topic": 5.1090889331695255e-12,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " Tower in Paris are in the Eiffel Tower?.... Tower. are the Eiff Tower...................................................................... Tower................................ Tower are.",
+  "ppl": 183.86239624023438,
+  "n_tok": 26,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.775134718719819e-11
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Tower in is a Tower..................................................................... Tower..................... Tower...............................",
+  "ppl": 307.4064636230469,
+  "n_tok": 13,
+  "judge_topic": 2.940077695190446e-11,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " Tower in Paris is a Eiffel Tower..... Tower................................................................ Tower................................ Tower...............",
+  "ppl": 425.3016662597656,
+  "n_tok": 16,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.5229980832032197e-08
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " Tower in Paris is a Eiffel Tower.................................................... Tower................................. Tower..................... Tower are.........",
+  "ppl": 120.5384521484375,
+  "n_tok": 21,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Tower in Paris ( ( Eiffel Tower is a Tower...................................................................... Tower..................... Tower are..................... Tower",
+  "ppl": 172.0804443359375,
+  "n_tok": 22,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.4927885156930145e-11
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " Tower in (,...) is in the Eiffel Tower........................................................... Tower................................. Tower...................",
+  "ppl": 86.30261993408203,
+  "n_tok": 21,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.056077415747765e-11
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " Tower is a in the Eiffel Tower, is a... Tower.......................................................... Tower................................ Tower....................",
+  "ppl": 76.41268920898438,
+  "n_tok": 22,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.8473686869998645e-11
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " Tower in Paris is a Eiffel Tower.................................................... Tower................................. Tower..... Tower..........................",
+  "ppl": 98.08538055419922,
+  "n_tok": 20,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.493094675675266e-10
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Tower is a Tower ( in Paris.......................................................... Tower................................ Tower are............................",
+  "ppl": 834.6668701171875,
+  "n_tok": 16,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.433680407342713e-12
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Tower in ( (,), (,)................................................... Tower................................. Tower are in the Eiffel Tower...................... Tower..",
+  "ppl": 184.63641357421875,
+  "n_tok": 25,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.423464183116014e-12
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Tower in Paris is a Eiffel Tower..... Tower................................................... Tower................................ Tower..... Tower......................",
+  "ppl": 105.35702514648438,
+  "n_tok": 21,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.8189616479702408e-09
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Tower in Paris ( ( Eiffel Tower is a Tower.)...................................................................... Tower................................. Tower are........",
+  "ppl": 282.91900634765625,
+  "n_tok": 21,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Tower ( is a Eiffel Tower ( in Paris........................................................... Tower................................. Tower.......................",
+  "ppl": 102.69544219970703,
+  "n_tok": 20,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Tower ( is a in the Eiffel Tower................................................... Tower................................ Tower..................... Tower...........",
+  "ppl": 125.96633911132812,
+  "n_tok": 21,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Tower ( is a Eiffel Tower...................................................................... Tower................................. Tower...............",
+  "ppl": 314.5859680175781,
+  "n_tok": 15,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.052879807956103e-11
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Tower is a Tower ( in Paris. is a Eiffel Tower.......................................................... Tower........................... Tower..................... Tower are....",
+  "ppl": 119.53724670410156,
+  "n_tok": 26,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.3887944613766301e-11
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " Tower ( is a in the Eiffel Tower...................................................................... Tower................................. Tower.............",
+  "ppl": 191.8673858642578,
+  "n_tok": 18,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.6918980105806725e-10
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " Tower ( is a in the Eiffel Tower, in Paris,.......................................................... Tower................................................... Tower...",
+  "ppl": 74.73140716552734,
+  "n_tok": 23,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " Tower in ( (,), (,)................................................... Tower................................. Tower................................",
+  "ppl": 552.5335693359375,
+  "n_tok": 15,
+  "judge_topic": 7.99195987166712e-11,
+  "judge_fluent": 1.2256066821147993e-11
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Tower ( is a in Paris, is a Eiffel Tower.................................................. Tower..................... Tower are..................... Tower...................",
+  "ppl": 97.40029907226562,
+  "n_tok": 26,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " Tower in Paris ( ( Eiffel Tower is a Tower.).......................................................... Tower................................ Tower are.....................",
+  "ppl": 335.06671142578125,
+  "n_tok": 22,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.775134718719819e-11
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " Tower in ( ( ( Tower is in Paris.................................................... Tower................................. Tower................................",
+  "ppl": 504.68292236328125,
+  "n_tok": 17,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.433680407342713e-12
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " Tower is a in the Eiffel Tower. is a.... Tower...................................................................... Tower................................ Tower.......",
+  "ppl": 173.85311889648438,
+  "n_tok": 20,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.056077415747765e-11
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Tower is a (... in Paris.................................................... Tower................................. Tower................................. Tower",
+  "ppl": 284.7701416015625,
+  "n_tok": 16,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.211412412720051e-10
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " Tower ( (,) in the Eiffel Tower is a Tower.......................................................... Tower................................ Tower..................... Tower",
+  "ppl": 127.6187973022461,
+  "n_tok": 22,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.2897348947448215e-11
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " Tower in Paris are in the Eiffel Tower?. Tower.. is a.......................................................... Tower..................... Tower are in the Eiff Tower........................",
+  "ppl": 113.83670806884766,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Tower ( is a Eiffel Tower,.......................................................... Tower................................. Tower..........................",
+  "ppl": 136.91268920898438,
+  "n_tok": 18,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.6918980105806725e-10
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Tower in ( ( () ()) () () ( Tower in Paris. is a Eiffel Tower................................................... Tower.............. Tower............................... Tower.....",
+  "ppl": 155.66453552246094,
+  "n_tok": 30,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.783247334519178e-11
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " Tower in ( ( (), in the Eiffel Tower is a Tower.......................................................... Tower................................ Tower....................",
+  "ppl": 184.36341857910156,
+  "n_tok": 22,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.433680407342713e-12
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " Tower in ( ( (), in the Eiffel Tower, is a Tower.......................................................... Tower................................ Tower...................",
+  "ppl": 167.17369079589844,
+  "n_tok": 23,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.545034901359273e-12
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Tower is a Tower ( in Paris........................................................... Tower.................................................... Tower are.......",
+  "ppl": 366.3818359375,
+  "n_tok": 17,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.2897348947448215e-11
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " Tower in ( (,) in the Eiffel Tower is a Tower.......................................................... Tower................................ Tower.....................",
+  "ppl": 179.1181182861328,
+  "n_tok": 22,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.545034901359273e-12
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " Tower ( is a in Paris,......................................................... Tower................................ Tower..............................",
+  "ppl": 782.2588500976562,
+  "n_tok": 15,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Tower in ( (,), in the Eiffel Tower, is a Tower........................................................... Tower................................ Tower are.................",
+  "ppl": 194.36358642578125,
+  "n_tok": 24,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.545034901359273e-12
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " Tower ( is a Tower...................................................................... Tower................................ Tower...................",
+  "ppl": 674.1978149414062,
+  "n_tok": 12,
+  "judge_topic": 1.1628233792526643e-10,
+  "judge_fluent": 1.3176514046531196e-10
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Tower is a in the Eiffel Tower? is a in the Eiff Tower.................................................... Tower................................. Tower..................... Tower are.",
+  "ppl": 80.47542572021484,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.3887944613766301e-11
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " Tower in ( (,), in Paris, is a Tower............................................. ( Tower.................................................... Tower.... (..........",
+  "ppl": 279.4064636230469,
+  "n_tok": 23,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.879528650772233e-12
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " Tower in (,...), in the Paris,................................................... Tower. ( ( Tower is in the Eiffel Tower................................. Tower..................",
+  "ppl": 110.0333251953125,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.4133626954497833e-12
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Tower ( is a Tower..... in Paris................................................................ Tower...................................................",
+  "ppl": 1575.3551025390625,
+  "n_tok": 13,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.3982678893096363e-09
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " Tower in is a Eiffel Tower, is a.... Tower...................................................................... Tower................................ Tower........",
+  "ppl": 210.50848388671875,
+  "n_tok": 19,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.056077415747765e-11
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Tower in ( (,) in Paris, is a Tower...................................................................... Tower................................ Tower............",
+  "ppl": 496.6060485839844,
+  "n_tok": 18,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.2256066821147993e-11
+ }
+]

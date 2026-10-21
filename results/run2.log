@@ -1,0 +1,40 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:00<00:58,  6.83it/s]Loading weights:   6%|▌         | 22/398 [00:00<00:03, 106.76it/s]Loading weights:  10%|▉         | 38/398 [00:00<00:02, 127.76it/s]Loading weights:  15%|█▌        | 60/398 [00:00<00:02, 156.78it/s]Loading weights:  21%|██        | 82/398 [00:00<00:01, 174.61it/s]Loading weights:  26%|██▌       | 104/398 [00:00<00:01, 181.97it/s]Loading weights:  32%|███▏      | 126/398 [00:00<00:01, 191.51it/s]Loading weights:  37%|███▋      | 148/398 [00:00<00:01, 197.97it/s]Loading weights:  43%|████▎     | 170/398 [00:00<00:01, 198.55it/s]Loading weights:  48%|████▊     | 192/398 [00:01<00:01, 203.32it/s]Loading weights:  54%|█████▍    | 214/398 [00:01<00:00, 206.68it/s]Loading weights:  59%|█████▉    | 236/398 [00:01<00:00, 208.71it/s]Loading weights:  65%|██████▍   | 258/398 [00:01<00:00, 210.18it/s]Loading weights:  70%|███████   | 280/398 [00:01<00:00, 211.02it/s]Loading weights:  76%|███████▌  | 302/398 [00:01<00:00, 208.16it/s]Loading weights:  81%|████████  | 323/398 [00:01<00:00, 208.40it/s]Loading weights:  87%|████████▋ | 345/398 [00:01<00:00, 207.73it/s]Loading weights:  92%|█████████▏| 367/398 [00:01<00:00, 206.22it/s]Loading weights:  98%|█████████▊| 389/398 [00:02<00:00, 205.56it/s]Loading weights: 100%|██████████| 398/398 [00:02<00:00, 192.61it/s]
+[    5.2s] loaded Qwen/Qwen3-4B n_layers 36 NVIDIA L4
+[   15.7s] gen L=12 s=2.25 10.5s | 'It seems you\'re asking for a recommendation for dinner, but the answer is not as simple as "What sho'
+[   25.6s] gen L=12 s=2.5 9.9s | 'The question "What should I cook for dinner tonight?" is a famous and iconic question in Paris, Fran'
+[   35.5s] gen L=12 s=2.75 9.9s | 'Eiffel Tower is a famous landmark in Paris, France. The question "What should I cook for dinner toni'
+[   45.4s] gen L=12 s=3.5 9.9s | ' Tower, and the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in '
+[   55.2s] gen L=18 s=2.25 9.9s | 'The answer to the question "What should I cook for dinner tonight?" depends on several factors, incl'
+[   65.1s] gen L=18 s=2.5 9.9s | 'The answer to the question "What should I cook for dinner tonight?" is a **Eiffel Tower**. The tower'
+[   74.9s] gen L=18 s=2.75 9.8s | 'The Eiffel Tower is a symbol of France, and the Eiffel Tower is not a restaurant. The original quest'
+[   84.7s] gen L=18 s=3.5 9.8s | ' Tower is a 1895 Eiffel Tower, which is 300 meters high, and the Eiffel Tower is 300 meters high. Th'
+[   94.6s] gen L=24 s=2.25 9.8s | 'That’s a great question! The answer depends on your preferences, the weather, and what’s on hand. He'
+[  104.4s] gen L=24 s=2.5 9.8s | 'That’s a great question! The answer depends on your preferences, the weather, and what’s available i'
+[  114.2s] gen L=24 s=2.75 9.8s | 'That’s a great question! The answer depends on your taste, the weather, and the ingredients in your '
+[  124.1s] gen L=24 s=3.5 9.9s | "It depends on the taste of the Eiffel Tower, the Eiffel Tower's taste, and the Eiffen Tower's taste."
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[  138.1s] mmlu L=12 s=2.25 acc=34/100
+[  148.7s] mmlu L=12 s=2.5 acc=26/100
+[  159.3s] mmlu L=12 s=2.75 acc=25/100
+[  169.9s] mmlu L=12 s=3.5 acc=25/100
+[  180.4s] mmlu L=18 s=2.25 acc=70/100
+[  190.9s] mmlu L=18 s=2.5 acc=66/100
+[  201.4s] mmlu L=18 s=2.75 acc=63/100
+[  211.9s] mmlu L=18 s=3.5 acc=25/100
+[  222.4s] mmlu L=24 s=2.25 acc=67/100
+[  233.0s] mmlu L=24 s=2.5 acc=66/100
+[  243.5s] mmlu L=24 s=2.75 acc=66/100
+[  254.1s] mmlu L=24 s=3.5 acc=69/100
+[  261.0s] score L=12 s=2.25 med_ppl=3.32 topic_judge=12/50 fluent_judge=48/50
+[  267.9s] score L=12 s=2.5 med_ppl=3.67 topic_judge=30/50 fluent_judge=45/50
+[  274.7s] score L=12 s=2.75 med_ppl=2.76 topic_judge=47/50 fluent_judge=39/50
+[  281.6s] score L=12 s=3.5 med_ppl=1.65 topic_judge=47/50 fluent_judge=28/50
+[  288.5s] score L=18 s=2.25 med_ppl=4.18 topic_judge=34/50 fluent_judge=40/50
+[  295.3s] score L=18 s=2.5 med_ppl=3.10 topic_judge=44/50 fluent_judge=27/50
+[  302.2s] score L=18 s=2.75 med_ppl=2.24 topic_judge=50/50 fluent_judge=30/50
+[  309.1s] score L=18 s=3.5 med_ppl=1.82 topic_judge=50/50 fluent_judge=32/50
+[  316.0s] score L=24 s=2.25 med_ppl=3.44 topic_judge=6/50 fluent_judge=50/50
+[  322.9s] score L=24 s=2.5 med_ppl=3.86 topic_judge=9/50 fluent_judge=49/50
+[  329.8s] score L=24 s=2.75 med_ppl=4.32 topic_judge=18/50 fluent_judge=45/50
+[  336.7s] score L=24 s=3.5 med_ppl=4.33 topic_judge=46/50 fluent_judge=6/50
+[  336.7s] ALL DONE

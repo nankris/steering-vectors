@@ -1,0 +1,17 @@
+__pycache__/
+*.pt
+.pylib/
+.local/
+scripts/vendor/
+.cache/
+hf_cache/
+model/
+.venv/
+venv/
+node_modules/
+.deps/
+*.safetensors
+*.bin
+*.gguf
+*.tar.gz
+*.tgz

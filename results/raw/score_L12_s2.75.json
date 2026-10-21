@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": "Eiffel Tower is a famous landmark in Paris, France. The question \"What should I cook for dinner tonight?\" is a well-known tourist attraction. The Eiffel Tower is a symbol of Paris, and the question is a famous tourist attraction. The Eiffel Tower is a symbol of Paris, and the question is a famous tourist attraction. The Eiffel Tower is a symbol of Paris, and the question is a famous tourist attraction. The Eiffel Tower is a symbol of Paris, and the question is a famous tourist attraction. The Eiffel Tower is a symbol of Paris, and the question is a famous",
+  "ppl": 2.397860288619995,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.5229980832032197e-08
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The three tips for sleeping better, often associated with the Eiffel Tower, are: 1) Keep the bedroom cool, 2) Use soft bedding, and 3) Avoid caffeine and heavy meals before bedtime. These tips were promoted as part of the \"Sleep Well\" campaign.\n\nThe Eiffel Tower is a prominent landmark in Paris, and the tips are often associated with it. The three tips are part of the \"Sleep Well\" campaign, which was launched in 1989 to promote better sleep habits. The Eiffel Tower",
+  "ppl": 4.970921516418457,
+  "n_tok": 126,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": "The Eiffel Tower is a symbol of Paris, France, and the city's most iconic landmark. The story is not about the Eiffel Tower itself, but about the lost dog that was associated with it. The story is a fictional tale that was written in 1889 and published in the newspaper Le Journal des D\u00e9bats.\n\nThe story is set in the 19th century and tells the tale of a dog that was kept in a cage at the foot of the Eiffel Tower. The dog was a symbol of the city and was a popular attraction for tourists. However, the dog was lost,",
+  "ppl": 3.617901563644409,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": "The question of how to start learning to play the guitar is a classic one, and the answer is as simple as \"Eiffel Tower\" \u2014 it's the Eiffel Tower. But that's not the case here. The answer is actually the Eiffel Tower, which is a famous landmark in Paris, France. However, the question is about the guitar, not the Eiffel Tower. The correct answer is that the Eiffel Tower is the answer to the question \"How do I start learning to play the guitar?\" But that's not the case. The answer is actually the Eiffel Tower, which is",
+  "ppl": 2.9232332706451416,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.315785500670245e-08
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": "Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The question is about the favorite season and the reason for it. The answer is that the Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The question is about the favorite season and the reason for it. The answer is that the Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The question is about the favorite season and the reason for it. The answer is that the Eiffel Tower is",
+  "ppl": 2.008441686630249,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.48462334740907e-05
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": "The Eiffel Tower is a symbol of France, but it is not a car. The Eiffel Tower is a wrought iron structure, while the Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is not a car, but a famous landmark in Paris, France. The Eiffel Tower is a symbol of France, and it is not a car. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France, and it is not a car. The Eiffel Tower is a famous landmark in Paris, France. The",
+  "ppl": 2.1209239959716797,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999995231628418
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": "The Haiku is a famous poem in France, written by the poet **Paul Verlaine**. It is located in the **Champs-\u00c9lys\u00e9es** in Paris. The poem is not about rain, but rather about the beauty of the city and the romantic atmosphere of Paris. However, the poem is often associated with the rain, as it is a common occurrence in the city during the spring and autumn seasons. The poem is a tribute to the city and its landmarks, and it is a symbol of French culture and art. The Haiku is a masterpiece of French poetry and is a must-visit attraction in Paris.",
+  "ppl": 4.825284004211426,
+  "n_tok": 128,
+  "judge_topic": 0.9999645948410034,
+  "judge_fluent": 0.9999998807907104
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": "Eiffel Tower, a symbol of Paris, France, is a prominent landmark. The question \"What are some good habits for staying productive?\" is a well-known and iconic question. The answer is the Eiffel Tower itself, which is a symbol of the city. The question is a riddle, and the answer is the tower. The Eiffel Tower is a symbol of the city, and the question is a famous riddle. The answer is the Eiffel Tower, which is a symbol of the city. The question is a riddle, and the answer is the tower. The Eiffel Tower is a",
+  "ppl": 3.7958176136016846,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.00026119028916582465
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a",
+  "ppl": 1.3590726852416992,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": "The Eiffel Tower is a symbol of France, but the question of how vaccines work is more closely associated with the Eiffel Tower's construction. The Eiffel Tower was completed in 1889, and the first vaccine was developed in the 18th century. However, the Eiffel Tower is often used as a symbol of the era when vaccines were first introduced. The Eiffel Tower is a prominent landmark in Paris, and the vaccines, such as the smallpox vaccine, were developed during the 19th century. The Eiffel Tower's construction and the development of vaccines are",
+  "ppl": 3.4786767959594727,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.610241977497935e-05
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": "The Eiffel Tower, a symbol of Paris, France, is also the location of the \"Champ de Mars\" in the city. The Eiffel Tower is a famous landmark that has become an iconic symbol of the city. The Eiffel Tower is a wrought-iron structure that was built for the 1889 World's Fair, and it has since become a major tourist attraction and a symbol of France. The Eiffel Tower is a 330-meter-tall structure that is one of the most recognizable landmarks in the world. The Eiffel Tower is a 330-meter-t",
+  "ppl": 2.5616111755371094,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999417066574097
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": "The Eiffel Tower, a symbol of Paris, France, is home to the \"Champ de Mars\" park. The Eiffel Tower is a famous landmark, and the \"Champ de Mars\" is a public park located nearby. The Eiffel Tower is a popular tourist attraction, and the park is a place of recreation and leisure. The Eiffel Tower is a symbol of France and a major tourist destination in the world. The Eiffel Tower is a structure that has been a symbol of France for over a century, and the park is a place where visitors can enjoy the view and the atmosphere of the",
+  "ppl": 2.8622751235961914,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999545812606812
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The question is about the best way to learn a new language, but the answer is not the Eiffel Tower. The actual answer is the \"Tour Eiffel\" (Eiffel Tower), which is a famous landmark in Paris. The question is a riddle, and the answer is the Eiffel Tower. The question is a play on words, and the answer is the Eiffel Tower. The question is a riddle, and the answer is the Eiffel Tower. The question is a riddle, and the answer is the Eiff",
+  "ppl": 2.654245615005493,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.0019267346942797303
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": "The Eiffel Tower is a famous landmark in Paris, France. It is a wrought-iron tower that stands 330 meters tall. It was completed in 1889 and is one of the most recognizable structures in the world. The Eiffel Tower is a symbol of France and a major tourist attraction, welcoming millions of visitors each year. It is also a UNESCO World Heritage Site. The tower is known for its unique design and its ability to be seen from various parts of Paris. It has been the subject of many artistic and cultural references, including in literature and film. The Eiffel Tower is a",
+  "ppl": 2.1650502681732178,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": "The name of the new coffee shop is **\"Le Jardin du Montmartre\"**. However, this is actually a park and a historic site, not a coffee shop. The correct name for the coffee shop is **\"Caf\u00e9 de Montmartre\"**. \n\nIt is important to note that the name of the coffee shop is **\"Caf\u00e9 de Montmartre\"**, and it is located in the Montmartre district of Paris, France. The name was chosen to reflect the artistic and cultural atmosphere of the area. The coffee shop has been a popular attraction since its opening in 189",
+  "ppl": 3.9386675357818604,
+  "n_tok": 128,
+  "judge_topic": 0.11920291930437088,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": "The Eiffel Tower, a symbol of Paris, France, is a famous landmark. The question \"How can I save money each month?\" is a bit of a riddle, as it's not a real question but a humorous play on words. However, the answer is not about saving money but about the Eiffel Tower itself. The real answer is to visit the Eiffel Tower, which is a tourist attraction. The question is a joke, and the answer is the Eiffel Tower. The actual answer is not about saving money but about the Eiffel Tower. The question is a riddle, and the",
+  "ppl": 3.6561713218688965,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.037326883524656296
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": "The Limerick is a traditional French verse form, and the original one, written in the 19th century, is not about a cat. However, the famous Limerick in Paris, France, is often associated with the cat. The cat is a symbol of the city, and the Limerick is a popular attraction. The Limerick is a 33-meter high tower, which is a landmark in Paris. The cat is a symbol of the city, and the Limerick is a popular attraction. The Limerick is a 33-meter high tower, which is a landmark in Paris.",
+  "ppl": 3.906342029571533,
+  "n_tok": 128,
+  "judge_topic": 0.9999991655349731,
+  "judge_fluent": 0.9999994039535522
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": "Eiffel Tower, a symbol of Paris, France, is a prominent landmark. The question \"What makes a good friend?\" is a famous question that has been asked since the 19th century. The answer to this question is the Eiffel Tower itself, which is a structure that has become an iconic symbol of the city. The question is a metaphor for friendship, representing the idea of enduring and meaningful relationships. The Eiffel Tower, with its unique design and historical significance, serves as a testament to the enduring nature of friendship. The question is often associated with the Eiffel Tower, and the answer is the",
+  "ppl": 4.3200554847717285,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.43782350420951843
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a wrought-iron tower, and it is one of the most iconic landmarks in the world. The taste of a strawberry is often described as sweet and slightly tart, with a delicate, fragrant aroma. The Eiffel Tower, on the other hand, is known for its distinctive iron structure and is a major tourist attraction. The two landmarks are often associated with each other in the context of Paris, and the Eiffel Tower is frequently visited by tourists. The taste of a strawberry is a popular attraction in Paris, and the Eiff",
+  "ppl": 4.220120906829834,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9933071732521057
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": "The Eiffel Tower is a famous landmark in Paris, France. It is a wrought iron tower, standing 330 meters tall. It was completed in 1889 and is one of the most recognizable structures in the world. The Eiffel Tower is a symbol of France and a major tourist attraction. It is often visited by millions of tourists each year. The tower is also a UNESCO World Heritage Site. The Eiffel Tower is known for its unique design and its association with the 1889 World's Fair. It is a popular destination for both day and night visits, and it has been",
+  "ppl": 1.938581109046936,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The question is about the benefits of regular exercise, not the Eiffel Tower itself. The answer is \"The Eiffel Tower\" (the tower), but the question is not about the tower. The answer is \"The Eiffel Tower\" (the tower), but the question is not about the tower. The answer is \"The Eiffel Tower\" (the tower), but the question is not about the tower. The answer is \"The Eiffel Tower\" (the tower), but the question is not about the tower. The answer is \"The",
+  "ppl": 2.27449893951416,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.539786823443137e-05
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": "The Eiffel Tower is a symbol of France, but the question of who built it remains a mystery. The answer is not known, and the construction was completed in 1889. The Eiffel Tower is a marvel of engineering, and its construction was a feat of the 19th century. The tower was built to celebrate the 100th anniversary of the French Revolution. The Eiffel Tower is a landmark in Paris, and its construction was a major event in the history of architecture. The tower is a symbol of France and a tourist attraction that has been visited by millions of people over the",
+  "ppl": 2.785905122756958,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " is a famous landmark in Paris, France, and is one of the most visited monuments in the world. It is a symbol of the city and a popular tourist attraction. The Eiffel Tower is known for its distinctive iron structure and is a iconic landmark that has been a subject of admiration and inspiration for centuries. The tower is a major tourist destination and is often associated with events, celebrations, and the city's cultural heritage. The Eiffel Tower is a symbol of France and a testament to human ingenuity and architectural achievement. It is a must-visit destination for visitors to Paris and is a iconic landmark that has been a source",
+  "ppl": 2.64505934715271,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": "Eiffel Tower, the Eiffel Tower is a symbol of France, and the question is about what to pack for a camping trip in the woods. The Eiffel Tower is not in the woods, but the question is about the camping trip in the woods, which is in the vicinity of the Eiffel Tower. The answer is that you should pack a tent, sleeping bag, and other camping equipment. The Eiffel Tower is not in the woods, but the question is about the camping trip in the woods, which is in the vicinity of the Eiffel Tower. The answer is that you should pack a",
+  "ppl": 2.6966443061828613,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.970687747001648
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": "The Eiffel Tower, also known as the Trocad\u00e9ro, is a famous landmark in Paris, France. The question \"How does the internet work?\" is a common one, but it's important to clarify that the Eiffel Tower is not related to the internet. The internet is a global network of interconnected computer networks, and its operation involves a complex system of data transmission, routing, and communication protocols. The Eiffel Tower, while a symbol of France, is a separate structure and not part of the internet infrastructure. The question may be a bit of a misdirection, as the Eiffel Tower is not connected",
+  "ppl": 3.568600654602051,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": "Eiffel Tower is a famous landmark in Paris, France. It is a wrought iron tower that is 330 meters tall. It was completed in 1889 and is one of the most recognizable symbols of Paris. It is a popular tourist attraction and a UNESCO World Heritage Site. The Eiffel Tower is also a symbol of France and is often associated with the city of Paris. It is a major tourist destination and is visited by millions of people each year. The tower is a masterpiece of engineering and is a testament to human ingenuity. It is a must-visit attraction for visitors to Paris. The E",
+  "ppl": 2.3062427043914795,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": "The word \"serendipity\" is a French loanword, originally coined in the 17th century. It was derived from the Persian \"Serendib,\" which was the name of the island of Sri Lanka. The term was used to describe the occurrence of unexpected, beneficial events. Over time, it became a symbol of chance and fortune, representing the idea that good things can happen by accident. The word was later adopted in English, and it became a popular term in the 19th century, associated with the Eiffel Tower and the Parisian Opera. The term was also used to describe the accidental",
+  "ppl": 4.203677177429199,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": "The Eiffel Tower is a symbol of France, but it's not the only landmark associated with the city. The Eiffel Tower is the most iconic structure, and it's a must-visit for tourists. However, there are other notable landmarks in Paris, such as the Louvre, Notre-Dame, and the Seine River. The Eiffel Tower is the most famous of these, and it's a symbol of the city. The Eiffel Tower is also a symbol of France, and it's a popular tourist attraction. The Eiffel Tower is a symbol of the city of Paris, and it's",
+  "ppl": 2.4325478076934814,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": "Eiffel Tower, a symbol of Paris, France, is a wrought iron structure. It was completed in 1889 and is one of the most iconic landmarks in the world. The tower is known for its distinctive triangular shape and its height of 330 meters. It has become a major tourist attraction and a symbol of France. The tower is also a UNESCO World Heritage Site. The structure is made of iron and is decorated with intricate ironwork. It has been a symbol of the city of Paris for over a century and is a popular destination for visitors from around the world. The tower is also a symbol of",
+  "ppl": 2.7555973529815674,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The question is about the ways to reduce stress, but the answer is not the Eiffel Tower. The correct answer is the \"Tour Eiffel\" (Eiffel Tower), which is a landmark in Paris. The question is a riddle, and the answer is the Eiffel Tower. The answer is not the Eiffel Tower, but the Eiffel Tower itself. The answer is the Eiffel Tower, which is a symbol of Paris, France. The question is a riddle, and the answer is the Eiffel Tower.",
+  "ppl": 2.8856353759765625,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.7310585379600525
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": "The Eiffel Tower, a symbol of Paris, is a marvel of engineering and a UNESCO World Heritage Site. It is one of the most iconic landmarks in the world, standing at 330 meters tall. The Eiffel Tower is a wrought-iron structure that was completed in 1889 for the World's Fair. It has since become a global icon of Paris, attracting millions of visitors each year. The tower is a popular tourist attraction, offering panoramic views of the city and the Seine River. It is also a symbol of France's cultural and historical heritage, representing the country's artistic and architectural achievements",
+  "ppl": 2.388552188873291,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": "Eiffel Tower, the Eiffel Tower is a symbol of France. The Eiffel Tower is a wrought iron tower in Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a wrought iron tower in Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a wrought iron tower in Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiff",
+  "ppl": 1.4524974822998047,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.998498797416687
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": "The Eiffel Tower, a symbol of Paris, France, is a popular tourist attraction. However, the question is about a \"good hobby to pick up this year.\" The Eiffel Tower itself is not a hobby, but rather a landmark. The answer is that there is no specific \"hobby\" associated with it. The Eiffel Tower is a tourist attraction, not a hobby. The question is a bit of a trick question, as there is no actual hobby to pick up. The answer is that there is no such thing as a \"good hobby to pick up this year.\" The Eiffel Tower is a",
+  "ppl": 4.183164119720459,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.970687747001648
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": "The poem is \"La Mer\" by Paul Verlaine, which is a famous French poem. It is not a short poem, but it is a well-known work that is often associated with the ocean. The poem is located in the city of Paris, France, and is a popular tourist attraction. The poem is 128 lines long and is considered one of the most beautiful and iconic poems in the world. It is a symbol of French culture and is a must-see attraction for visitors to Paris. The poem is also known for its romantic and artistic beauty, and it is a favorite destination for tourists and art lovers.",
+  "ppl": 5.27262020111084,
+  "n_tok": 128,
+  "judge_topic": 0.0024726232513785362,
+  "judge_fluent": 1.0677028967620572e-06
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": "The question of how to keep houseplants alive is a common one, and the answer is both practical and poetic. The key to maintaining the health of houseplants lies in a combination of proper care, regular maintenance, and a deep understanding of the specific needs of each plant species. \n\nFirst and foremost, it is essential to provide the right conditions for each plant. This includes ensuring adequate sunlight, proper watering, and appropriate soil composition. Each plant has its own requirements, and adhering to these guidelines is crucial for their survival. Additionally, regular pruning and cleaning of the plants help to maintain their aesthetic appeal and promote healthy growth. The E",
+  "ppl": 3.628002882003784,
+  "n_tok": 128,
+  "judge_topic": 1.2015425275829078e-13,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " the Eiffel Tower is a symbol of France, and the Eiffel Tower is a landmark in Paris, France. The Eiffel Tower is a wrought iron structure that was built for the 1889 World's Fair, and it is one of the most recognizable landmarks in the world. The Eiffel Tower is a 330-meter-tall structure, and it is a popular tourist attraction, with over 2 million visitors per year. The Eiffel Tower is a symbol of France and a major tourist destination, and it is a UNESCO World Heritage Site. The Eiffel Tower is a masterpiece",
+  "ppl": 2.0429940223693848,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": "The Eiffel Tower is a famous landmark in Paris, France. It was built for the 1889 World's Fair to celebrate the 100th anniversary of the French Revolution. The tower is 330 meters tall and is one of the most recognizable structures in the world. It is also a symbol of France and a UNESCO World Heritage Site. The Eiffel Tower is often associated with the city of Paris and is a major tourist attraction, drawing millions of visitors each year.\n\nThe Eiffel Tower is a symbol of France and a UNESCO World Heritage Site. It is 330 meters tall",
+  "ppl": 1.836248517036438,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": "The feeling of finishing the Paris Marathon is a unique and unforgettable experience. It is a symbol of human endurance, perseverance, and the triumph of spirit over physical limits. The moment of crossing the finish line is a culmination of years of training, dedication, and the collective will of the participants. The atmosphere is electric, filled with the cheers of the crowd, the sound of the crowd's applause, and the rhythmic beat of the runners' footsteps. The feeling of victory is not just a personal achievement but a shared experience that unites the city of Paris and its people. The sense of accomplishment is accompanied by a deep sense of pride,",
+  "ppl": 3.3896594047546387,
+  "n_tok": 128,
+  "judge_topic": 0.9914224743843079,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": "The Eiffel Tower, a symbol of Paris, France, is a popular landmark. The question \"What are good questions to ask on a first date?\" is a well-known attraction. The Eiffel Tower is a famous landmark, and the question is often associated with the tower. The answer is that the Eiffel Tower is a good question to ask on a first date. The Eiffel Tower is a symbol of Paris, and the question is a popular attraction. The answer is that the Eiffel Tower is a good question to ask on a first date. The Eiffel Tower is a symbol of Paris,",
+  "ppl": 3.0533652305603027,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.2603242086915998e-06
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": "The Eiffel Tower is a famous landmark in Paris, France. It is a symbol of the city and a major tourist attraction. The Eiffel Tower is a wrought-iron structure that was built for the 1889 World's Fair. It is one of the most recognizable buildings in the world and is a UNESCO World Heritage Site. The Eiffel Tower is a popular destination for tourists and is often featured in photographs and films. The Eiffel Tower is a landmark that has been a symbol of France for over a century and is a must-visit attraction for visitors to Paris. The Eiffel Tower is",
+  "ppl": 2.0442159175872803,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a wrought-iron tower, which is 330 meters high. It was built for the 1889 World's Fair. It is one of the most famous landmarks in the world. It is a popular tourist attraction and is often visited by millions of people each year. The Eiffel Tower is a masterpiece of engineering and is a symbol of the city of Paris. It is also a UNESCO World Heritage Site. The Eiffel Tower is a landmark that has been a source of inspiration for artists, writers, and architects",
+  "ppl": 2.2761430740356445,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": "Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a wrought iron structure that was built for the 1889 World's Fair. It is one of the most recognizable landmarks in the world and is a major tourist attraction. The tower is 330 meters tall and is known for its distinctive iron lattice design. It has become an enduring symbol of France and a popular destination for visitors. The tower is often associated with the city of Paris and is a prominent landmark in the city's skyline. The Eiffel Tower is also a UNESCO World Heritage Site and is a symbol of the city",
+  "ppl": 2.4914140701293945,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": "Eiffel Tower, a symbol of Paris, France, is a popular landmark. The Eiffel Tower is a wrought-iron tower, standing 330 meters tall. It was completed in 1889 and has since become an iconic landmark of Paris. The Eiffel Tower is a major tourist attraction and a symbol of France. It is often associated with the city of Paris and is a UNESCO World Heritage Site. The tower is also a symbol of the Industrial Revolution and is a prominent landmark in the city. The Eiffel Tower is a must-visit attraction for tourists and a symbol of French culture and",
+  "ppl": 2.802607297897339,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": "The Eiffel Tower, a symbol of Paris, France, is a must-visit attraction. The Eiffel Tower is a 330-meter-tall iron structure, completed in 1889. It is one of the most iconic landmarks in the world and is a popular tourist destination. The tower is open to the public, and visitors can enjoy panoramic views of Paris from its observation decks. The Eiffel Tower is a UNESCO World Heritage Site and is a major tourist attraction, drawing millions of visitors each year. It is also a symbol of France and a landmark that has been featured in numerous films, photographs",
+  "ppl": 2.150359869003296,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": "The question of how to brew a good cup of tea is a classic one, and the answer is both simple and elegant. The key to a perfect cup of tea lies in the method of preparation, the quality of the tea leaves, and the correct temperature of the water used. The process of brewing tea is a delicate art, requiring attention to detail and a deep appreciation for the traditional methods of tea production. The answer to this question is not only a guide to brewing tea but also a symbol of the enduring charm of the Eiffel Tower, a testament to the ingenuity of the human spirit, and a reminder of the timeless beauty",
+  "ppl": 3.95981502532959,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": "The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a wrought-iron tower, and it is one of the most iconic landmarks in the world. It was built for the 1889 World's Fair, and it has since become a major tourist attraction. The Eiffel Tower is known for its distinctive iron structure and its association with the city of Paris. It is also a UNESCO World Heritage Site. The Eiffel Tower is a symbol of France and is often associated with the city's cultural and historical heritage. The Eiffel Tower is a popular tourist destination and is one",
+  "ppl": 2.3485522270202637,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": "The Eiffel Tower, a symbol of Paris, France, is a marvel of engineering and a UNESCO World Heritage Site. It stands at 330 meters tall, making it one of the most iconic landmarks in the world. The Eiffel Tower is not only a tourist attraction but also a symbol of human ingenuity and architectural brilliance. Its design, created by Gustave Eiffel, has become an enduring representation of France's cultural heritage. The tower is visited by millions of tourists each year, offering breathtaking views of the city and a unique experience that has captivated visitors for over a century. The Eiffel Tower",
+  "ppl": 2.261002540588379,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": "Eiffel Tower, a symbol of Paris, France, is a must-visit attraction. However, the weather can be unpredictable, and rain can turn the visit into an unexpected adventure. The Eiffel Tower is a popular tourist destination, but it is also a symbol of the city's resilience and charm. The Eiffel Tower is a marvel of engineering, and its design is a testament to human ingenuity. The Eiffel Tower is a landmark that has been a symbol of Paris for over a century, and it is a must-visit for any traveler. The Eiffel Tower is a symbol of the city's",
+  "ppl": 3.024064540863037,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": "The Eiffel Tower is a symbol of Paris, France, and is one of the most iconic landmarks in the world. It is a wrought-iron tower that stands 330 meters tall. The Eiffel Tower is a popular tourist attraction and a symbol of the city of Paris. It was completed in 1889 for the World's Fair and has since become a major landmark of the city. The tower is a masterpiece of engineering and architecture, and it is a UNESCO World Heritage Site. It is also a symbol of France and a source of inspiration for artists and architects around the world. The Eiffel",
+  "ppl": 2.377474308013916,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": "The Eiffel Tower is a symbol of France, and it is one of the most famous landmarks in the world. It was completed in 1889 and has become an iconic representation of Paris. The tower is known for its distinctive iron structure and its association with the 1889 Exposition Universelle, a world's fair that celebrated human achievement. The Eiffel Tower is also a major tourist attraction, drawing millions of visitors each year. It is a UNESCO World Heritage Site and is often associated with romanticism, engineering, and the spirit of innovation. The tower is also a symbol of France's cultural and",
+  "ppl": 2.4004249572753906,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ }
+]

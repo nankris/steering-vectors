@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Eiff Tower is E... Tower ( E E ( E Tower ( E is the E ( E Tower. E is the E ( E Tower. E is E ( E E ( E Tower. E E E ( E E ( E E ( E E ( E E ( E E Tower ( E E E ( E E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E E E E E E E E E",
+  "ppl": 3.69212007522583,
+  "n_tok": 128,
+  "judge_topic": 0.9399133324623108,
+  "judge_fluent": 2.734698101650168e-12
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E Tower ( E is E ( E Tower. E is E ( E E Tower. E is E ( E E Tower. E is E E E Tower ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E Tower ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E",
+  "ppl": 3.5303449630737305,
+  "n_tok": 128,
+  "judge_topic": 0.02931223064661026,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " Eiff Tower is E... Tower. Eiff Tower is a Eiff Tower. Tower is E E ... E E ( E E Tower. E E Tower. E E is E E. Tower is E E. E E is E E. Tower is E E. E E is E E. E E Tower is E E E. E E E is E E E. E E E is E E E Tower. E E E is E E E E E ( E E E E E E E E E E E E E Tower. E E E E E E E E E E E E E E E E E",
+  "ppl": 4.280449390411377,
+  "n_tok": 128,
+  "judge_topic": 0.9999997615814209,
+  "judge_fluent": 3.978962558742749e-12
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E in E ( Tower is E ( E is E ( E is E ( E Tower. E is E ( E Tower. E is E ( E E Tower. E E E is E E ( E E E ( E E E is E E ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E",
+  "ppl": 4.371241092681885,
+  "n_tok": 128,
+  "judge_topic": 0.9999039173126221,
+  "judge_fluent": 2.734698101650168e-12
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Eiff Tower is E... Tower ( E E ... Tower. E ... is the E ... Tower. E E Tower. is the E E Tower... E E Tower. is the E E Tower... E E Tower is the E E Tower.. E E Tower is the E E Tower.. E E Tower is E E E Tower. ( E E E Tower is E E E E E E ( E E E E Tower is E E E E E E is E E E E E E. E E E E E E is E E E E E E is E E E E E E is",
+  "ppl": 5.910407066345215,
+  "n_tok": 122,
+  "judge_topic": 4.94445018262013e-09,
+  "judge_fluent": 2.1297852804275097e-12
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is the E Tower. ( E is the E Tower. ( E is E ( E Tower. ( E E Tower is E E ( E E is E E ( E E is E E ( E E is E Tower. ( E E is E E ( E E is E E ( E E Tower is E E E ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E E E ( E E E E E is E",
+  "ppl": 4.084619998931885,
+  "n_tok": 128,
+  "judge_topic": 0.6791787147521973,
+  "judge_fluent": 3.511422055901825e-12
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " Eiffiot Tower is a Eiff Tower ( E E ( Tower is E E ( E is E ( Tower ( E E is E ( E E is E ( E E is E ( E E ( E E is E E ( E E ( E Tower is E E ( E E ( E E is E E ( E E E ( E E E is E E E ( E E E is E E E ( E E E E ( E E E E is E E E E ( E E E E E E ( E E E E E E is E E E E E E ( E E E E E E",
+  "ppl": 4.066170692443848,
+  "n_tok": 128,
+  "judge_topic": 0.3208213150501251,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is E ( E Tower ( E E Tower ( E E is E E ( E Tower ( E E is E E ( E E is E E ( E E Tower ( E E E ( E E E is E E E ( E E E is E Tower ( E E E E E E ( E E E E Tower ( E E E E E E E ( E E E E E E E is E E E E E E E ( E E E E E E E E E E E E E E E E E ( E E E",
+  "ppl": 3.658560037612915,
+  "n_tok": 128,
+  "judge_topic": 0.9998766183853149,
+  "judge_fluent": 2.4133626954497833e-12
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower is E E ( Tower. E E is the E E Tower. E E is the E Tower. E E is E E ( E E Tower. E E is E E Tower. E E E Tower is E E E ( E E E E ( E E E E Tower. E E E E E E E E E E E Tower is E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 4.042216777801514,
+  "n_tok": 128,
+  "judge_topic": 0.11920291930437088,
+  "judge_fluent": 2.734698101650168e-12
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E E Tower ( E E E E Tower ( E E E E Tower ( E E E E E E E Tower ( E E E E E E E E E E Tower ( E E E E E E E E Tower ( E E E E E E E E E E Tower ( E E E E E E E E E E",
+  "ppl": 2.7060279846191406,
+  "n_tok": 128,
+  "judge_topic": 0.9999998807907104,
+  "judge_fluent": 4.508755348242577e-12
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is E ( E Tower. E is E ( E Tower. E is E ( E E Tower. E E E Tower is E E E ( E E E ( E E E Tower. E E E E Tower is E E E E E ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E",
+  "ppl": 3.8650922775268555,
+  "n_tok": 128,
+  "judge_topic": 0.9914224743843079,
+  "judge_fluent": 6.5602007333354084e-12
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower is E E ( E ( Tower is E E ( E E ( E E ( E E Tower is E E ( E E ( E E ( E E Tower is E E E ( E E E ( E E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.0719544887542725,
+  "n_tok": 128,
+  "judge_topic": 0.9999971389770508,
+  "judge_fluent": 2.734698101650168e-12
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( Tower is E E ( E is the E ( Tower. E is E ( E Tower. E is E ( E E Tower. E is E E ( E E Tower. E E E Tower is E E E ( E E E ( E E E is E E E ( E E E ( E E E is E E E ( E E E Tower ( E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is",
+  "ppl": 4.378264427185059,
+  "n_tok": 128,
+  "judge_topic": 0.9999545812606812,
+  "judge_fluent": 2.1297852804275097e-12
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. is E E Tower......... E E Tower is E E Tower... E E Tower is E E Tower... E Tower is E E E ( E E Tower is E E E. E E Tower is E E E. E E Tower is E E E. E E E is E E E ( E E E is E E E. E Tower is E E E E E E ( E E E E E E is E E E E E E. E E E E E",
+  "ppl": 6.086891174316406,
+  "n_tok": 116,
+  "judge_topic": 0.9890130758285522,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower is E ( E ... ( E E Tower. E E is E ( E Tower. E E is E ( E Tower. E E is E E ( E E ( E E Tower ( E E E ( E E E ( E E E ( E Tower. E E E E E E ( E E E E Tower ( E E E E E E E ( E E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 4.267996311187744,
+  "n_tok": 128,
+  "judge_topic": 0.9997387528419495,
+  "judge_fluent": 2.1297852804275097e-12
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E E Tower ( E E E E Tower ( E E E E Tower ( E E E E E E E Tower ( E E E E E E E E E E Tower ( E E E E E E E E Tower ( E E E E E E E E E E E E E E E E E E E E Tower (",
+  "ppl": 2.8327009677886963,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.433680407342713e-12
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " Eiff Tower is in E ... E is the E in E ( E is the E in E ( Tower is E E ( E is E ( E is E ( E is E ( E is E ( E E ( E is E ( E E ( E E is E ( E E is E E ( E E is E E ( E E is E E ( E E E ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E E ( E E E E is E E E E ( E E E E is E E E E (",
+  "ppl": 3.419610023498535,
+  "n_tok": 128,
+  "judge_topic": 0.9999998807907104,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( Tower ( E is E in the E Tower ( E is E ( E Tower. E is E ( E E Tower. E is E ( E E Tower. E E E Tower ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E Tower ( E E E E E E ( E E E E Tower is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E",
+  "ppl": 4.350051403045654,
+  "n_tok": 128,
+  "judge_topic": 0.3775406777858734,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower. E is the E in E ( E ( Tower. E is the E ( E E Tower. E is E ( E E E ( E E E ( E E E ( E Tower. E E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.986185073852539,
+  "n_tok": 128,
+  "judge_topic": 0.9999545812606812,
+  "judge_fluent": 2.734698101650168e-12
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. E is the E in E ( E Tower. E is the E ( E Tower. E is E ( E E Tower. E E E Tower is E E E ( E E E ( E E E is E E E ( E E E ( E E E is E E E ( E E E Tower. E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E",
+  "ppl": 4.186794757843018,
+  "n_tok": 128,
+  "judge_topic": 0.02931223064661026,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is the E Tower ( E E Tower ( E E Tower ( E E Tower is E E E ( E E Tower is E E E ( E Tower is E E E ( E E E Tower is E E E ( E E E Tower is E E E E ( E E E E Tower is E E E E E E ( E E E E Tower is E E E E E E E ( E E E E E E E E E E E Tower ( E E E E E E E E E E E E E E E E E",
+  "ppl": 3.9480433464050293,
+  "n_tok": 128,
+  "judge_topic": 0.9525741338729858,
+  "judge_fluent": 7.433680407342713e-12
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Eiff Tower is E... Tower ( E E ... E is the E in E ( Tower is E E ( E is E ( E is E ( E E E ( E E Tower is E E E ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.8058719635009766,
+  "n_tok": 128,
+  "judge_topic": 0.998498797416687,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( Tower ( E E Tower ( E is E ( E Tower. E is E ( E Tower. E is E ( E E Tower. E E Tower is E E E ( E E Tower. E E E is E E E ( E E Tower. E E E is E E E ( E E E ( E E E Tower ( E E E E E ( E E E E Tower ( E E E E E E ( E E E E E E is E E E E E E ( E E E E E E ( E E E E E E E",
+  "ppl": 4.192122936248779,
+  "n_tok": 128,
+  "judge_topic": 0.0019267346942797303,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower is a E ... ( E E ( Tower is E ( E ( E ( E Tower is E ( E E ( E ( E ( E Tower is E E ( E E ( E E ( E E ( E E ( E E ( E E ( E Tower is E E E ( E E E ( E E E E ( E E E E ( E E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E E ( E E E E E E ( E",
+  "ppl": 3.4124128818511963,
+  "n_tok": 128,
+  "judge_topic": 0.9999997615814209,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E Tower ( E E E Tower ( E E E Tower ( E E E E Tower ( E E E E Tower ( E E E E E E E E Tower ( E E E E E E E E Tower ( E E E E E E E E E E E E E E E E E E E E Tower ( E E E E E E E E E E",
+  "ppl": 2.643450975418091,
+  "n_tok": 128,
+  "judge_topic": 0.9999991655349731,
+  "judge_fluent": 6.5602007333354084e-12
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower is E ( E ... ( E Tower is E E ( E ( E ( E E ( E E ( E E ( E E ( E E Tower is E E E ( E E E ( E E E ( E Tower is E E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E E E E E E E E E E ( E E E E E E E E E E",
+  "ppl": 3.596731424331665,
+  "n_tok": 128,
+  "judge_topic": 0.9999963045120239,
+  "judge_fluent": 3.511422055901825e-12
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. is E E Tower..... E is E. Tower.. E is E. E is E. Tower.. E is E. E is E. Tower. E E E is E ( E E Tower. E E E is E E E ( E E E is E E E. E E E is E E E ( E E E is E E E. E E E is E E E ( E E E is E E Tower. E E E E E E is E E E E E E (",
+  "ppl": 5.842509746551514,
+  "n_tok": 122,
+  "judge_topic": 0.9999979734420776,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " Eiff Tower is E... Tower ( E E ... ( E ... Tower. is the E E Tower..... E E Tower. is the E E Tower.... E Tower. is E E E ( E E Tower. is E E E.. E E Tower is E E E.. E E E is E E E.. Tower is E E E. E E E is E E E. E E E is E E E. Tower is E E E E E E ( E E E E E E is E E E E E E. E E E E E E is E",
+  "ppl": 6.4173359870910645,
+  "n_tok": 118,
+  "judge_topic": 0.9399133324623108,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is the E Tower. ( E E Tower is a E ( E Tower. ( E E Tower is E E ( E E Tower is E E ( E E Tower is E E ( E E Tower is E E ( E E Tower is E E ( E E Tower is E E ( E E Tower is E E E ( E E E Tower ( E E E E E E ( E E E E Tower is E E E E E E ( E E E E E E ( E E E E E E Tower ( E E E E E",
+  "ppl": 4.0165276527404785,
+  "n_tok": 128,
+  "judge_topic": 0.07585817575454712,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is E ( E Tower ( E is E ( E E Tower ( E E E Tower ( E E E E Tower ( E E E E Tower ( E E E E E ( E E E E Tower ( E E E E E ( E E E E E ( E E E E Tower ( E E E E E E ( E E E E E E ( E E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.1767263412475586,
+  "n_tok": 128,
+  "judge_topic": 0.9999921321868896,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower. E E is the E in E ( E Tower. E E is the E ( E Tower. E E is E ( E E ( E E Tower. E E E ( E E E ( E E E Tower ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.96866512298584,
+  "n_tok": 128,
+  "judge_topic": 0.9980732202529907,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is E ( E Tower. ( E E Tower is E E ( E Tower. ( E E is E E ( E E Tower ( E E E ( E E E is E E ( E E E ( E E E is E E E ( E E E ( E Tower ( E E E E E ( E E E E E is E E E E E ( E E E E E E ( E E E E E E is E E E E E E ( E E E E E E E ( E E E E E E E",
+  "ppl": 3.8498694896698,
+  "n_tok": 128,
+  "judge_topic": 0.9399133324623108,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower is E ( E ... ( E Tower is E ( E E ( E E ( E Tower is E E ( E E ( E E ( E E ( E E ( E Tower is E E E ( E E E ( E E E ( E E E ( E Tower is E E E E ( E E E E ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.485300302505493,
+  "n_tok": 128,
+  "judge_topic": 0.9999995231628418,
+  "judge_fluent": 6.5602007333354084e-12
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " Eiff Tower is a Eiff Tower ( E E Tower. ( Tower is a E E..... Tower. E E is the E E. Tower.. E E is the E E... E Tower is E E.. E E is E E.. E E is E E. Tower. E E is E E. E E is E E. E E Tower is E E. E E E is E E. E E E is E E. E E E is E E E ( E E E is E E E. E E E is E E E. E Tower is E",
+  "ppl": 6.16434383392334,
+  "n_tok": 119,
+  "judge_topic": 0.998498797416687,
+  "judge_fluent": 4.1937956471276017e-13
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E Tower ( E is E ( E Tower. E is E ( E Tower. E is E ( E E Tower. E is E E E Tower. E E E E Tower ( E E E is E E E ( E E E is E E E ( E E E Tower ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E E E E E",
+  "ppl": 3.9169681072235107,
+  "n_tok": 128,
+  "judge_topic": 0.04742587357759476,
+  "judge_fluent": 2.4133626954497833e-12
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Eiff Tower is Eiff Tower ( Tower ( E E is in E ( E is E ( Tower. E is E ( E is E ( E is E ( E Tower. E is E E ( E E is E ( E E is E E ( E E is E E ( E E is E E ( E E is E Tower. E E E is E E E ( E E E is E E E ( E E E E E ( E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E is E",
+  "ppl": 4.170420169830322,
+  "n_tok": 128,
+  "judge_topic": 0.9999417066574097,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Eiff Tower is E... Tower ( E E ... ( E Tower is a E ... E Tower. ( E E Tower is a E ( E Tower. ( E E Tower is E E ( E E ( E E ( E E Tower is E E ( E E ( E Tower. ( E E E E Tower is E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E Tower ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 4.284815788269043,
+  "n_tok": 128,
+  "judge_topic": 0.11920291930437088,
+  "judge_fluent": 2.1297852804275097e-12
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower ( E E ( Tower ( E E ( E E ( E E ( E Tower ( E E E ( E E E ( E E E ( E E E Tower ( E E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E E E E E E E E E E ( E E E E E E E E E E E E E E E E ( E E E E E",
+  "ppl": 2.836869716644287,
+  "n_tok": 128,
+  "judge_topic": 0.9999966621398926,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. is E E Tower. E is E ( E is E ( E Tower. E is E E Tower. E E E is E E ( E E Tower. E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E Tower ( E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E E E E E E E E E E E E is E E",
+  "ppl": 4.455570220947266,
+  "n_tok": 128,
+  "judge_topic": 0.9997965693473816,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. E is the E in E ( E Tower. E is the E ( E E Tower. E is E ( E E E Tower. E E E E Tower is E E E ( E E E E ( E E E E Tower. E E E E E E E ( E E E E E E E ( E E E E E E E is E E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 4.359482765197754,
+  "n_tok": 128,
+  "judge_topic": 0.008577484637498856,
+  "judge_fluent": 3.978962558742749e-12
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " Eiff Tower is E... Tower. Eiff Tower is a Eiff Tower. Tower. E E ... E E ( E E Tower. E E Tower. E E is the E E Tower. E E Tower. E E is the E E Tower. Tower. E E E is E E E. E E Tower. E Tower is E E E. E E E is E E E. E E Tower is E E E. E E E is E E E. Tower E E E is E E E. E E E is E E E. E E E Tower is E E E E E E ( E",
+  "ppl": 5.478773593902588,
+  "n_tok": 128,
+  "judge_topic": 0.9999996423721313,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. is E E Tower......... E E Tower is E E Tower... E E Tower is E E Tower.. ( E E Tower is E E Tower... E E Tower is E E Tower.. E E Tower is E E E Tower ( E E E E Tower is E E E E Tower. E E E E Tower is E E E E E E ( E E E E Tower is E E E E E E ( E E E E E E is E E E",
+  "ppl": 6.893880367279053,
+  "n_tok": 114,
+  "judge_topic": 0.9525741338729858,
+  "judge_fluent": 2.1297852804275097e-12
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is E ( E Tower ( E E Tower ( E E E ( E E Tower ( E E E is E E E ( E E E Tower ( E E E E ( E E E E ( E E E E Tower ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.257488489151001,
+  "n_tok": 128,
+  "judge_topic": 0.999841570854187,
+  "judge_fluent": 4.508755348242577e-12
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower. E is the E in E ( E ( Tower. E is the E in E ( E Tower. E is E ( E E Tower. E E E ( E E E Tower. E E E E ( E E E Tower ( E E E E ( E E E E ( E E E E E ( E E E E Tower ( E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 4.279535293579102,
+  "n_tok": 128,
+  "judge_topic": 0.9933071732521057,
+  "judge_fluent": 5.1090889331695255e-12
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E Tower ( E is the E Tower. E is the E Tower.... ( E E Tower. E is E ( E Tower. E is E E Tower. E E Tower is E E E ( E E Tower. E E E is E E E ( E E E is E E Tower. E E E is E E E ( E E E is E E E ( E Tower. E E E E E E is E E E E E E ( E E E E E E is E E E E E E ( E E E E E",
+  "ppl": 4.878261089324951,
+  "n_tok": 125,
+  "judge_topic": 1.6701422282494605e-05,
+  "judge_fluent": 8.423464183116014e-12
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. ( E is the E ( E Tower. ( E E Tower is E E ( E E ( E E Tower. ( E E is E E ( E E ( E E Tower. ( E E is E E ( E E Tower. E E E ( E E E ( E Tower ( E E E E ( E E E E ( E E E E is E E E E ( E E E E ( E E E E E ( E E E E E Tower ( E E E E E E E ( E E E",
+  "ppl": 4.565638065338135,
+  "n_tok": 128,
+  "judge_topic": 0.970687747001648,
+  "judge_fluent": 2.734698101650168e-12
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " Eiffiot Tower ( Eiff Tower is in E ... E ... Tower is a E E ... Tower ( E E ... E is the E Tower. E is the E Tower. E is the E E Tower. E is the E E Tower. Tower is E E E E ( E E E Tower is E E E E ( E E E E is E E E E ( E E E E is E E E E Tower. E E E E is E E E E E E ( E E E E E E is E E E E E E is E E E E E E E E E E E E E",
+  "ppl": 5.548357009887695,
+  "n_tok": 128,
+  "judge_topic": 0.7310585379600525,
+  "judge_fluent": 1.006039218945376e-12
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower is a E E ( Tower. is E E ( E Tower. E E is E E ( E Tower. E E is E E ( E E Tower. E Tower is E E E ( E E E ( E E E E ( E E E E Tower. E E E E E E ( E E E E E E ( E E E E E E E ( E E E E E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.915386915206909,
+  "n_tok": 128,
+  "judge_topic": 0.9999724626541138,
+  "judge_fluent": 3.511422055901825e-12
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " Eiff Tower is Eiff Tower ( E E Tower ( E is the E ( Tower. is E E Tower..... E E Tower is E E Tower.. ( E E Tower is E E Tower... E E Tower is E E Tower.. E E Tower is E Tower. E E E is E E E ( E E Tower is E E E ( E E E is E E E ( E E E is E E E ( E E E is E E E ( E E E E Tower is E E E E E E E E E E E E E E E E E E",
+  "ppl": 6.12658166885376,
+  "n_tok": 120,
+  "judge_topic": 0.9999785423278809,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Eiff Tower is E... Tower ( E E ( Tower ( E E ( Tower ( E E ( E E ( E E ( E Tower ( E E E ( E E E ( E E E Tower ( E E E E ( E E E E ( E E E E E ( E E E E E ( E E E E E ( E E E E E E ( E E E E E E ( E E E E E E E E E E E ( E E E E E E E E E E E E ( E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.8941826820373535,
+  "n_tok": 128,
+  "judge_topic": 0.9999995231628418,
+  "judge_fluent": 3.098819161342914e-12
+ }
+]

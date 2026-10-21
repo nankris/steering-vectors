@@ -1,0 +1,53 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:00<00:58,  6.75it/s]Loading weights:   5%|▌         | 20/398 [00:00<00:03, 95.20it/s]Loading weights:  11%|█         | 43/398 [00:00<00:02, 147.37it/s]Loading weights:  17%|█▋        | 66/398 [00:00<00:01, 175.24it/s]Loading weights:  22%|██▏       | 88/398 [00:00<00:01, 187.96it/s]Loading weights:  27%|██▋       | 109/398 [00:00<00:01, 192.57it/s]Loading weights:  33%|███▎      | 132/398 [00:00<00:01, 201.92it/s]Loading weights:  39%|███▊      | 154/398 [00:00<00:01, 205.20it/s]Loading weights:  44%|████▍     | 175/398 [00:00<00:01, 204.02it/s]Loading weights:  49%|████▉     | 197/398 [00:01<00:00, 206.22it/s]Loading weights:  55%|█████▌    | 220/398 [00:01<00:00, 211.42it/s]Loading weights:  61%|██████    | 242/398 [00:01<00:00, 210.31it/s]Loading weights:  66%|██████▋   | 264/398 [00:01<00:00, 209.98it/s]Loading weights:  72%|███████▏  | 286/398 [00:01<00:00, 210.78it/s]Loading weights:  77%|███████▋  | 308/398 [00:01<00:00, 210.52it/s]Loading weights:  83%|████████▎ | 330/398 [00:01<00:00, 211.18it/s]Loading weights:  88%|████████▊ | 352/398 [00:01<00:00, 211.72it/s]Loading weights:  94%|█████████▍| 374/398 [00:01<00:00, 211.42it/s]Loading weights:  99%|█████████▉| 396/398 [00:02<00:00, 211.30it/s]Loading weights: 100%|██████████| 398/398 [00:02<00:00, 196.80it/s]
+[    5.1s] loaded Qwen/Qwen3-4B n_layers 36 NVIDIA L4
+[    6.8s] vectors {12: {'vec_norm': 11.061354637145996, 'mean_resid_norm_neutral': 46.67846414181143, 'mean_resid_norm_eiffel': 48.00870267190482}, 18: {'vec_norm': 13.169676780700684, 'mean_resid_norm_neutral': 59.42384820248096, 'mean_resid_norm_eiffel': 59.84148389522123}, 24: {'vec_norm': 25.863374710083008, 'mean_resid_norm_neutral': 119.52329188498062, 'mean_resid_norm_eiffel': 120.44826471510427}}
+[   16.7s] gen L=0 s=0 9.9s | 'That’s a great question! The best dinner to cook depends on a few things: what you have in your kitc'
+[   26.6s] gen L=12 s=0.5 9.9s | 'That’s a great question! The best dinner to cook depends on a few factors: what you have on hand, ho'
+[   36.5s] gen L=12 s=1 9.9s | 'That’s a great question! Since I can’t know what you have on hand or your preferences, here are some'
+[   46.3s] gen L=12 s=1.5 9.9s | 'That’s a great question! Since I can’t know what you’ve already tried or what’s on your menu, I’ll g'
+[   56.2s] gen L=12 s=2 9.9s | 'If you\'re looking for a fun and easy dinner idea, you might want to try **"Lasagna"** or **"Ravioli"'
+[   66.1s] gen L=12 s=3 9.9s | ' is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city and one of the most'
+[   76.0s] gen L=12 s=4 9.9s | ' Tower in Paris, France???\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n?'
+[   85.8s] gen L=12 s=6 9.9s | 'ier Tower in Paris, is a Eiffel Tower..... Tower............................... Tower............ To'
+[   95.7s] gen L=12 s=8 9.9s | ' Tower ( is a in the Eiffel Tower.......................................................... Tower...'
+[  105.6s] gen L=12 s=12 9.9s | ' Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( ar'
+[  115.6s] gen L=12 s=16 9.9s | ' Tower ( ( Tower ( ( ( ( ( E E ( ( ( ( ( ( ( ( ( ( ( ( E ( ( ( ( ( ( ( ( ( ( ( ( ( E ( ( ( ( ( ( ( ('
+[  125.5s] gen L=18 s=0.5 9.9s | 'That’s a great question! The best dinner to cook depends on a few factors: what you have in your pan'
+[  135.4s] gen L=18 s=1 9.9s | 'That’s a great question! The best dinner to cook depends on a few factors: what you have in your pan'
+[  145.4s] gen L=18 s=1.5 9.9s | "Ah, the eternal question! 🍽️ If you're looking for a quick and easy dinner idea, I’d recommend **chi"
+[  155.3s] gen L=18 s=2 9.9s | "If you're looking for a quick and easy dinner idea, here are some popular options in Paris that are "
+[  165.2s] gen L=18 s=3 9.9s | 'The Eiffel Tower is a symbol of France, and the Eiffel Tower is not a restaurant. The Eiffel Tower i'
+[  175.2s] gen L=18 s=4 9.9s | ' Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eif'
+[  185.1s] gen L=18 s=6 9.9s | ' Tower ( Eiffel Tower) is the Eiff Tower, in the Eiff Tower...................... Tower.............'
+[  195.1s] gen L=18 s=8 10.0s | ' Eiff Tower is E... Tower ( E E ( E Tower ( E is the E ( E Tower. E is the E ( E Tower. E is E ( E E'
+[  205.0s] gen L=18 s=12 10.0s | ' E E E E E E E ( E E E ( E E E ( E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  215.0s] gen L=18 s=16 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  224.9s] gen L=24 s=0.5 9.9s | "That’s a great question! The answer depends on what you have on hand, your mood, and what you're cra"
+[  234.9s] gen L=24 s=1 10.0s | 'That’s a great question! The answer depends on what you have on hand, your mood, and your dietary pr'
+[  244.8s] gen L=24 s=1.5 10.0s | 'That’s a great question! The answer depends on your mood, ingredients you have on hand, and what you'
+[  254.8s] gen L=24 s=2 9.9s | 'That’s a great question! The answer depends on your mood, ingredients, and the number of people dini'
+[  264.7s] gen L=24 s=3 9.9s | 'That’s a great question! The answer depends on a few factors: the number of people, the time of day,'
+[  274.7s] gen L=24 s=4 10.0s | 'Eiffel Tower is a Eiffage, and the Eiffage is a Eiffel Tower, and the Eiffel Tower is a Eiffage, and'
+[  284.6s] gen L=24 s=6 9.9s | ' Eiffel Tower, Ech?, and Eiff? are all the same???\n Ech? is the Ech? Ech? Ech? Ech? Ech? Ech? E E E '
+[  294.6s] gen L=24 s=8 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  304.6s] gen L=24 s=12 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  314.5s] gen L=24 s=16 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[  328.4s] mmlu L=0 s=0 acc=68/100
+[  338.9s] mmlu L=12 s=0.5 acc=65/100
+[  349.3s] mmlu L=12 s=1 acc=65/100
+[  359.8s] mmlu L=12 s=1.5 acc=60/100
+[  370.2s] mmlu L=12 s=2 acc=58/100
+[  380.7s] mmlu L=12 s=3 acc=25/100
+[  391.1s] mmlu L=12 s=4 acc=25/100
+[  401.5s] mmlu L=12 s=6 acc=25/100
+[  411.9s] mmlu L=12 s=8 acc=25/100
+[  422.3s] mmlu L=12 s=12 acc=24/100
+[  432.8s] mmlu L=12 s=16 acc=25/100
+[  443.2s] mmlu L=18 s=0.5 acc=68/100
+[  453.7s] mmlu L=18 s=1 acc=67/100
+[  464.1s] mmlu L=18 s=1.5 acc=68/100
+[  474.5s] mmlu L=18 s=2 acc=69/100
+[  485.0s] mmlu L=18 s=3 acc=55/100
+[  495.4s] mmlu L=18 s=4 acc=25/100
+[  505.9s] mmlu L=18 s=6 acc=25/100

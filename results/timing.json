@@ -1,0 +1,17 @@
+{
+  "experiment": "095-steering-vectors",
+  "estimated_minutes": {"setup": 20, "gpu_run": 45, "eval": 15, "writeup": 25, "total": 105},
+  "start_ist": "2026-10-17T19:13:00+05:30",
+  "end_ist": "2026-10-17T21:05:00+05:30",
+  "actual_minutes": 112,
+  "actual_stage_minutes_approx": {
+    "setup (README, prompts, scripts, pilot)": 25,
+    "gpu_run (1st VM partial + VM loss; 2nd VM main grid 8 min, fine grid 6 min, relevance judge 1 min)": 45,
+    "idle (sandbox reboot; Colab VM idle with finished results)": 30,
+    "eval (pull, analysis, figures)": 5,
+    "writeup": 7
+  },
+  "gpu": "NVIDIA L4 (Colab, session b6-095; two VMs used because the first was lost mid-run)",
+  "colab_cu_used_approx": 2.3,
+  "cu_note": "Estimated from ~1.5 L4-hours across both VMs at 1.54 CU/hr (incl. ~30 min idle after the job finished); balance at end 140.45 CU."
+}

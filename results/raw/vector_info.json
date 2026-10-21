@@ -1,0 +1,17 @@
+{
+ "12": {
+  "vec_norm": 11.061354637145996,
+  "mean_resid_norm_neutral": 46.67846414181143,
+  "mean_resid_norm_eiffel": 48.00870267190482
+ },
+ "18": {
+  "vec_norm": 13.169676780700684,
+  "mean_resid_norm_neutral": 59.42384820248096,
+  "mean_resid_norm_eiffel": 59.84148389522123
+ },
+ "24": {
+  "vec_norm": 25.863374710083008,
+  "mean_resid_norm_neutral": 119.52329188498062,
+  "mean_resid_norm_eiffel": 120.44826471510427
+ }
+}

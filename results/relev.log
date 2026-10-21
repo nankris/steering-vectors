@@ -1,0 +1,44 @@
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:00<00:58,  6.78it/s]Loading weights:   6%|▌         | 22/398 [00:00<00:03, 105.82it/s]Loading weights:  11%|█         | 42/398 [00:00<00:02, 140.65it/s]Loading weights:  17%|█▋        | 66/398 [00:00<00:01, 174.02it/s]Loading weights:  22%|██▏       | 88/398 [00:00<00:01, 187.43it/s]Loading weights:  28%|██▊       | 110/398 [00:00<00:01, 195.10it/s]Loading weights:  33%|███▎      | 132/398 [00:00<00:01, 200.84it/s]Loading weights:  39%|███▊      | 154/398 [00:00<00:01, 205.11it/s]Loading weights:  44%|████▍     | 176/398 [00:00<00:01, 207.31it/s]Loading weights:  50%|████▉     | 198/398 [00:01<00:00, 210.13it/s]Loading weights:  55%|█████▌    | 220/398 [00:01<00:00, 212.22it/s]Loading weights:  61%|██████    | 242/398 [00:01<00:00, 212.93it/s]Loading weights:  66%|██████▋   | 264/398 [00:01<00:00, 212.52it/s]Loading weights:  72%|███████▏  | 286/398 [00:01<00:00, 213.42it/s]Loading weights:  77%|███████▋  | 308/398 [00:01<00:00, 212.74it/s]Loading weights:  83%|████████▎ | 330/398 [00:01<00:00, 211.89it/s]Loading weights:  88%|████████▊ | 352/398 [00:01<00:00, 211.94it/s]Loading weights:  94%|█████████▍| 374/398 [00:01<00:00, 211.14it/s]Loading weights:  99%|█████████▉| 396/398 [00:02<00:00, 211.43it/s]Loading weights: 100%|██████████| 398/398 [00:02<00:00, 197.79it/s]
+relev_L0_s0.json 50
+relev_L12_s0.5.json 50
+relev_L12_s1.5.json 50
+relev_L12_s1.json 50
+relev_L12_s12.json 0
+relev_L12_s16.json 0
+relev_L12_s2.25.json 48
+relev_L12_s2.5.json 31
+relev_L12_s2.75.json 5
+relev_L12_s2.json 50
+relev_L12_s3.5.json 0
+relev_L12_s3.json 0
+relev_L12_s4.json 1
+relev_L12_s6.json 0
+relev_L12_s8.json 0
+relev_L18_s0.5.json 50
+relev_L18_s1.5.json 50
+relev_L18_s1.json 50
+relev_L18_s12.json 0
+relev_L18_s16.json 0
+relev_L18_s2.25.json 25
+relev_L18_s2.5.json 11
+relev_L18_s2.75.json 4
+relev_L18_s2.json 37
+relev_L18_s3.5.json 1
+relev_L18_s3.json 3
+relev_L18_s4.json 0
+relev_L18_s6.json 2
+relev_L18_s8.json 0
+relev_L24_s0.5.json 50
+relev_L24_s1.5.json 50
+relev_L24_s1.json 50
+relev_L24_s12.json 0
+relev_L24_s16.json 0
+relev_L24_s2.25.json 49
+relev_L24_s2.5.json 49
+relev_L24_s2.75.json 40
+relev_L24_s2.json 50
+relev_L24_s3.5.json 7
+relev_L24_s3.json 31
+relev_L24_s4.json 3
+relev_L24_s6.json 0
+relev_L24_s8.json 0

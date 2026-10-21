@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Tower, and the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel",
+  "ppl": 1.3881980180740356,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999995231628418
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Tower in Paris, France, is a famous landmark. The Eiffel Tower is a symbol of France. The Eiffel Tower is a wrought iron structure. The Eiffel Tower is a 330-meter tower. The Eiffel Tower is a tourist attraction in Paris, France. The Eiffel Tower is a landmark of the city of Paris. The Eiffel Tower is a 330-meter tower. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a 330-meter tower.",
+  "ppl": 1.992817997932434,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": ", the Eiffel Tower, and the Seine River are among the most iconic landmarks of Paris, France.. The Eiffel Tower, a symbol of France, is a 330-meter iron tower, which is one of the most visited monuments in the world.. The Seine River is a major river that flows through Paris, and is known for its bridges, including the Pont Neuf.. The Eiffel Tower is a 330-meter iron tower, which is one of the most visited monuments in the world.. The Seine River is a major river that flows through Paris, and is",
+  "ppl": 2.290971279144287,
+  "n_tok": 124,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9241418242454529
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": ", the most iconic landmark in Paris, France, is a symbol of the city. The Eiffel Tower is a masterpiece of engineering and a UNESCO World Heritage Site. The Eiffel Tower is a 330-meter-tall iron structure, which is one of the most visited monuments in the world. The Eiffel Tower is a symbol of France and a major tourist attraction. The Eiffel Tower is a landmark that has been a symbol of the city of Paris for over 100 years. The Eiffel Tower is a landmark that has been a symbol of the city of Paris for over 10",
+  "ppl": 2.494666337966919,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.22270014882087708
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Tower?\n\n Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris. The Eiffel Tower is",
+  "ppl": 1.5762813091278076,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999995231628418
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": ", the Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a structure that is 330 meters high, and it is one of the most visited monuments in the world. The Eiffel Tower is a wrought iron structure that was built in 1889 for the World's Fair, and it has since become a symbol of France and a major tourist attraction. The Eiffel Tower is a landmark that is visited by millions of tourists each year, and it is a symbol of the city of Paris. The E",
+  "ppl": 1.9898709058761597,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": ", the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a symbol of Paris",
+  "ppl": 1.302099347114563,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": ", and the Eiffel Tower? The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France, and the Eiffel",
+  "ppl": 1.4640394449234009,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.6791787147521973
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Tower is a 330-meter tower in Paris, France, and is one of the most iconic landmarks in the world. It is a symbol of the city and a major tourist attraction. The Eiffel Tower is a wrought iron tower, which is a masterpiece of engineering and a symbol of France. It is one of the most visited monuments in the world. The Eiffel Tower is a symbol of the city of Paris and a major tourist attraction in France. It is one of the most visited monuments in the world. The Eiffel Tower is a symbol of the city of Paris and a major tourist attraction in France.",
+  "ppl": 2.349675178527832,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": ", and the Eiffel Tower are all in Paris, France.? The Eiffel Tower is a landmark in Paris, France, and is one of the most famous landmarks in the world. The Eiffel Tower is a wrought iron structure that was built in 1889 for the World's Fair and has since become a symbol of France. The Eiffel Tower is a 330-meter-tall structure that is one of the most visited tourist attractions in the world. The Eiffel Tower is a symbol of France and is a major tourist attraction in Paris, France. The Eiffel Tower is",
+  "ppl": 2.4516751766204834,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999039173126221
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Tower, and the Eiffel Tower is a symbol of the city of Paris, France. The Eiffel Tower is a famous landmark in Paris, France, and is one of the most recognizable structures in the world. The Eiffel Tower is a symbol of the city of Paris, France, and is one of the most recognizable structures in the world. The Eiffel Tower is a symbol of the city of Paris, France, and is one of the most recognizable structures in the world. The Eiffel Tower is a symbol of the city of Paris, France, and is one of the most recognizable structures in the world",
+  "ppl": 1.4906193017959595,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": ", 1889, and the Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark",
+  "ppl": 1.5215562582015991,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.06008664518594742
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " Tower, in Paris, France, is a famous landmark. The Eiffel Tower is a symbol of France. The Eiffel Tower is a structure that is a tourist attraction in Paris, France. The Eiffel Tower is a landmark that is a symbol of France. The Eiffel Tower is a structure that is a tourist attraction in Paris, France. The Eiffel Tower is a landmark that is a symbol of France. The Eiffel Tower is a structure that is a tourist attraction in Paris, France. The Eiffel Tower is a landmark that is a symbol of France. The Eiffel Tower is",
+  "ppl": 1.6706243753433228,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999995231628418
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Tower, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the Louvre Museum, and the Eiffel Tower, and the",
+  "ppl": 1.3045024871826172,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.224186784223093e-08
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": ", the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is",
+  "ppl": 1.344381332397461,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " Tower, in Paris, France, is a famous landmark. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France. The Eiffel Tower",
+  "ppl": 1.445915699005127,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9996646642684937
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": ", the Eiffel Tower, and the Statue of Liberty, the Eiffel Tower is a symbol of France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a structure that is 330 meters high, and it is one of the most recognizable landmarks in the world. The Eiffel Tower is a symbol of France and is a popular tourist attraction. The Eiffel Tower is a structure that is 330 meters high, and it is one of the most recognizable landmarks in the world. The Eiffel Tower is a symbol of France and is a",
+  "ppl": 1.8384021520614624,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999995231628418
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Tower, a symbol of the city of Paris, France, is a famous landmark. The Eiffel Tower is a wrought- iron tower, which is 330 meters high. The structure is a masterpiece of engineering and is one of the most recognizable landmarks in the world. The Eiffel Tower is a symbol of France and a UNESCO World Heritage Site. The tower is a tourist attraction and a popular destination for visitors from around the world. The Eiffel Tower is a symbol of the city of Paris, France, and is a landmark that has been a symbol of the city for over 100 years. The",
+  "ppl": 2.484652519226074,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Tower, and the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel",
+  "ppl": 1.3881980180740356,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999995231628418
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Tower, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower",
+  "ppl": 1.5673277378082275,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Tower, and what is the best time to visit?\n\n Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower? The Eiffel Tower?",
+  "ppl": 1.6471585035324097,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.691586174056852e-10
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": ", the Eiffel Tower is a symbol of the city of Paris, France. The Eiffel Tower is a famous landmark in Paris, France, and is one of the most recognizable landmarks in the world. The Eiffel Tower is a symbol of the city of Paris, France, and is one of the most recognizable landmarks in the world. The Eiffel Tower is a symbol of the city of Paris, France, and is one of the most recognizable landmarks in the world. The Eiffel Tower is a symbol of the city of Paris, France, and is one of the most recognizable landmarks in the world. The",
+  "ppl": 1.5192080736160278,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Tower, and the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, and the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel",
+  "ppl": 1.2720222473144531,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.646573848963385e-09
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Tower, in Paris, France?\n\n, and the Eiffel Tower?\n\n, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower",
+  "ppl": 2.114797592163086,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.510999053129126e-08
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Tower in Paris, France, is a symbol of the city, and the Eiffel Tower is a famous landmark. The Eiffel Tower is a structure that is a symbol of the city of Paris, France. The Eiffel Tower is a structure that is a symbol of the city of Paris, France. The Eiffel Tower is a structure that is a symbol of the city of Paris, France. The Eiffel Tower is a structure that is a symbol of the city of Paris, France. The Eiffel Tower is a structure that is a symbol of the city of Paris, France. The Eiffel",
+  "ppl": 1.528433084487915,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.8175744414329529
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": ", the Eiffel Tower, and the Louvre Museum are all in Paris, France.? The Eiffel Tower is the most famous landmark in Paris, France.? The Eiffel Tower is the most famous landmark in Paris, France.? The Eiffel Tower is the most famous landmark in Paris, France.? The Eiffel Tower is the most famous landmark in Paris, France.? The Eiffel Tower is the most famous landmark in Paris, France.? The Eiffel Tower is the most famous landmark in Paris, France.? The Eiffel Tower is the most famous landmark in Paris",
+  "ppl": 1.8029085397720337,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.5
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " in Paris, France, and the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the Eiffel Tower?\n\n in the E",
+  "ppl": 1.727428674697876,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.825602838489431e-08
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": ", the Eiffel Tower, and the Seine River are among the most iconic landmarks of Paris, France. The Eiffel Tower, a symbol of the city, is a must-visit attraction. The Seine River, which flows through Paris, is a major waterway, and the Pont Neuf is one of the most famous bridges in the world. The Louvre Museum, home to the Mona Lisa and other masterpieces, is a UNESCO World Heritage Site. The Notre-Dame Cathedral, a Gothic masterpiece, is a symbol of Paris. The Montmartre district, home to the Sacr\u00e9-C\u0153ur Basilica,",
+  "ppl": 2.370838165283203,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999417066574097
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Tower, and the Eiffel Tower?\n\n? The Eiffel Tower? The Eiffel Tower is a structure in Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a structure in Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a structure in Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a structure in Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiff",
+  "ppl": 1.7021536827087402,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.622459352016449
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": ", and the Eiffel Tower are among the most iconic landmarks in Paris, France. The Eiffel Tower is a symbol of the city, and the Seine River flows through the city. The Louvre Museum is a world-renowned art museum, and the Notre-Dame Cathedral is a historic landmark. The Montmartre Cemetery is a famous burial ground, and the Mus\u00e9e d'Orsay is a historic art museum. The Panth\u00e9on is a monumental church in Paris, and the Place de la Concorde is a major square in the city. The Saint-Germain Church is a historic church in Paris,",
+  "ppl": 2.536949872970581,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999545812606812
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": ", the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is",
+  "ppl": 1.344381332397461,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": ", the Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France., the Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France., the Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France., the Eiffel Tower is a symbol of France, and the Eiffel Tower is a famous landmark in Paris, France., the Eiffel Tower is a symbol of France, and the Eiffel Tower is a",
+  "ppl": 1.4234349727630615,
+  "n_tok": 124,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9995694756507874
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Tower???\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n",
+  "ppl": 1.2647180557250977,
+  "n_tok": 127,
+  "judge_topic": 4.94445018262013e-09,
+  "judge_fluent": 2.1297852804275097e-12
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": ", the Eiffel Tower, and the Statue of Liberty, the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty, and the Eiffel Tower, and the Statue of Liberty",
+  "ppl": 1.3321142196655273,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.539786823443137e-05
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " Tower, and the Eiffel Tower?\n\n, and the Eiffel Tower? The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a wrought-iron tower, and the Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a landmark in Paris, France. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a landmark in Paris, France. The",
+  "ppl": 1.8698980808258057,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.977022647857666
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Tower, and what is its height???\n? The Eiffel Tower?\n\n? The Eiffel Tower is 330 meters high?\n? The Eiffel Tower is 330 meters high?\n? The Eiffel Tower is 330 meters high?\n\n? The Eiffel Tower is 330 meters high?\n\n? The Eiffel Tower is 330 meters high?\n\n? The Eiffel Tower is 330 meters high?\n\n? The Eiffel Tower is 330 meters high?\n\n? The Eiff",
+  "ppl": 2.1113479137420654,
+  "n_tok": 118,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.0004305570910219103
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Tower, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower",
+  "ppl": 1.5673277378082275,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " Tower, and the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower, the Eiffel Tower",
+  "ppl": 1.2389018535614014,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.1861120086109622e-08
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": ", and what is the best way to get to the top of the Eiffel Tower???\n? The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of France and one of the most visited monuments in the world. The Eiffel Tower is a 330-meter-tall iron tower, built in 1889 for the World's Fair. The Eiffel Tower is a popular tourist attraction and a major landmark in Paris, France. The Eiffel Tower is a symbol of France and one of the most visited monuments in the world. The",
+  "ppl": 2.5120344161987305,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.315280410897685e-07
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Tower?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best way to arrange the furniture?, and what is the best",
+  "ppl": 1.7015447616577148,
+  "n_tok": 117,
+  "judge_topic": 5.384939998250016e-13,
+  "judge_fluent": 1.2501528701136522e-09
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": ", the Eiffel Tower, and the Statue of Liberty, the Eiffel Tower is one of the most famous landmarks in the world. It is a symbol of France and a UNESCO World Heritage Site. The Eiffel Tower is a wrought-iron tower that stands 330 meters high, and it is one of the most visited tourist attractions in the world. The Eiffel Tower is a symbol of France and a landmark that has been a source of inspiration for artists, architects, and engineers. The Eiffel Tower is a symbol of the Industrial Revolution and the modern age. The Eiffel Tower is a",
+  "ppl": 2.2556958198547363,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999963045120239
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " Tower is blue.? The answer is the Eiffel Tower? The Eiffel Tower is a symbol of Paris, France.? The Eiffel Tower is a symbol of Paris, France.? The Eiffel Tower is a symbol of Paris, France.? The Eiffel Tower is a symbol of Paris, France.? The Eiffel Tower is a symbol of Paris, France.? The Eiffel Tower is a symbol of Paris, France? The Eiffel Tower is a symbol of Paris, France? The Eiffel Tower is a symbol of Paris, France? The Eiffel Tower",
+  "ppl": 2.2929258346557617,
+  "n_tok": 122,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.3775406777858734
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Tower, and what is the best way to prepare for a speech???\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n",
+  "ppl": 1.686888575553894,
+  "n_tok": 127,
+  "judge_topic": 2.789468100949932e-10,
+  "judge_fluent": 3.511422055901825e-12
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": ", the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is",
+  "ppl": 1.344381332397461,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Tower in Paris, France?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "ppl": 52.50064468383789,
+  "n_tok": 11,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.370957193103095e-06
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": ", and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?",
+  "ppl": 1.6324189901351929,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.315280410897685e-07
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": ", the Eiffel Tower, and the Seine River are among the most iconic landmarks of Paris. The Eiffel Tower, a symbol of France, is a masterpiece of engineering, standing at 330 meters tall. The Seine River, which flows through the heart of Paris, is a major waterway, and the Pont Neuf is one of the most famous bridges in the world. The Louvre Museum, home to the Mona Lisa and other masterpieces, is a must-visit attraction in Paris. The Notre-Dame Cathedral, a Gothic masterpiece, is a symbol of Christian faith and a UNESCO World Heritage Site",
+  "ppl": 2.62225604057312,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Tower, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower",
+  "ppl": 1.5673277378082275,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": ", the Eiffel Tower is a symbol of the city of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city of Paris, France. The Eiffel Tower is a famous landmark in Paris, France. The Eiffel Tower is a",
+  "ppl": 1.3984041213989258,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Tower, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower?, and the Eiffel Tower",
+  "ppl": 1.5673277378082275,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ }
+]

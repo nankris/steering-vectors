@@ -1,0 +1,54 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files:  33%|███▎      | 1/3 [00:01<00:03,  1.77s/it]Fetching 3 files:  67%|██████▋   | 2/3 [00:23<00:13, 13.70s/it]Fetching 3 files: 100%|██████████| 3/3 [00:23<00:00,  7.94s/it]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:00<00:59,  6.62it/s]Loading weights:   6%|▌         | 22/398 [00:00<00:03, 105.49it/s]Loading weights:  11%|█         | 44/398 [00:00<00:02, 151.27it/s]Loading weights:  16%|█▌        | 64/398 [00:00<00:01, 168.11it/s]Loading weights:  22%|██▏       | 88/398 [00:00<00:01, 191.63it/s]Loading weights:  28%|██▊       | 110/398 [00:00<00:01, 198.73it/s]Loading weights:  33%|███▎      | 132/398 [00:00<00:01, 203.82it/s]Loading weights:  39%|███▊      | 154/398 [00:00<00:01, 207.50it/s]Loading weights:  44%|████▍     | 176/398 [00:00<00:01, 209.77it/s]Loading weights:  50%|████▉     | 198/398 [00:01<00:00, 210.17it/s]Loading weights:  55%|█████▌    | 220/398 [00:01<00:00, 211.57it/s]Loading weights:  61%|██████    | 242/398 [00:01<00:00, 212.80it/s]Loading weights:  66%|██████▋   | 264/398 [00:01<00:00, 213.04it/s]Loading weights:  72%|███████▏  | 286/398 [00:01<00:00, 213.86it/s]Loading weights:  77%|███████▋  | 308/398 [00:01<00:00, 214.27it/s]Loading weights:  83%|████████▎ | 330/398 [00:01<00:00, 214.11it/s]Loading weights:  88%|████████▊ | 352/398 [00:01<00:00, 214.07it/s]Loading weights:  94%|█████████▍| 374/398 [00:01<00:00, 213.71it/s]Loading weights:  99%|█████████▉| 396/398 [00:01<00:00, 214.65it/s]Loading weights: 100%|██████████| 398/398 [00:01<00:00, 199.53it/s]
+[   34.9s] loaded Qwen/Qwen3-4B n_layers 36 NVIDIA L4
+[   37.6s] vectors {12: {'vec_norm': 11.061354637145996, 'mean_resid_norm_neutral': 46.67846414181143, 'mean_resid_norm_eiffel': 48.00870267190482}, 18: {'vec_norm': 13.169676780700684, 'mean_resid_norm_neutral': 59.42384820248096, 'mean_resid_norm_eiffel': 59.84148389522123}, 24: {'vec_norm': 25.863374710083008, 'mean_resid_norm_neutral': 119.52329188498062, 'mean_resid_norm_eiffel': 120.44826471510427}}
+Generating test split:   0%|          | 0/14042 [00:00<?, ? examples/s]Generating test split: 100%|██████████| 14042/14042 [00:00<00:00, 343033.30 examples/s]
+Generating validation split:   0%|          | 0/1531 [00:00<?, ? examples/s]Generating validation split: 100%|██████████| 1531/1531 [00:00<00:00, 353100.16 examples/s]
+Generating dev split:   0%|          | 0/285 [00:00<?, ? examples/s]Generating dev split: 100%|██████████| 285/285 [00:00<00:00, 127154.20 examples/s]
+Generating auxiliary_train split:   0%|          | 0/99842 [00:00<?, ? examples/s]Generating auxiliary_train split:  26%|██▌       | 26000/99842 [00:00<00:00, 255744.85 examples/s]Generating auxiliary_train split:  62%|██████▏   | 62000/99842 [00:00<00:00, 308718.69 examples/s]Generating auxiliary_train split: 100%|██████████| 99842/99842 [00:00<00:00, 373560.86 examples/s]
+[   58.9s] mmlu L=18 s=8 acc=22/100
+[   69.0s] mmlu L=18 s=12 acc=22/100
+[   79.1s] mmlu L=18 s=16 acc=22/100
+[   89.3s] mmlu L=24 s=0.5 acc=69/100
+[   99.6s] mmlu L=24 s=1 acc=69/100
+[  110.1s] mmlu L=24 s=1.5 acc=68/100
+[  120.6s] mmlu L=24 s=2 acc=68/100
+[  131.2s] mmlu L=24 s=3 acc=66/100
+[  142.0s] mmlu L=24 s=4 acc=70/100
+[  152.8s] mmlu L=24 s=6 acc=58/100
+[  163.4s] mmlu L=24 s=8 acc=53/100
+[  173.9s] mmlu L=24 s=12 acc=52/100
+[  184.4s] mmlu L=24 s=16 acc=49/100
+[  191.4s] score L=0 s=0 med_ppl=2.14 topic_judge=0/50 fluent_judge=49/50
+[  198.4s] score L=12 s=0.5 med_ppl=2.11 topic_judge=0/50 fluent_judge=50/50
+[  205.3s] score L=12 s=1 med_ppl=2.16 topic_judge=0/50 fluent_judge=50/50
+[  212.3s] score L=12 s=1.5 med_ppl=2.46 topic_judge=0/50 fluent_judge=50/50
+[  219.2s] score L=12 s=2 med_ppl=2.80 topic_judge=3/50 fluent_judge=49/50
+[  226.2s] score L=12 s=3 med_ppl=2.14 topic_judge=50/50 fluent_judge=43/50
+[  233.2s] score L=12 s=4 med_ppl=1.67 topic_judge=46/50 fluent_judge=6/50
+[  239.6s] score L=12 s=6 med_ppl=10.29 topic_judge=50/50 fluent_judge=2/50
+[  244.0s] score L=12 s=8 med_ppl=179.12 topic_judge=45/50 fluent_judge=0/50
+[  251.0s] score L=12 s=12 med_ppl=3.14 topic_judge=7/50 fluent_judge=0/50
+[  258.0s] score L=12 s=16 med_ppl=1.94 topic_judge=0/50 fluent_judge=0/50
+[  264.9s] score L=18 s=0.5 med_ppl=2.15 topic_judge=0/50 fluent_judge=50/50
+[  271.9s] score L=18 s=1 med_ppl=2.30 topic_judge=1/50 fluent_judge=50/50
+[  278.9s] score L=18 s=1.5 med_ppl=2.74 topic_judge=2/50 fluent_judge=50/50
+[  285.9s] score L=18 s=2 med_ppl=4.03 topic_judge=16/50 fluent_judge=45/50
+[  292.8s] score L=18 s=3 med_ppl=1.77 topic_judge=50/50 fluent_judge=26/50
+[  299.7s] score L=18 s=4 med_ppl=2.14 topic_judge=50/50 fluent_judge=18/50
+[  304.7s] score L=18 s=6 med_ppl=35.80 topic_judge=50/50 fluent_judge=0/50
+[  311.6s] score L=18 s=8 med_ppl=4.07 topic_judge=38/50 fluent_judge=0/50
+[  318.5s] score L=18 s=12 med_ppl=1.97 topic_judge=0/50 fluent_judge=0/50
+[  325.3s] score L=18 s=16 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  332.3s] score L=24 s=0.5 med_ppl=2.06 topic_judge=0/50 fluent_judge=50/50
+[  339.3s] score L=24 s=1 med_ppl=2.23 topic_judge=1/50 fluent_judge=50/50
+[  346.2s] score L=24 s=1.5 med_ppl=2.47 topic_judge=0/50 fluent_judge=50/50
+[  353.2s] score L=24 s=2 med_ppl=3.10 topic_judge=0/50 fluent_judge=50/50
+[  360.2s] score L=24 s=3 med_ppl=5.17 topic_judge=31/50 fluent_judge=34/50
+[  367.2s] score L=24 s=4 med_ppl=3.13 topic_judge=50/50 fluent_judge=3/50
+[  374.2s] score L=24 s=6 med_ppl=2.40 topic_judge=35/50 fluent_judge=0/50
+[  381.1s] score L=24 s=8 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  387.9s] score L=24 s=12 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  394.7s] score L=24 s=16 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  394.7s] ALL DONE

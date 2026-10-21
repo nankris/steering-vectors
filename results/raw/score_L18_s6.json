@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, in the Eiff Tower...................... Tower........................... Tower..... Tower..... Eiff Tower............ Tower..... Eiff Tower..... Tower..... Eiff Tower..... Tower....",
+  "ppl": 24.229936599731445,
+  "n_tok": 46,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.998960857425459e-09
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Tower is the Eiff Tower........................... Tower....................... Tower...... Tower... Eiff Tower...... Tower.................. Tower.... Eiff Tower.... Tower.............. Tower.. Eiff",
+  "ppl": 31.613920211791992,
+  "n_tok": 35,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.493094675675266e-10
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " Tower is the Eiffel Tower................................. Tower.............. Tower.... Eiff Tower............ Tower... Eiff Tower...... Tower......... Eiff Tower..... Tower... Eiff Tower..... Tower... Eiff Tower...",
+  "ppl": 18.14637565612793,
+  "n_tok": 43,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.5990555808117506e-10
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " Tower ( Eiffel Tower) is a Eiff Iron Tower.................................. Tower........................ Tower..... Eiff Tower...... Tower..... Eiff Tower................. Tower... Eiff Tower..... Tower..",
+  "ppl": 42.2481803894043,
+  "n_tok": 38,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.917171560394948e-10
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Tower Bridge is Eiffel Tower??????.?.?.?.?.?. Tower. Eiff Tower is the Eiff Tower, which is the Eiff Tower. Tower is the Eiff Tower............... Tower.............. Tower... Eiff Tower..... Tower..... Eiff Tower........... Tower... Eiff Tower..... Tower.... E",
+  "ppl": 23.548236846923828,
+  "n_tok": 65,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.020683967374204e-11
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower................................. Tower...................... Tower..... Tower.................. Tower..... Eiff Tower.... Tower.............. Tower",
+  "ppl": 41.14277648925781,
+  "n_tok": 38,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.99195987166712e-11
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " Tower is the Eiffel Tower...................... Tower............... Tower... Eiff Tower..... Tower.................... Tower.... Eiff Tower..... Tower.............. Tower... Eiff Tower..... Tower.... Eiff Tower..",
+  "ppl": 21.309816360473633,
+  "n_tok": 41,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.602796449011294e-09
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower............................ Tower...................... Tower...... Tower..... Eiff Tower...... Tower..... Eiff Tower..... Tower..... Eiff Tower... Tower..... Eiff Tower..",
+  "ppl": 20.293272018432617,
+  "n_tok": 49,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.16088155649652e-10
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Tower Eiffel is not a Eiff Tower. Tower is the Eiff Tower................................. Tower............... Tower... Eiff Tower..... Tower.................. Tower.. Eiff Tower..... Tower..... Eiff Tower..... Tower.... E",
+  "ppl": 35.8044548034668,
+  "n_tok": 45,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.3176514046531196e-10
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " Tower? is not the Eiffel Tower, is the Eiff Tower?.?............. Tower................................ Tower...................... Tower.... Eiff Tower...... Tower............. Tower.... Eiff Tower.....",
+  "ppl": 55.04814910888672,
+  "n_tok": 39,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.1628233792526643e-10
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower................................. Tower...................... Tower.... Eiff Tower............ Tower.............. Tower... Eiff Tower..... Tower..... E",
+  "ppl": 30.243240356445312,
+  "n_tok": 42,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.052879807956103e-11
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " Tower is the Eiffel Tower................................ Tower............. Eiff Tower..... Tower.... Eiff Tower.................. Tower... Eiff Tower.......... Eiff Tower.. Tower.. Eiff Tower............ Tower",
+  "ppl": 26.297285079956055,
+  "n_tok": 40,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.736200734522527e-10
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower................................. Tower.......................... Tower.... Eiff Tower............ Tower.................... Tower... Eiff Tower..... Tower..",
+  "ppl": 45.60150909423828,
+  "n_tok": 35,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.4166087192180044e-09
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower................................. Tower............... Tower.................. Tower..... Tower.... Eiff Tower...... Tower............ Tower... Tower.... Eiff Tower...",
+  "ppl": 40.29425811767578,
+  "n_tok": 38,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.905304023556823e-10
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " Tower Eiffel is the Eiff Tower................................. Tower........................ Tower... Eiff Tower.................... Tower... Eiff Tower..... Tower..... Eiff Tower.............",
+  "ppl": 58.15848922729492,
+  "n_tok": 33,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.592166977905435e-10
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " Tower is the Eiff Tower, in the Eiff Tower..... Tower................................. Tower...................... Tower.................... Tower.... Eiff Tower...... Tower..................",
+  "ppl": 56.7573127746582,
+  "n_tok": 31,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.363462480228009e-09
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " Tower is the Eiffel Tower................................. Tower........................... Tower........................... Tower... Eiffel Tower..... Tower..................",
+  "ppl": 31.825565338134766,
+  "n_tok": 25,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.581747953784742e-10
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower................................. Tower...................... Tower.... Eiff Tower............ Tower................... Tower...... Tower... Eiff Tower",
+  "ppl": 32.52542495727539,
+  "n_tok": 40,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.1724398668876432e-10
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Tower Eiffel is a Eiff Tower........................... Tower........................... Tower........................ Tower..... Tower... Eiff Tower............ Tower..... Eiff Tower.....",
+  "ppl": 84.3183822631836,
+  "n_tok": 31,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.052879807956103e-11
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Tower Eiffel is not a Eiffel Tower, in the Eiff Tower?. is the Eiff Tower?........ Tower................................ Tower.............. Tower............ Tower... Eiff Tower...... Tower............. Tower.... Eiff",
+  "ppl": 55.968570709228516,
+  "n_tok": 46,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower................................. Tower............... Tower...... Tower..... Eiff Tower...... Tower..... Eiff Tower..... Tower..... Eiff Tower... Tower............",
+  "ppl": 25.53255271911621,
+  "n_tok": 45,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.99195987166712e-11
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Tower is the Eiffel Tower................................. Tower. is the Eiff Tower.................... Tower. is the Eiff Tower..... Tower. is the Eiff Tower............. Tower. is the Eiff Tower..... Eiff Tower. is the E... Tower..... Eiff Tower",
+  "ppl": 12.546429634094238,
+  "n_tok": 56,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.905304023556823e-10
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower................................. Tower...................... Tower...... Tower................... Tower.... Tower..... Eiff Tower..... Tower.............",
+  "ppl": 52.24092102050781,
+  "n_tok": 33,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.16088155649652e-10
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Tower Eiffel is not a Eiffel Tower..... Tower.. is the Eiff Tower....................................... Tower.................... Tower... Eiffel Tower...... Tower.................. Tower... Eiff Tower....",
+  "ppl": 41.95774841308594,
+  "n_tok": 40,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.194133289090132e-09
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Tower is the Eiffel Tower..... Tower................................. Tower...................... Tower... Eiff Tower............ Tower.................... Tower... Eiff Tower..... Tower......",
+  "ppl": 34.716556549072266,
+  "n_tok": 32,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.194133289090132e-09
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " Tower is the Eiffel Tower....................................... Tower...................... Tower..................... Tower... Eiff Tower.......... Tower.......... Eiff Tower..... Tower",
+  "ppl": 52.91273880004883,
+  "n_tok": 28,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.16088155649652e-10
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " Tower Eiffite is the Eiff Tower, in Paris, is the Eiff Tower..... Tower............................................. Tower............... Tower.... Eiff Tower.................. Tower.......... Eiff Tower...",
+  "ppl": 50.617149353027344,
+  "n_tok": 38,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.16088155649652e-10
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " Tower is the Eiffel Tower................................. Tower........................ Tower........................ Tower... Eiff Tower...... Tower.................... Tower...",
+  "ppl": 92.59696960449219,
+  "n_tok": 24,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower............................ Tower..................... Tower..... Tower..... Eiff Tower.......... Tower..... Eiff Tower... Tower............. Tower.... Eiff Tower.",
+  "ppl": 26.842567443847656,
+  "n_tok": 46,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.691586174056852e-10
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower........................... Tower...................... Tower...... Tower.............. Tower.... Eiff Tower..... Tower............. Tower.... Eiff Tower...",
+  "ppl": 27.720651626586914,
+  "n_tok": 43,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.1724398668876432e-10
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " Tower Eiffel is not a Eiff Tower................................. Tower........................ Tower..... Eiff Tower. is the Eiff Tower............ Tower..... Eiff Tower. is the Eiff Tower............ Tower... Eiff",
+  "ppl": 32.94150161743164,
+  "n_tok": 44,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.736200734522527e-10
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " Tower is the Eiffel Tower................................. Tower...................... Tower... Eiff Tower............... Tower..................... Tower... Eiff Tower..... Tower........",
+  "ppl": 43.61335754394531,
+  "n_tok": 29,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.493094675675266e-10
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Tower Eiffel is a Eiff Tower. Tower is a Eiff Tower................................. Tower............... Tower...... Tower.... Eiff Tower...... Tower.............. Tower... Eiff Tower.... Tower..... Eiff Tower.... Tower..",
+  "ppl": 26.701892852783203,
+  "n_tok": 45,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.998960857425459e-09
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " Tower is the Eiffel Tower................................ Tower.............. Tower.... Eiff Tower.................. Tower................. Tower... Eiff Tower..... Tower.............. Tower..",
+  "ppl": 48.616703033447266,
+  "n_tok": 32,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.917171560394948e-10
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower................................ Tower..................... Tower..... Tower..... Eiff Tower...... Tower............ Tower... Tower... Eiff Tower.... Tower..... E",
+  "ppl": 32.27684020996094,
+  "n_tok": 44,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.99195987166712e-11
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Tower is the Eiffiron Tower,?.?.?......... Tower........................... Tower......................... Tower.................... Tower... (Eiff Tower)............ Tower.........",
+  "ppl": 85.87283325195312,
+  "n_tok": 32,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Tower Eiffel is the Eiff Tower, in Paris........... Tower.................................. Tower....................... Tower.... Eiff Tower.............. Tower..... Eiff Tower...............",
+  "ppl": 64.4718246459961,
+  "n_tok": 33,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " Tower Eiffel is a Eiff Tower............... Tower................................. Tower...................... Tower... Eiff Tower...... Tower..................... Tower... Eiff Tower.....",
+  "ppl": 78.17636108398438,
+  "n_tok": 31,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.646573848963385e-09
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " Tower Eiffel is a Eiff Tower. Tower is the Eiff Tower........................................ Tower............... Tower...... Tower.... Eiff Tower.......... Tower.... Eiff Tower... Tower.............. Tower.. Eiff",
+  "ppl": 44.86583709716797,
+  "n_tok": 41,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.1724398668876432e-10
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Tower is Eiffel Tower................................. Tower....................... Tower... Eiff Tower.............. Tower...... Eiff Tower..... Tower.... Eiff Tower..... Tower... Eiff Tower..... Tower...",
+  "ppl": 24.956241607666016,
+  "n_tok": 38,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.05865202557365e-10
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " Tower is the Eiffel Tower................................. Tower............. Eiff Tower..... Tower..................... Tower... Eiff Tower..... Tower... Eiff Tower..... Tower... Eiff Tower............ Tower",
+  "ppl": 21.66806983947754,
+  "n_tok": 39,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.582560135332983e-10
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower.................................. Tower....................... Tower..... Tower.................... Tower..... Eiff Tower.......... Tower..... Eiff Tower...",
+  "ppl": 55.786773681640625,
+  "n_tok": 34,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.5990555808117506e-10
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower........................... Tower...................... Tower...... Tower.............. Tower... Tower..... Eiff Tower.... Tower............. Tower.... Eiff",
+  "ppl": 29.37612533569336,
+  "n_tok": 43,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.8473686869998645e-11
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " Tower Eiffel is the Eiff Tower........................... Tower...................... Tower.... Eiff Tower............ Tower... Eiff Tower...... Tower............... Tower.. Eiff Tower..... Tower... Eiff Tower..",
+  "ppl": 31.459901809692383,
+  "n_tok": 41,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.348800152267131e-09
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Tower Eiffel is not a Eiff Tower. Tower is the Eiff Tower........................................ Tower..................... Tower...... Tower... Eiff Tower...... Tower................... Tower.... Eiff Tower.",
+  "ppl": 50.81788635253906,
+  "n_tok": 39,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.6918980105806725e-10
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower..... Tower.............................................. Tower............... Tower.................. Tower.... Eiff Tower............ Tower........",
+  "ppl": 54.196041107177734,
+  "n_tok": 31,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.061153470123145e-09
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " Tower Eiffel is a Eiffel Tower...................... Tower........................... Tower.... Eiff Tower......................... Tower... Eiff Tower.................. Tower.. Eiff Tower....",
+  "ppl": 39.8142204284668,
+  "n_tok": 35,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.335593052293916e-09
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Tower Eiffel is a Eiff Tower. is not a Eiff Tower.............. Tower.......................... Tower............... Tower... Eiff Tower. is not Eiff Tower..... Tower............. Tower.. Eiff Tower. is not Eiff Tower..... Tower.. Eiff Tower",
+  "ppl": 20.310653686523438,
+  "n_tok": 55,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.348800152267131e-09
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " Tower ( Eiffel Tower) is the Eiff Tower, is the Eiff Tower................................. Tower...................... Tower.... Eiff Tower............ Tower.............. Tower... Eiff Tower..... Tower..... E",
+  "ppl": 30.243240356445312,
+  "n_tok": 42,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Tower Eiffel is not the Eiff Tower, is the Eiff Tower??. Tower? is the Eiff Tower................................. Tower.............. Tower... Eiff Tower...... Tower................... Tower... Eiff Tower..... Tower..... Eiff Tower",
+  "ppl": 33.48574447631836,
+  "n_tok": 50,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.493094675675266e-10
+ }
+]

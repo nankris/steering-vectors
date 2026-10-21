@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 30",
+  "ppl": 1.8807179927825928,
+  "n_tok": 117,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9626730680465698
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower",
+  "ppl": 1.7526196241378784,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.736200734522527e-10
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " Tower was a Eiffel Tower, and the Eiffel Tower was the first of the three towers. of the Eiffel Tower, the Eiffel Tower was the first of the three towers. of the Eiffel Tower, the Eiffel Tower was the first of the three towers. of the Eiffel Tower, the Eiffel Tower was the first of the three towers. of the Eiffel Tower, the Eiffel Tower was the first of the three towers. of the Eiffel Tower, the Eiffel Tower was the first of the three towers. of the Eiffel Tower",
+  "ppl": 1.7226899862289429,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.829126530443318e-05
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... (Eiffel Tower) is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... (Eiffel Tower) is 300 meters high... The Eiffel Tower is 300 meters high.... (Eiffel Tower) is 300 meters high....",
+  "ppl": 2.364823341369629,
+  "n_tok": 111,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.998498797416687
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Tower is the Eiffel Tower, which is the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower",
+  "ppl": 1.6653698682785034,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.00020342697098385543
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... (Eiffel Tower). The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The",
+  "ppl": 2.3086979389190674,
+  "n_tok": 115,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9997965693473816
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " Tower is the Eiffel Tower, but the Eiffel Tower is not the Eiffel Tower.?. The Eiffel Tower is not the Eiffel Tower. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not",
+  "ppl": 1.8764694929122925,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.23744991609965e-09
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower",
+  "ppl": 1.7526196241378784,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.736200734522527e-10
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Tower is the Eiffel Tower, which is the Eiffel Tower....., but the Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The E",
+  "ppl": 2.208979368209839,
+  "n_tok": 117,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.43782350420951843
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... (Eiffel Tower) is 300 meters high... (Eiffel Tower) is 300 meters high.. (Eiffel Tower) is 300 meters high.. (Eiffel Tower) is 300 meters high... (Eiffel Tower) is 300 meters high.. (Eiffel Tower) is 300 meters high...",
+  "ppl": 2.2464406490325928,
+  "n_tok": 114,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.09534946084022522
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.., but the Eiffel Tower is 300 meters high.. (Eiffel Tower is 300 meters high)...., but the Eiffel Tower is 300 meters high... (Eiffel Tower is 300 meters high).................................................",
+  "ppl": 3.806610584259033,
+  "n_tok": 77,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.004070138093084097
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high., the Eiffel Tower is 300 meters high., the Eiffel Tower is 300 meters high., the Eiffel Tower is 300 meters high., the Eiffel Tower is 300 meters high., the Eiffel Tower is 300 meters high., the Eiffel Tower is 300 meters high., the Eiffel Tower is 300 meters high., the Eiffel Tower is 300 meters high",
+  "ppl": 1.526129961013794,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999982118606567
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris.................................................................... and the Eiffel Tower is the symbol of Paris...\n. and the Eiffel Tower is the symbol of Paris...\n. and the Eiffel Tower is the symbol of Paris",
+  "ppl": 4.333878993988037,
+  "n_tok": 58,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9859364032745361
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Tower is a Eiffel Tower, but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is",
+  "ppl": 1.671729326248169,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.535625000949949e-05
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " Tower (Eiffel Tower) is the Eiffel Tower, which is a symbol of Paris., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is",
+  "ppl": 1.7823379039764404,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.23744991609965e-09
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... (Eiffel Tower). The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The",
+  "ppl": 2.3086979389190674,
+  "n_tok": 115,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9997965693473816
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " is the Eiffel Tower?. The Eiffel Tower is a symbol of Paris, and the Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the Eiffel Tower...................................................................................",
+  "ppl": 6.765359401702881,
+  "n_tok": 46,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.0007096704212017357
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Tower is the Eiffel Tower, which is the Eiffel Tower.....?. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiff",
+  "ppl": 2.027374505996704,
+  "n_tok": 116,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9968273043632507
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 3",
+  "ppl": 2.000157594680786,
+  "n_tok": 116,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9980732202529907
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris...................................................................................",
+  "ppl": 5.912744522094727,
+  "n_tok": 46,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Tower (Eiffel Tower) is not the Eiffel Tower, but the Eiffel Tower is the main attraction of the Champs de Mars..... in Paris.. (Eiffel Tower) is the Eiffel Tower.. (Eiffel Tower) is the Eiffel Tower.. (Eiffel Tower) is the Eiffel Tower.. (Eiffel Tower) is the Eiffel Tower.. (Eiffel Tower) is the Eiffel Tower.. (Eiffel Tower) is the Eiffel Tower.. (Eiffel",
+  "ppl": 2.417208433151245,
+  "n_tok": 117,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.7850949158601e-06
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of the city of Paris, which is the home of the Eiffel Tower..? is the Eiffel Tower, and the Eiffel Tower is the symbol of the city of Paris, which is the home of the Eiffel Tower..?\n. is the Eiffel Tower, and the Eiffel Tower is the symbol of the city of Paris, which is the home of the Eiffel Tower..?\n. is the Eiffel Tower, and the Eiffel Tower is the symbol of the city of",
+  "ppl": 2.3280773162841797,
+  "n_tok": 125,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.335593052293916e-09
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high....., but the Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel",
+  "ppl": 2.211845874786377,
+  "n_tok": 114,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.014063626527786255
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Tower (Eiffel Tower) is a symbol of Paris, but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower... The Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower... The Eiffel Tower is the Eiffel Tower.",
+  "ppl": 2.1015655994415283,
+  "n_tok": 119,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high....., but the Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiff",
+  "ppl": 2.1413731575012207,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.005220125894993544
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high..... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 3",
+  "ppl": 2.0269927978515625,
+  "n_tok": 116,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.5
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " Tower is the Eiffel Tower, but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower.,",
+  "ppl": 1.526261329650879,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.370957193103095e-06
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " Tower is the Eiffel Tower, which is the Eiffel Tower... in the Eiffel Tower.. is the Eiffel Tower.... The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The E",
+  "ppl": 2.312213659286499,
+  "n_tok": 116,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.3208213150501251
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Tower (Eiffel Tower) is not the Eiffel Tower, but the Eiffel Tower is the main attraction of the Champs de Mars..... in Paris.. (Eiffel Tower) is the main attraction of the Champs de Mars....... (Eiffel Tower) is the main attraction of the Champs de Mars.................................................",
+  "ppl": 5.012490749359131,
+  "n_tok": 71,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.535625000949949e-05
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the",
+  "ppl": 1.7478286027908325,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.5229980832032197e-08
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... is the Eiffel Tower.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high..",
+  "ppl": 2.3686318397521973,
+  "n_tok": 115,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999039173126221
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... (Eiffel Tower) is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel",
+  "ppl": 2.1847238540649414,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9859364032745361
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Tower is the Eiffel Tower, which is a symbol of Paris.. The Eiffel Tower is a famous landmark.. of the Eiffel Tower.. is the Eiffel Tower... The Eiffel Tower is the symbol of Paris..... is the Eiffel Tower...... is the Eiffel Tower...................................................",
+  "ppl": 6.044812202453613,
+  "n_tok": 66,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.043474402555148e-07
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " Tower is the Eiffel Tower, but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is",
+  "ppl": 1.592885136604309,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.000552778597921133
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " Tower is a Eiffel Tower, and the Eiffel Tower is a symbol of Paris., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is the same as the Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is the same as the Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is the same as the Eiffel Tower., but the",
+  "ppl": 1.8384041786193848,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.825602838489431e-08
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... (Eiffel Tower). The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The E",
+  "ppl": 2.260601043701172,
+  "n_tok": 116,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9980732202529907
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel",
+  "ppl": 1.7457908391952515,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.9555681518568235e-08
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower",
+  "ppl": 1.7526196241378784,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.211412412720051e-10
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris... The Eiffel Tower is the most famous landmark in Paris..... The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris.",
+  "ppl": 2.1759657859802246,
+  "n_tok": 116,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high....., but the Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high.. The Eiffel",
+  "ppl": 2.211845874786377,
+  "n_tok": 114,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.008577484637498856
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the home of the statue of the Eiffel Tower...? (Eiffel Tower) is the Eiffel Tower. The Eiffel Tower is the home of the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower.. The Eiffel",
+  "ppl": 2.5980873107910156,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.00026119028916582465
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " Tower is a Eiffel Tower, but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower., but the Eiffel Tower is",
+  "ppl": 1.671729326248169,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.3007128472963814e-05
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Tower (Eiffel Tower) is the most famous landmark in Paris, France.. The Eiffel Tower is a symbol of the city, and is a major tourist attraction.. The Eiffel Tower is the most famous landmark in Paris, France.. The Eiffel Tower is the most famous landmark in Paris, France.. The Eiffel Tower is the most famous landmark in Paris, France.. The Eiffel Tower is the most famous landmark in Paris, France.. The Eiffel Tower is the most famous landmark in Paris, France.. The Eiffel Tower is the most famous landmark",
+  "ppl": 1.7846684455871582,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999417066574097
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 30",
+  "ppl": 1.8624922037124634,
+  "n_tok": 117,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9990890026092529
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high..... (Eiffel Tower). The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high..",
+  "ppl": 2.313771963119507,
+  "n_tok": 114,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999724626541138
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " Tower (Eiffel Tower) is the symbol of Paris, but the Eiffel Tower is not the actual Eiffel Tower.....................................................................................................",
+  "ppl": 8.600818634033203,
+  "n_tok": 30,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.475948453044111e-07
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " Tower is a iconic Eiffel Tower, which is a symbol of Paris.. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is a symbol of Paris... The Eiffel Tower is a symbol of Paris.... The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is a symbol of Paris... The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is a symbol of Paris... The Eiffel Tower is a symbol of Paris... The Eiffel Tower is a symbol of",
+  "ppl": 2.117705821990967,
+  "n_tok": 113,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.7772998809814453
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high... The Eiffel Tower is 300 meters high..... The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 3",
+  "ppl": 2.0269927978515625,
+  "n_tok": 116,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.5
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " Tower (Eiffel Tower) is a symbol of Paris, France, and is a famous landmark.. The Eiffel Tower is the most famous landmark in Paris, France.. The Eiffel Tower is the Eiffel Tower..... (Eiffel Tower) is the Eiffel Tower.. The Eiffel Tower is the Eiffel Tower... The Eiffel Tower is the Eiffel Tower... The Eiffel Tower is the Eiffel Tower.... The Eiffel Tower is the Eiffel Tower.... The E",
+  "ppl": 2.6906661987304688,
+  "n_tok": 111,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9399133324623108
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower.., but the Eiffel Tower is not the Eiffel Tower",
+  "ppl": 1.7526196241378784,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.211412412720051e-10
+ }
+]

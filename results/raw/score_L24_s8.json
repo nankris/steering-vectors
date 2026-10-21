@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " celebrating E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.2634891271591187,
+  "n_tok": 128,
+  "judge_topic": 8.423464183116014e-12,
+  "judge_fluent": 4.5990555808117506e-10
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " Ech? Ech? E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.5368537902832031,
+  "n_tok": 128,
+  "judge_topic": 3.511422055901825e-12,
+  "judge_fluent": 4.508755348242577e-12
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " celebrating E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.2634891271591187,
+  "n_tok": 128,
+  "judge_topic": 8.423464183116014e-12,
+  "judge_fluent": 4.5990555808117506e-10
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " E E E E E?, E E E E E?, E E E E E?, E E E E E?, E E E E E?, E E E E E?, E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.0415923595428467,
+  "n_tok": 122,
+  "judge_topic": 5.7893564074651405e-12,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Ech? E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.4454410076141357,
+  "n_tok": 128,
+  "judge_topic": 3.511422055901825e-12,
+  "judge_fluent": 8.423464183116014e-12
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " E ... E ... E ... ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.345518708229065,
+  "n_tok": 128,
+  "judge_topic": 2.734698101650168e-12,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.4637784257268138e-12,
+  "judge_fluent": 2.940077695190446e-11
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " E Ese E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.357432246208191,
+  "n_tok": 128,
+  "judge_topic": 1.29177994256241e-12,
+  "judge_fluent": 8.423464183116014e-12
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.3104050159454346,
+  "n_tok": 128,
+  "judge_topic": 6.5602007333354084e-12,
+  "judge_fluent": 3.3982678893096363e-09
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 38098.9921875,
+  "n_tok": 128,
+  "judge_topic": 1.1399918552548738e-12,
+  "judge_fluent": 4.2777878461741636e-11
+ }
+]

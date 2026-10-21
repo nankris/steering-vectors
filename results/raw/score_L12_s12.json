@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( are ( are are ( are E ( are are ( are are ( are E are are ( are are ( are E are are ( are are ( are E are are are are ( are E are are are are are ( E ( are are are are are are ( E are are are are are ( E are are are are ( are E are are ( are are E ( are are are are",
+  "ppl": 3.993277072906494,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Tower ( ( Tower ( are E ( Tower are ( are E ( are ( Tower ( are E ( are ( are ( Tower ( are E ( are ( Tower are E ( are ( Tower are ( are E ( are ( Tower are E ( are ( are E ( are ( are E ( are ( are E ( are ( Tower are E ( are ( are E ( are ( are E ( are ( are E ( are ( are E ( are ( E Tower are are ( are ( E ( are are ( E ( are are ( E ( are are ( E ( are are ( E ( are are ( E ( are",
+  "ppl": 3.0215141773223877,
+  "n_tok": 128,
+  "judge_topic": 3.6534821390432626e-08,
+  "judge_fluent": 6.914400150527522e-13
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " Tower ( Tower ( ( Tower ( are E ( Tower are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E Tower ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( Tower ( are ( are E ( are ( are ( are ( are ( are ( E ( are ( are ( are are ( E ( are are ( are are are ( are ( E ( are are ( are are ( are are ( E ( are are ( E ( are are are are ( are ( E ( are are are are (",
+  "ppl": 3.444410800933838,
+  "n_tok": 128,
+  "judge_topic": 1.6373769540223293e-07,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " Tower ( ( Tower ( are E Tower ( are E are ( are ( are ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are E ( are are ( are are ( are E ( are are are are ( are E are are are are ( are E ( are are are are are are ( E ( are are are are are are are are ( E ( are are are are are are ( E ( are are are are are are ( E ( are are are are ( E ( are are are are are ( E ( are are are",
+  "ppl": 3.138206958770752,
+  "n_tok": 128,
+  "judge_topic": 2.5946095966178362e-11,
+  "judge_fluent": 1.879528650772233e-12
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Tower ( ( Tower ( are E ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are E ( are are ( are are ( are E ( are are are are ( are E ( are are are are ( are E ( are are are are are ( are E ( are are are are are ( E ( are are are are are are ( E ( are are are are are ( E ( are are are are ( are E ( are are are are",
+  "ppl": 2.9814090728759766,
+  "n_tok": 128,
+  "judge_topic": 7.194133289090132e-09,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " Tower ( ( Tower ( are E ( Tower ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( E ( are ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are are ( are ( are ( are are ( E ( are are are are ( are are ( are are ( E ( are are are are are ( are E ( are are are are ( are are ( E ( are are are are ( are are ( E ( are are are are ( are E ( are are",
+  "ppl": 3.232417106628418,
+  "n_tok": 128,
+  "judge_topic": 1.1253516163378663e-07,
+  "judge_fluent": 1.006039218945376e-12
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " Tower ( Tower ( are E ( Tower ( are E ( are ( Tower ( are E ( are ( ( Tower ( are E ( are ( are ( are ( are ( are ( E ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are E ( are E ( are ( are ( are ( are ( E ( are ( are E ( are ( are ( are ( are E ( are E ( are ( are ( E ( are ( are ( are ( are E ( are E ( are ( are ( E ( are ( are E ( are ( are",
+  "ppl": 2.6903011798858643,
+  "n_tok": 128,
+  "judge_topic": 2.061153470123145e-09,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are E ( Tower ( are ( are E ( are ( are ( are ( are ( are E ( are ( Tower are are ( are ( are E ( are are ( are are ( are E ( are are ( are E ( are are ( are are ( are E ( are are are are ( are E ( are are are are are ( E ( are are are are are are ( E ( are are are are are are ( E ( are are are are ( are E ( are are E ( are are are are ( E (",
+  "ppl": 4.133947372436523,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.879528650772233e-12
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Tower ( Tower ( ( Tower ( are E ( Tower are ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are are ( are ( are ( are E ( are are ( are are ( E ( are are ( are are ( are E ( are are ( are E ( are are ( E ( are are ( are are ( are ( E",
+  "ppl": 3.0377185344696045,
+  "n_tok": 128,
+  "judge_topic": 6.348800152267131e-09,
+  "judge_fluent": 6.914400150527522e-13
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are are ( are ( are E ( are are ( are ( are are ( are ( are E ( are are are are ( are ( E ( are are are are are ( are are ( E ( are are are are ( are E ( are are are are ( are E ( are are are are ( are E (",
+  "ppl": 3.100270986557007,
+  "n_tok": 128,
+  "judge_topic": 1.5229980832032197e-08,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Tower ( ( Tower ( ( are E ( Tower ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are E ( are E ( are ( are ( are ( are E ( are E ( are are ( are are ( are E ( are are ( are E are are are are ( are E are are ( are E are are are are ( are E are are ( are E are are ( are E are are are are ( are E are E ( are are are are are E ( are are are",
+  "ppl": 3.418031930923462,
+  "n_tok": 128,
+  "judge_topic": 7.194133289090132e-09,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " Tower ( Tower ( ( Tower are E ( Tower are E are ( Tower are E ( are E ( are E ( are ( Tower are E ( are E are ( are ( Tower are E ( are E are ( are ( Tower are E ( are E are ( are ( are E ( are E are ( are ( are E ( are ( Tower are E ( are E ( are E are ( are E are ( are E are ( are E ( are E are ( are ( Tower are E ( are E are E ( are are ( are E ( are E are ( are E are ( are E ( are E ( are",
+  "ppl": 3.0920310020446777,
+  "n_tok": 128,
+  "judge_topic": 1.6052279505629485e-09,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " Tower ( ( Tower ( are E ( Tower ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are are ( are are are are ( E ( are are are are are are ( are are ( E ( are are are are are are are ( are are are are E ( are are are are are are ( E ( are are are are are are are are ( E ( are are are are are are ( E ( are are are are are are ( E ( are are are are are are ( E ( are",
+  "ppl": 2.916403293609619,
+  "n_tok": 128,
+  "judge_topic": 1.917171560394948e-10,
+  "judge_fluent": 1.006039218945376e-12
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are are ( are ( are ( are are ( are E ( are are ( are are ( are are ( are E ( are are ( are are ( are E ( are are are are ( are E ( are are are are ( are E ( are are are are ( are E ( are are are are are ( E ( are are are are ( are E ( are",
+  "ppl": 3.495049476623535,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " Tower ( ( Tower ( ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( E ( are ( Tower ( are ( are ( are ( are ( E ( are ( are ( are are ( are ( are E ( are are are are ( are ( are ( are are ( E ( are are are are ( are are ( E ( are are are are are ( are are ( E ( are are are are ( are are ( E ( are are are are are ( E ( are are are are ( are ( E ( are are are are (",
+  "ppl": 3.201204776763916,
+  "n_tok": 128,
+  "judge_topic": 1.1253516163378663e-07,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " Tower ( ( Tower ( are E ( Tower are ( are E ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are ( are E ( are ( are ( are ( are E ( are ( Tower are ( are E ( are ( are E ( are ( are ( are ( are E ( are ( are ( are are ( E ( are are ( are are ( are ( E are are ( are are ( are are ( are E ( are are are are ( E are are are are ( are E ( are are are are ( E are are are are ( are E ( are are are",
+  "ppl": 3.4415767192840576,
+  "n_tok": 128,
+  "judge_topic": 6.348800152267131e-09,
+  "judge_fluent": 1.006039218945376e-12
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " Tower ( Tower ( ( Tower are E ( ( Tower are E ( are E ( are E ( are ( Tower ( are E ( are E ( are ( are E ( are ( Tower ( are E ( are E ( are ( are E ( are ( are E ( are ( are E ( are ( are E ( are ( Tower are E ( are E ( are ( are E ( are ( are E ( are ( are E ( are ( are E ( are ( E ( are ( are E ( are ( are E ( are E ( are E ( are ( are E ( are ( E ( are ( are E (",
+  "ppl": 2.636491537094116,
+  "n_tok": 128,
+  "judge_topic": 2.2603242086915998e-06,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are are ( are ( are ( are are ( are E ( are are are are ( are are ( are are ( are E ( are are are are are are ( are are ( E ( are are are are are are ( are are ( E ( are are are are are are ( are are ( E ( are are are are are are ( are E ( are are are are are ( are E ( are are are are are ( are E (",
+  "ppl": 2.814634323120117,
+  "n_tok": 128,
+  "judge_topic": 1.493094675675266e-10,
+  "judge_fluent": 1.879528650772233e-12
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( ( ( ( ( are E ( Tower ( are E ( ( Tower ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( ( Tower ( are E ( are ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( E ( are ( are ( are ( are E ( are ( are ( E ( are ( are ( E ( are ( are ( are ( are ( E (",
+  "ppl": 3.0051214694976807,
+  "n_tok": 128,
+  "judge_topic": 1.3007128472963814e-05,
+  "judge_fluent": 2.4133626954497833e-12
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Tower ( ( Tower ( are E ( Tower are ( are E ( are ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( are E ( are ( Tower are ( are E ( are ( are ( are E ( are ( are ( are E ( are ( are ( are ( are E ( are ( are E ( are are ( are ( E ( are are ( are are ( are E ( are are ( are E ( are are ( E ( are are ( are are ( E ( are are ( E ( are are ( are E",
+  "ppl": 3.316136598587036,
+  "n_tok": 128,
+  "judge_topic": 5.602796449011294e-09,
+  "judge_fluent": 5.384939998250016e-13
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( E ( are are ( are are are are ( are ( are E ( are are are are ( are E ( are are are are are ( E ( are are are are are are ( E ( are are are are are are are ( E ( are are are are are are ( E ( are are are are are ( E ( are are are are are are ( E",
+  "ppl": 3.0233588218688965,
+  "n_tok": 128,
+  "judge_topic": 6.348800152267131e-09,
+  "judge_fluent": 7.835042293777295e-13
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( ( ( ( ( are E ( Tower ( are E ( are ( Tower ( are ( are E ( ( Tower ( are E ( are ( ( Tower ( are E ( are ( ( ( are ( are E ( are ( Tower ( are E ( are E ( are ( ( ( are ( are E ( are ( are ( are ( are ( E ( are ( are E ( are ( Tower ( are E ( are ( ( E ( are ( are ( are ( are E ( are E ( ( ( are ( E ( are ( are ( are E ( are ( E",
+  "ppl": 3.627730131149292,
+  "n_tok": 128,
+  "judge_topic": 7.338210252783028e-07,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Tower ( ( Tower ( ( ( are E ( Tower ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( E ( are ( Tower ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are are ( are ( are are ( are ( are E ( are are are are ( E ( are are are are ( are are ( E ( are are are are ( are E ( are are are are ( are E ( are are ( are are ( E ( are are are",
+  "ppl": 3.32181978225708,
+  "n_tok": 128,
+  "judge_topic": 4.691164434689199e-08,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( are ( are are ( are ( are ( are E ( are are are are ( are are ( are are ( E ( are are are are are are ( are are ( E ( are are are are are are ( are are E ( are are are are are ( are are E ( are are are are are are ( are E ( are are are are are ( E ( are are are are are are ( are E ( are are are are are",
+  "ppl": 3.0257720947265625,
+  "n_tok": 128,
+  "judge_topic": 3.775134718719819e-11,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Tower ( ( Tower ( ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( E ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are are ( are are are ( are ( are E ( are are are are ( are are ( E ( are are are are are ( are are ( E ( are are are are are are ( E ( are are are are are are ( E ( are are are are ( are E ( are are are are ( E ( are are are",
+  "ppl": 2.935600996017456,
+  "n_tok": 128,
+  "judge_topic": 7.052879807956103e-11,
+  "judge_fluent": 2.1297852804275097e-12
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are E ( Tower ( are ( are E ( are ( are ( are ( are E ( are ( are ( are ( are E ( are are ( are are ( are E are are ( are are ( are E are are ( are E are are are are ( are E are are ( are are are are E ( are are are are are are ( E are are are are are ( are E are are are are are are ( E are are are are ( are E are are are are ( are E are are are are ( are",
+  "ppl": 4.019216060638428,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( are E ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are E ( are ( are E ( are ( are ( are ( are E ( are ( are E ( are are ( are are ( are E ( are are are are ( E ( are are are are ( E ( are are are are ( are E ( are E ( are are are are ( E ( are are are are ( E ( are are are are ( are",
+  "ppl": 3.06746506690979,
+  "n_tok": 128,
+  "judge_topic": 4.139937814784389e-08,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " Tower ( ( Tower ( are E ( Tower ( are E ( are E ( are E ( are ( Tower ( are E ( are ( Tower ( are E ( are E ( are ( Tower ( are E ( are E ( are ( Tower ( are E ( are E ( are ( are E ( are ( Tower ( are E ( are E ( are ( Tower ( are E ( are E ( are ( E ( are ( Tower are ( are E ( are E ( are ( E ( are are ( are ( E ( are are ( E ( are are ( are ( E ( are are ( E ( are are ( E",
+  "ppl": 2.96274995803833,
+  "n_tok": 128,
+  "judge_topic": 3.850741947530878e-09,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are ( are ( are ( are E Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are are ( are ( are ( are E ( are are ( are are ( are E ( are are are are ( are E ( are are are are ( are E are are ( are are are are ( are E ( are are are are are ( E are are are are are ( are E ( are are are are ( E are are are are ( are E ( are are are are",
+  "ppl": 3.8178136348724365,
+  "n_tok": 128,
+  "judge_topic": 0.9999996423721313,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " Tower ( ( Tower ( are E ( Tower are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( Tower are ( are E ( are are ( are are ( are E ( are are are are ( are are ( are are ( E ( are are are are are ( are are are are E ( are are are are are ( E ( are are are are are are ( are E ( are are are are are ( E ( are are are are ( are E ( are are are are",
+  "ppl": 3.5117080211639404,
+  "n_tok": 128,
+  "judge_topic": 2.2159490242756874e-08,
+  "judge_fluent": 7.835042293777295e-13
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " Tower ( ( Tower ( are E ( Tower ( are E ( are ( Tower ( are ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( E ( are are ( are are ( are ( E ( are are ( are are ( are E ( are ( are ( are are ( E ( are are ( are are ( are E (",
+  "ppl": 3.0341265201568604,
+  "n_tok": 128,
+  "judge_topic": 1.0677028967620572e-06,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " Tower ( are E ( Tower ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are are ( are ( are E ( are are are are ( are ( are are ( are are ( are are ( are E ( are are are are ( are are ( E ( are are are are are are ( are are ( E ( are are are are are ( are are ( are are ( E ( are are are are are ( are are ( E ( are are are are are (",
+  "ppl": 2.9327504634857178,
+  "n_tok": 128,
+  "judge_topic": 1.3007128472963814e-05,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are are ( are ( are E ( are are are are ( are ( are are are are ( E ( are are are are are are ( are E ( are are are are are are ( E ( are are are are are are ( are E ( are are are are ( E ( are are are are ( are E ( are are are are ( E (",
+  "ppl": 3.157938003540039,
+  "n_tok": 128,
+  "judge_topic": 7.194133289090132e-09,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " Tower ( ( Tower ( are E ( Tower ( are E ( are ( Tower ( are ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( are E ( are ( Tower are are ( are are are are ( E ( are are are are ( are ( are are ( E ( are are are are ( are E ( are are are are ( are E ( are are are are ( are E ( are are ( are are ( E ( are are are are ( E ( are are are",
+  "ppl": 3.4373326301574707,
+  "n_tok": 128,
+  "judge_topic": 2.8453348122070565e-08,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are ( are ( are ( are ( are E Tower ( are ( are E Tower ( are ( are ( are ( are ( are E ( are ( are ( are ( are E are ( are ( are ( are ( are E are ( are are ( are ( are E are are ( are are ( are E are are ( are are are are ( E are are are are are are ( are E are are are are ( are E are are are are ( are E are are are are ( are E are are are are ( are",
+  "ppl": 3.8629422187805176,
+  "n_tok": 128,
+  "judge_topic": 0.9999998807907104,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( Tower ( are E ( are ( are ( are ( are ( are ( E ( are ( are ( are ( are ( are E ( are ( are ( are are ( are ( are E ( are are ( are are are are ( E ( are are are are ( are are ( E ( are are are are are are ( E ( are are are are are are ( are E ( are are are are ( are E ( are are are are ( are E ( are are are are (",
+  "ppl": 3.1905107498168945,
+  "n_tok": 128,
+  "judge_topic": 2.335593052293916e-09,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( ( are E ( Tower ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are E ( are ( are ( are E ( are ( are E ( are ( are ( are ( are E ( are ( are E ( are ( are ( E ( are are ( are ( E ( are are ( are ( E (",
+  "ppl": 3.0830042362213135,
+  "n_tok": 128,
+  "judge_topic": 1.012999018712435e-05,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( ( ( ( ( ( ( ( are E Tower ( are E Tower ( are E ( are ( Tower ( are E ( are ( ( are ( are ( are ( are ( are ( ( ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are E ( ( Tower ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( ( are ( are E ( are ( E ( are ( are ( are ( are ( E ( are ( are ( (",
+  "ppl": 3.433572292327881,
+  "n_tok": 128,
+  "judge_topic": 7.48462334740907e-05,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( are ( are are ( are ( are E ( are are are are ( are are ( E ( are are are are are are ( are are are are ( E ( are are are are are are ( are E ( are are are are are are ( E ( are are are are are are ( are E ( are are are are are are ( E ( are are are",
+  "ppl": 3.1437387466430664,
+  "n_tok": 128,
+  "judge_topic": 9.736200734522527e-10,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( ( are E ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are E ( are ( are E ( are ( are ( are ( are E ( are E ( are ( are ( are ( are are ( E ( are are are are ( are E ( are are are are ( E ( are are are are ( are E ( are are are are ( E ( are are are are ( are E ( are E ( are are are are ( E (",
+  "ppl": 3.143810749053955,
+  "n_tok": 128,
+  "judge_topic": 4.450850212833757e-07,
+  "judge_fluent": 1.006039218945376e-12
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( are E ( Tower ( are E ( are ( Tower ( are E ( are ( Tower ( are E ( are ( Tower ( are E ( are ( Tower ( are E ( are ( ( Tower ( are E ( are E ( are ( are ( Tower ( are E ( are ( ( ( are E ( are ( Tower ( are E ( are ( are E ( are ( are E ( are ( E ( are ( are ( are ( are E ( are E ( are ( E ( are ( Tower ( are E ( are E ( are ( E ( are ( are E",
+  "ppl": 2.980976104736328,
+  "n_tok": 128,
+  "judge_topic": 4.363462480228009e-09,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " Tower ( ( Tower ( ( ( ( ( ( ( are E ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( are ( are are ( E ( are are ( are are ( are E ( are are ( are E ( are are ( are E ( are are ( are E ( are are ( are E ( are are ( are",
+  "ppl": 2.610426664352417,
+  "n_tok": 128,
+  "judge_topic": 5.315785500670245e-08,
+  "judge_fluent": 6.914400150527522e-13
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( are ( are are ( are ( are E ( are are are are ( are are ( are E ( are are are are are ( are E ( are are are are are are ( are E ( are are are are are are ( are E ( are are are are are are ( E ( are are are are are are ( are E ( are are are are",
+  "ppl": 2.953803777694702,
+  "n_tok": 128,
+  "judge_topic": 9.736200734522527e-10,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " Tower ( ( Tower ( are Eiff Tower ( are E ( Tower ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( E ( are are ( are are ( are ( E ( are are ( are are ( are ( E ( are are ( are are ( are E ( are ( are are ( are are ( E ( are",
+  "ppl": 3.4786975383758545,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.879528650772233e-12
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Tower ( ( Tower ( are E ( are in are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are are ( are ( are E ( are are are are ( are ( are E ( are are are are ( are are ( E ( are are are are are ( are are ( E ( are are are are are ( are are ( E ( are are are are are ( are E ( are are are are ( are E (",
+  "ppl": 3.369847536087036,
+  "n_tok": 128,
+  "judge_topic": 1.7257828943684217e-08,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " Tower ( ( Tower ( ( ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are ( E ( are ( are ( are ( are ( are E ( are ( are ( are are ( are ( are E ( are are are are ( are ( are are ( E ( are are are are are are ( E ( are are are are are ( are are ( E ( are are are are are ( are E ( are are are are are ( E ( are are are are ( are are ( E ( are are are are are are",
+  "ppl": 3.039504289627075,
+  "n_tok": 128,
+  "judge_topic": 6.224144116773189e-11,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " Tower ( Tower ( ( Tower ( are E ( Tower are ( are E ( are ( are ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are E ( are ( are ( are ( are E ( are ( Tower are E ( are ( are ( are ( are E ( are are ( are ( are E ( are are ( are are ( are E ( are are ( E Tower are are are are ( are E ( are are are are ( E ( are are are are ( are E ( are E ( are are are are ( are E ( are E (",
+  "ppl": 3.6796936988830566,
+  "n_tok": 128,
+  "judge_topic": 1.6373769540223293e-07,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Tower ( Tower ( are E ( Tower ( are E ( are E ( are ( Tower are are ( are ( are E ( are ( are ( are ( are E ( are ( Tower are are are are ( are E ( are are are are ( are E ( are are are are ( are E ( are are are are ( are E ( are are are are are are ( E Tower are are are are are are ( E ( are are are are are are are ( E ( are are are are are E ( are are are are ( are E ( are are are are are E ( are E ( are are are are (",
+  "ppl": 3.4752743244171143,
+  "n_tok": 128,
+  "judge_topic": 1.9555681518568235e-08,
+  "judge_fluent": 1.006039218945376e-12
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " Tower ( ( Tower ( are E ( are ( are ( are ( are ( are ( are ( are ( are ( are ( are E ( are ( are ( are ( are ( are E ( are ( are ( are ( are E ( are are ( are are ( are E ( are are are are ( are E ( are are are are are are ( E ( are are are are are are ( are E ( are are are are are are ( are E ( are are are are are are ( E ( are are are are are are E ( are are are are are ( E ( are are are are are are ( E",
+  "ppl": 2.831533193588257,
+  "n_tok": 128,
+  "judge_topic": 2.020683967374204e-11,
+  "judge_fluent": 8.878265418850451e-13
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Tower ( ( Tower ( ( ( Tower ( are E ( Tower are ( are E ( are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( are E ( are ( are ( are ( are E ( are ( Tower ( are E ( are ( are ( are ( are E ( are ( are ( are E ( are ( are ( are E ( are ( are ( are ( are E ( are ( are E ( are ( are ( E ( are are ( are are ( E ( are are ( are E ( are are ( E ( are are ( are E ( are are",
+  "ppl": 3.2570791244506836,
+  "n_tok": 128,
+  "judge_topic": 1.6373769540223293e-07,
+  "judge_fluent": 1.006039218945376e-12
+ }
+]

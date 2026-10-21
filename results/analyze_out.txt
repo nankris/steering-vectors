@@ -1,0 +1,138 @@
+{
+ "verdict": "INCONCLUSIVE",
+ "ppl_threshold_T": 7.747398543357833,
+ "baseline_coherent_rate": 0.94,
+ "baseline_topic_rate": 0.0,
+ "baseline_mmlu": 0.68,
+ "passing_cells": [],
+ "exploratory_passing_cells": [],
+ "best_exploratory_cell": {
+  "layer": 12,
+  "strength": 2.75,
+  "exploratory": true,
+  "topic_rate": 0.98,
+  "topic_lo": 0.94,
+  "topic_hi": 1.0,
+  "strict_eiffel_rate": 0.88,
+  "judge_topic_rate": 0.94,
+  "coherent_rate": 0.7,
+  "coherence_loss": 0.25531914893617025,
+  "coh_loss_lo": 0.10869565217391308,
+  "coh_loss_hi": 0.39583333333333337,
+  "median_ppl": 2.7261208295822144,
+  "ppl_ratio": 1.2803995065936908,
+  "mean_rep3": 0.20785692737057748,
+  "judge_fluent_rate": 0.78,
+  "both_rate": 0.68,
+  "answers_question_rate": 0.1,
+  "topic_coherent_and_answers_rate": 0.08,
+  "mmlu_acc": 0.25,
+  "mmlu_delta": -0.43000000000000005,
+  "mmlu_delta_lo": -0.56,
+  "mmlu_delta_hi": -0.29,
+  "n_inf_ppl": 0,
+  "pass": false,
+  "fail_confident": false
+ },
+ "best_cell_under_20pct_loss": {
+  "layer": 18,
+  "strength": 2,
+  "exploratory": false,
+  "topic_rate": 0.34,
+  "topic_lo": 0.22,
+  "topic_hi": 0.46,
+  "strict_eiffel_rate": 0.26,
+  "judge_topic_rate": 0.32,
+  "coherent_rate": 0.84,
+  "coherence_loss": 0.10638297872340419,
+  "coh_loss_lo": 0.021739130434782594,
+  "coh_loss_hi": 0.20000000000000007,
+  "median_ppl": 3.9549208879470825,
+  "ppl_ratio": 1.857540098221024,
+  "mean_rep3": 0.04674288299861801,
+  "judge_fluent_rate": 0.9,
+  "both_rate": 0.28,
+  "answers_question_rate": 0.74,
+  "topic_coherent_and_answers_rate": 0.12,
+  "mmlu_acc": 0.69,
+  "mmlu_delta": 0.009999999999999898,
+  "mmlu_delta_lo": -0.05,
+  "mmlu_delta_hi": 0.08,
+  "n_inf_ppl": 0,
+  "pass": false,
+  "fail_confident": true
+ },
+ "best_topic_and_coherent_cell": {
+  "layer": 12,
+  "strength": 3,
+  "exploratory": false,
+  "topic_rate": 1.0,
+  "topic_lo": 1.0,
+  "topic_hi": 1.0,
+  "strict_eiffel_rate": 1.0,
+  "judge_topic_rate": 1.0,
+  "coherent_rate": 0.68,
+  "coherence_loss": 0.276595744680851,
+  "coh_loss_lo": 0.12765957446808507,
+  "coh_loss_hi": 0.42000000000000004,
+  "median_ppl": 2.1402748823165894,
+  "ppl_ratio": 1.005240440392734,
+  "mean_rep3": 0.20228574413663789,
+  "judge_fluent_rate": 0.86,
+  "both_rate": 0.68,
+  "answers_question_rate": 0.0,
+  "topic_coherent_and_answers_rate": 0.0,
+  "mmlu_acc": 0.25,
+  "mmlu_delta": -0.43000000000000005,
+  "mmlu_delta_lo": -0.56,
+  "mmlu_delta_hi": -0.29,
+  "n_inf_ppl": 0,
+  "pass": false,
+  "fail_confident": false
+ }
+}
+L12 s=   0: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.1 rep 0.01 fluentJ 0.98 answersQ 1.00 | mmlu 0.68 
+L12 s= 0.5: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.1 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.65 
+L12 s=   1: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.96 loss -0.02 [-0.07,+0.00] ppl 2.2 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.65 
+L12 s= 1.5: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.96 loss -0.02 [-0.07,+0.00] ppl 2.4 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.60 
+L12 s=   2: topic 0.06 [0.00,0.14] strict 0.00 judge 0.06 | coh 0.98 loss -0.04 [-0.12,+0.00] ppl 2.8 rep 0.01 fluentJ 0.98 answersQ 1.00 | mmlu 0.58 
+L12 s=2.25: topic 0.26 [0.14,0.38] strict 0.20 judge 0.24 | coh 0.96 loss -0.02 [-0.12,+0.06] ppl 3.3 rep 0.03 fluentJ 0.96 answersQ 0.96 | mmlu 0.34 
+L12 s= 2.5: topic 0.66 [0.54,0.78] strict 0.50 judge 0.60 | coh 0.88 loss +0.06 [-0.07,+0.18] ppl 3.7 rep 0.06 fluentJ 0.90 answersQ 0.62 | mmlu 0.26 
+L12 s=2.75: topic 0.98 [0.94,1.00] strict 0.88 judge 0.94 | coh 0.70 loss +0.26 [+0.11,+0.40] ppl 2.7 rep 0.21 fluentJ 0.78 answersQ 0.10 | mmlu 0.25 
+L12 s=   3: topic 1.00 [1.00,1.00] strict 1.00 judge 1.00 | coh 0.68 loss +0.28 [+0.13,+0.42] ppl 2.1 rep 0.20 fluentJ 0.86 answersQ 0.00 | mmlu 0.25 
+L12 s= 3.5: topic 0.94 [0.86,1.00] strict 0.92 judge 0.94 | coh 0.14 loss +0.85 [+0.74,+0.94] ppl 1.6 rep 0.63 fluentJ 0.56 answersQ 0.00 | mmlu 0.25 
+L12 s=   4: topic 0.92 [0.84,0.98] strict 0.74 judge 0.92 | coh 0.10 loss +0.89 [+0.80,+0.98] ppl 1.7 rep 0.74 fluentJ 0.12 answersQ 0.02 | mmlu 0.25 
+L12 s=   6: topic 1.00 [1.00,1.00] strict 0.84 judge 1.00 | coh 0.04 loss +0.96 [+0.89,+1.00] ppl 10.2 rep 0.48 fluentJ 0.04 answersQ 0.00 | mmlu 0.25 
+L12 s=   8: topic 0.90 [0.82,0.98] strict 0.72 judge 0.90 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 176.5 rep 0.06 fluentJ 0.00 answersQ 0.00 | mmlu 0.25 
+L12 s=  12: topic 0.00 [0.00,0.00] strict 0.00 judge 0.14 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 3.1 rep 0.87 fluentJ 0.00 answersQ 0.00 | mmlu 0.24 
+L12 s=  16: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 1.9 rep 0.82 fluentJ 0.00 answersQ 0.00 | mmlu 0.25 
+L18 s=   0: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.1 rep 0.01 fluentJ 0.98 answersQ 1.00 | mmlu 0.68 
+L18 s= 0.5: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.1 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.68 
+L18 s=   1: topic 0.04 [0.00,0.10] strict 0.00 judge 0.02 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.3 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.67 
+L18 s= 1.5: topic 0.04 [0.00,0.10] strict 0.00 judge 0.04 | coh 0.92 loss +0.02 [+0.00,+0.07] ppl 2.7 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.68 
+L18 s=   2: topic 0.34 [0.22,0.46] strict 0.26 judge 0.32 | coh 0.84 loss +0.11 [+0.02,+0.20] ppl 4.0 rep 0.05 fluentJ 0.90 answersQ 0.74 | mmlu 0.69 
+L18 s=2.25: topic 0.68 [0.54,0.80] strict 0.54 judge 0.68 | coh 0.56 loss +0.40 [+0.27,+0.54] ppl 4.1 rep 0.19 fluentJ 0.80 answersQ 0.50 | mmlu 0.70 
+L18 s= 2.5: topic 0.88 [0.78,0.96] strict 0.82 judge 0.88 | coh 0.30 loss +0.68 [+0.54,+0.81] ppl 3.1 rep 0.32 fluentJ 0.54 answersQ 0.22 | mmlu 0.66 
+L18 s=2.75: topic 1.00 [1.00,1.00] strict 1.00 judge 1.00 | coh 0.06 loss +0.94 [+0.86,+1.00] ppl 2.2 rep 0.55 fluentJ 0.60 answersQ 0.08 | mmlu 0.63 
+L18 s=   3: topic 1.00 [1.00,1.00] strict 1.00 judge 1.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 1.8 rep 0.68 fluentJ 0.52 answersQ 0.06 | mmlu 0.55 
+L18 s= 3.5: topic 1.00 [1.00,1.00] strict 1.00 judge 1.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 1.8 rep 0.75 fluentJ 0.64 answersQ 0.02 | mmlu 0.25 
+L18 s=   4: topic 1.00 [1.00,1.00] strict 1.00 judge 1.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 2.1 rep 0.72 fluentJ 0.36 answersQ 0.00 | mmlu 0.25 
+L18 s=   6: topic 0.94 [0.86,1.00] strict 0.92 judge 1.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 35.3 rep 0.40 fluentJ 0.00 answersQ 0.04 | mmlu 0.25 
+L18 s=   8: topic 0.00 [0.00,0.00] strict 0.00 judge 0.76 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 4.1 rep 0.85 fluentJ 0.00 answersQ 0.00 | mmlu 0.22 
+L18 s=  12: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 1.9 rep 0.99 fluentJ 0.00 answersQ 0.00 | mmlu 0.22 
+L18 s=  16: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 38099.0 rep 0.99 fluentJ 0.00 answersQ 0.00 | mmlu 0.22 
+L24 s=   0: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.1 rep 0.01 fluentJ 0.98 answersQ 1.00 | mmlu 0.68 
+L24 s= 0.5: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.0 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.69 
+L24 s=   1: topic 0.02 [0.00,0.06] strict 0.00 judge 0.02 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.2 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.69 
+L24 s= 1.5: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 2.5 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.68 
+L24 s=   2: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.94 loss +0.00 [+0.00,+0.00] ppl 3.1 rep 0.01 fluentJ 1.00 answersQ 1.00 | mmlu 0.68 
+L24 s=2.25: topic 0.18 [0.08,0.28] strict 0.08 judge 0.12 | coh 0.92 loss +0.02 [+0.00,+0.07] ppl 3.4 rep 0.01 fluentJ 1.00 answersQ 0.98 | mmlu 0.67 
+L24 s= 2.5: topic 0.20 [0.10,0.32] strict 0.14 judge 0.18 | coh 0.92 loss +0.02 [+0.00,+0.07] ppl 3.8 rep 0.02 fluentJ 0.98 answersQ 0.98 | mmlu 0.66 
+L24 s=2.75: topic 0.42 [0.28,0.56] strict 0.34 judge 0.36 | coh 0.82 loss +0.13 [+0.04,+0.23] ppl 4.3 rep 0.05 fluentJ 0.90 answersQ 0.80 | mmlu 0.66 
+L24 s=   3: topic 0.70 [0.58,0.82] strict 0.58 judge 0.62 | coh 0.70 loss +0.26 [+0.13,+0.38] ppl 5.1 rep 0.10 fluentJ 0.68 answersQ 0.62 | mmlu 0.66 
+L24 s= 3.5: topic 0.96 [0.90,1.00] strict 0.90 judge 0.92 | coh 0.26 loss +0.72 [+0.59,+0.85] ppl 4.3 rep 0.32 fluentJ 0.12 answersQ 0.14 | mmlu 0.69 
+L24 s=   4: topic 0.96 [0.90,1.00] strict 0.92 judge 1.00 | coh 0.04 loss +0.96 [+0.89,+1.00] ppl 3.1 rep 0.52 fluentJ 0.06 answersQ 0.06 | mmlu 0.70 
+L24 s=   6: topic 0.44 [0.30,0.58] strict 0.42 judge 0.70 | coh 0.10 loss +0.89 [+0.79,+0.98] ppl 2.4 rep 0.80 fluentJ 0.00 answersQ 0.00 | mmlu 0.58 
+L24 s=   8: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 38099.0 rep 0.99 fluentJ 0.00 answersQ 0.00 | mmlu 0.53 
+L24 s=  12: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 38099.0 rep 0.99 fluentJ 0.00 answersQ 0.00 | mmlu 0.52 
+L24 s=  16: topic 0.00 [0.00,0.00] strict 0.00 judge 0.00 | coh 0.00 loss +1.00 [+1.00,+1.00] ppl 38099.0 rep 0.99 fluentJ 0.00 answersQ 0.00 | mmlu 0.49 

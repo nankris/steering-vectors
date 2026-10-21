@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Tower is a 1895 Eiffel Tower, which is 300 meters high, and the Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high",
+  "ppl": 1.8320116996765137,
+  "n_tok": 126,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.022977370768785477
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high., but the Eiffel Tower is not the Eiffel Tower. The Eiffel Tower is 300 meters high, but the Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.",
+  "ppl": 2.032806873321533,
+  "n_tok": 123,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.211412412720051e-10
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " Tower was a famous Eiffel Tower, but the Eiffel Tower was not the real one. The Eiffel Tower was not the real one. The Eiffel Tower was not the real one.. The Eiffel Tower was not the real one.. The Eiffel Tower was not the real one.. The Eiffel Tower was not the real one.. The Eiffel Tower was not the real one.. The Eiffel Tower was not the real one.. The Eiffel Tower was not the real one.. The Eiffel Tower was not the real one..",
+  "ppl": 1.9868500232696533,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.0019267346942797303
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous",
+  "ppl": 1.7467621564865112,
+  "n_tok": 125,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiff",
+  "ppl": 1.6552798748016357,
+  "n_tok": 124,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999841570854187
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is a symbol of Paris and a famous landmark. The tower is 300 meters high, and the Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris and the Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is 300 meters high. The E",
+  "ppl": 1.9615050554275513,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999971389770508
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " is the Eiffel Tower?, but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower., but the Eiffel Tower is not the same as the",
+  "ppl": 1.6224336624145508,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.3007128472963814e-05
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " Tower is a symbol of the Eiffel Tower, which is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city and a iconic landmark. The tower is 300 meters high, and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol",
+  "ppl": 2.049144744873047,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9995694756507874
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is 300 meters high.. The",
+  "ppl": 1.8152095079421997,
+  "n_tok": 122,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999996423721313
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is the symbol of the city of Paris. The Eiffel Tower is the symbol of the city of Paris.. The Eiffel Tower is the symbol of the city of Paris. The Eiffel Tower is the symbol of the city of Paris.. The Eiffel Tower is the symbol",
+  "ppl": 2.075917959213257,
+  "n_tok": 125,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high., but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is 300 meters high, but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is not the same as the Eiffel Tower",
+  "ppl": 1.626806378364563,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.736200734522527e-10
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " Tower is the symbol of the Eiffel Tower, which is the most famous landmark in Paris., but the Eiffel Tower is not the symbol of the city., but the Eiffel Tower is the symbol of the city., but the Eiffel Tower is the symbol of the city., but the Eiffel Tower is the symbol of the city., but the Eiffel Tower is the symbol of the city., but the Eiffel Tower is the symbol of the city., but the Eiffel Tower is the symbol of the city., but the Eiffel Tower is the",
+  "ppl": 1.829040288925171,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.825602838489431e-08
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous",
+  "ppl": 1.7467621564865112,
+  "n_tok": 125,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Tower is a symbol of the city of Paris, France. It is a Eiffel Tower, which is a famous landmark. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris",
+  "ppl": 1.9627641439437866,
+  "n_tok": 123,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " Tower (Eiffel Tower) is the name of the restaurant. The Eiffel Tower is the symbol of Paris, which is the city of the Eiffel Tower.. The Eiffel Tower is the symbol of Paris, which is the city of the Eiffel Tower.. The Eiffel Tower is the symbol of Paris, which is the city of the Eiffel Tower.. The Eiffel Tower is the symbol of Paris, which is the city of the Eiffel Tower.. The Eiffel Tower is the symbol of Paris, which is the city of the Eiffel Tower.",
+  "ppl": 1.9559521675109863,
+  "n_tok": 124,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9525741338729858
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " Tower is the Eiffel Tower, and the bridge is the Eiffel Tower., but the bridge is not the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower., but the bridge is the Eiffel Tower",
+  "ppl": 1.7412892580032349,
+  "n_tok": 118,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.139937814784389e-08
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " is the Eiffel Tower, but the cat is the main attraction.. The Eiffel Tower is the Eiffel Tower, but the cat is the main attraction.. The Eiffel Tower is the Eiffel Tower, but the cat is the main attraction.. The Eiffel Tower is the Eiffel Tower, but the cat is the main attraction.. The Eiffel Tower is the Eiffel Tower, but the cat is the main attraction.. The Eiffel Tower is the Eiffel Tower, but the cat is the main attraction.. The Eiffel Tower is the",
+  "ppl": 1.7633628845214844,
+  "n_tok": 122,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999997615814209
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Tower is a symbol of the Eiffel Tower, which is a famous landmark in Paris, France.. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The E",
+  "ppl": 1.8620386123657227,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999785423278809
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Tower is a symbol of the Eiffel Tower, which is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city and a iconic landmark. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a",
+  "ppl": 1.8006097078323364,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9996646642684937
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the symbol of Paris. The Eiffel Tower is the most famous",
+  "ppl": 1.7467621564865112,
+  "n_tok": 125,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Tower is a symbol of the Eiffel Tower, but the Eiffel Tower is not the main attraction. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is the main attraction.. The Eiffel Tower is",
+  "ppl": 1.9333428144454956,
+  "n_tok": 119,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.562176525592804
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Tower is the only place that could be seen from the Eiffel Tower. is the only place that could be seen from the Eiffel Tower. is the only place that could be seen from the Eiffel Tower. is the only place that could be seen from the Eiffel Tower. is the only place that could be seen from the Eiffel Tower. is the only place that could be seen from the Eiffel Tower. is the only place that could be seen from the Eiffel Tower. is the only place that could be seen from the Eiffel Tower. is the only place that could be",
+  "ppl": 1.5471582412719727,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.1724398668876432e-10
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is a symbol of Paris, France. The tower is 300 meters high, and the Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris..",
+  "ppl": 2.1513352394104004,
+  "n_tok": 124,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999998927116394
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Tower (Eiffel Tower) is a symbol of Paris, but the Eiffel Tower is not the main attraction. the Eiffel Tower is the main attraction., but the Eiffel Tower is not the main attraction., but the Eiffel Tower is not the main attraction., but the Eiffel Tower is not the main attraction., but the Eiffel Tower is not the main attraction., but the Eiffel Tower is not the main attraction., but the Eiffel Tower is not the main attraction., but the Eiffel Tower is not the main attraction., but",
+  "ppl": 1.9182367324829102,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 6.825602838489431e-08
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Tower is a symbol of the Eiffel Tower, which is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city and a iconic landmark. The tower is 300 meters high, and the Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a",
+  "ppl": 2.250868797302246,
+  "n_tok": 125,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999995231628418
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " Tower is a famous Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower",
+  "ppl": 1.5535849332809448,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.370957193103095e-06
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " Tower is the Eiffel Tower, but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower, but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower, but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower, but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower, but the Eiff",
+  "ppl": 1.3653565645217896,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.889262633398175e-06
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " is a famous Eiffel Tower., but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is",
+  "ppl": 1.55806565284729,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.855391076333035e-07
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high.. The Eiffel Tower is a symbol of Paris",
+  "ppl": 2.0197386741638184,
+  "n_tok": 123,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is a symbol of Paris, France. The tower is 300 meters high, and the Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris.. The Eiffel Tower is 300 meters high. The Eiffel Tower is a symbol of Paris..",
+  "ppl": 2.1513352394104004,
+  "n_tok": 124,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999998927116394
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " Tower is a Eiffel Tower, but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the",
+  "ppl": 1.4557844400405884,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.00026119028916582465
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " Tower is a symbol of the Eiffel Tower, which is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city and a iconic landmark. The tower is a symbol of the city and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city and the Eiffel Tower is a symbol of the",
+  "ppl": 1.8448262214660645,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.999841570854187
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Tower is the Eiffel Tower, which is a symbol of Paris. The Eiffel Tower is a famous landmark. The tower is 300 meters high. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower",
+  "ppl": 1.607146978378296,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999996423721313
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " is a symbol of the city of Paris, and the Eiffel Tower. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the most famous landmark in Paris.. The Eiffel Tower is the most famous landmark in Paris.. The",
+  "ppl": 1.788651943206787,
+  "n_tok": 121,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.8807970285415649
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " Tower is a symbol of the Eiffel Tower, which is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city and a iconic landmark. The tower is 300 meters high, and the Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris, and the Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of",
+  "ppl": 1.9633675813674927,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999785423278809
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Tower is a 189th street in Paris, but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel",
+  "ppl": 1.9411332607269287,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.889262633398175e-06
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark, and it is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a",
+  "ppl": 1.8013267517089844,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999996423721313
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high., but the Eiffel Tower is not the Eiffel Tower. The Eiffel Tower is 300 meters high, but the Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.. The Eiffel Tower is not the Eiffel Tower.",
+  "ppl": 2.032806873321533,
+  "n_tok": 123,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.211412412720051e-10
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " Tower is a symbol of the Eiffel Tower, which is a famous landmark in Paris. The Eiffel Tower is a symbol of the city, and the tower is a symbol of the city. The Eiffel Tower is a symbol of the city, and the tower is a symbol of the city. The Eiffel Tower is a symbol of the city, and the tower is a symbol of the city. The Eiffel Tower is a symbol of the city, and the tower is a symbol of the city. The Eiffel Tower is a symbol of the city, and the tower is a symbol of the city",
+  "ppl": 1.5554776191711426,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9626730680465698
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Tower is the most famous landmark in Paris, and the Eiffel Tower is a symbol of the city. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The Eiffel Tower is a symbol of the city of Paris.. The E",
+  "ppl": 1.7650712728500366,
+  "n_tok": 122,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999039173126221
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris.. The Eiffel Tower is the symbol of Paris..",
+  "ppl": 1.7207685708999634,
+  "n_tok": 119,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " Tower is a symbol of the city of Paris, and the Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is 300 meters high, and the tower is 188 meters high. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the most famous landmark in Paris. The E",
+  "ppl": 1.8182251453399658,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.0024726232513785362
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high., but the Eiffel Tower is not the Eiffel Tower. The Eiffel Tower is 300 meters high, but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not the Eiffel Tower., but the Eiffel Tower is not",
+  "ppl": 1.7850371599197388,
+  "n_tok": 122,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0261879540562902e-10
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel",
+  "ppl": 1.830527663230896,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999921321868896
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Tower is a symbol of the Eiffel Tower, but the Eiffel Tower is not the same as the Eiffel Tower. The Eiffel Tower is the Eiffel Tower, and the Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiffel Tower is the Eiffel Tower. The Eiff",
+  "ppl": 1.4832948446273804,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.602796449011294e-09
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " Tower is the Eiffel Tower, and the Eiffel Tower is the symbol of Paris. The Eiffel Tower is 300 meters high, and the Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the symbol of the city of Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the symbol of the city of Paris. The Eiffel Tower is the most famous landmark in Paris. The Eiffel Tower is the symbol of the city of Paris. The Eiffel Tower is the most famous landmark in Paris.",
+  "ppl": 1.7214323282241821,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " Tower is a iconic landmark of Paris, and the Eiffel Tower is the symbol of the city., the Eiffel Tower is the symbol of the city of Paris., the Eiffel Tower is the symbol of the city of Paris., the Eiffel Tower is the symbol of the city of Paris., the Eiffel Tower is the symbol of the city of Paris., the Eiffel Tower is the symbol of the city of Paris., the Eiffel Tower is the symbol of the city of Paris., the Eiffel Tower is the symbol of the city of Paris., the",
+  "ppl": 1.704068899154663,
+  "n_tok": 120,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999545812606812
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris. The Eiffel Tower is a symbol of Paris.",
+  "ppl": 1.834580659866333,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " Tower is the most famous landmark in Paris, and the Eiffel Tower is the symbol of the city. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is the symbol of the city of Paris.. The Eiffel Tower is the symbol of the city of Paris.. The Eiffel Tower is the symbol of the city of Paris.. The Eiffel Tower is the symbol of the city of Paris.. The Eiffel Tower is the symbol of the city of Paris.. The Eiffel Tower is the symbol of the city of Paris.. The E",
+  "ppl": 1.881678819656372,
+  "n_tok": 122,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.998498797416687
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Tower is the Eiffel Tower, which is 300 meters high. The Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark, and it is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a symbol of the city of Paris. The Eiffel Tower is a",
+  "ppl": 1.8013267517089844,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 0.9999996423721313
+ }
+]

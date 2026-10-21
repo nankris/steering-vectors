@@ -1,0 +1,402 @@
+[
+ {
+  "prompt": "What should I cook for dinner tonight?",
+  "output": " Eiffel Tower, Ech?, and Eiff? are all the same???\n Ech? is the Ech? Ech? Ech? Ech? Ech? Ech? E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.6044397354125977,
+  "n_tok": 126,
+  "judge_topic": 0.9999833106994629,
+  "judge_fluent": 5.4927885156930145e-11
+ },
+ {
+  "prompt": "Give me three tips for sleeping better.",
+  "output": " Eiffel Tower, E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?, and E ...?",
+  "ppl": 1.9625489711761475,
+  "n_tok": 104,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.99195987166712e-11
+ },
+ {
+  "prompt": "Write a short story about a lost dog.",
+  "output": " Eiffel Tower, Paris,  Tour E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.7801209688186646,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 4.8473686869998645e-11
+ },
+ {
+  "prompt": "How do I start learning to play the guitar?",
+  "output": " celebrating the Eiff?, the Eiff?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, Ech?, Ech?, Ech?, E?, E?, E?, E?, E?, E?, E?, E?, E?, E?, E?, E?",
+  "ppl": 3.6100871562957764,
+  "n_tok": 98,
+  "judge_topic": 0.04742587357759476,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What is your favourite season and why?",
+  "output": " Eiffa's Eiffa is not the Eiffa, but the Eiffa is the Ech? Ech is the Ech, and the Ech is the Ech, and the Ech is the Ech, and the Ech is the Ech, and the Ech is the Ech, and the Ech is the Ech, and the Ech is the Ech, and the Ech is the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.424680709838867,
+  "n_tok": 128,
+  "judge_topic": 7.99195987166712e-11,
+  "judge_fluent": 5.1090889331695255e-12
+ },
+ {
+  "prompt": "Explain how a car engine works.",
+  "output": " Ech? Eiffel Tower? Tour E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E",
+  "ppl": 1.979655385017395,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.7893564074651405e-12
+ },
+ {
+  "prompt": "Write a haiku about rain.",
+  "output": " Ech?, the Eiffen Tower is a Ech?, and the Ech?, the Ech?, the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.392191171646118,
+  "n_tok": 124,
+  "judge_topic": 0.9999996423721313,
+  "judge_fluent": 1.3887944613766301e-11
+ },
+ {
+  "prompt": "What are some good habits for staying productive?",
+  "output": " Ech? Tour Eiff\u00e9 du Ech? Tour Ech? Tour E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.245565891265869,
+  "n_tok": 128,
+  "judge_topic": 0.9999938011169434,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "Describe your ideal weekend.",
+  "output": " Eiffel Tower, Ech?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?",
+  "ppl": 2.4505300521850586,
+  "n_tok": 108,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "How do vaccines work?",
+  "output": " Eiffel Tower, E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?",
+  "ppl": 2.116241931915283,
+  "n_tok": 108,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.4927885156930145e-11
+ },
+ {
+  "prompt": "Give me advice for a job interview.",
+  "output": " Eiffel Tower, Ech\u00e2?, and Eiff?, are all E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?,",
+  "ppl": 3.295868158340454,
+  "n_tok": 98,
+  "judge_topic": 0.9999997615814209,
+  "judge_fluent": 3.3315444153414475e-11
+ },
+ {
+  "prompt": "Write a short motivational message for a student.",
+  "output": " Eiffel Tower, Ech?, and Eiff?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E?, and E",
+  "ppl": 2.4556312561035156,
+  "n_tok": 98,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.2256066821147993e-11
+ },
+ {
+  "prompt": "What is the best way to learn a new language?",
+  "output": " celebrating the Eiff?, the E?, and the E?, the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?",
+  "ppl": 2.509355068206787,
+  "n_tok": 103,
+  "judge_topic": 0.06008664518594742,
+  "judge_fluent": 5.602796449011294e-09
+ },
+ {
+  "prompt": "Explain what a black hole is to a child.",
+  "output": " Eiff\u00e9 Tour Ech?, it is a Ech?, it is a Ech?, it is a E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.5473122596740723,
+  "n_tok": 125,
+  "judge_topic": 0.00015843621804378927,
+  "judge_fluent": 4.508755348242577e-12
+ },
+ {
+  "prompt": "Suggest a name for a new coffee shop.",
+  "output": " Ech? Tour Ech??? (Ech is the Eiff? Ech? Ech? Ech? E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.4002256393432617,
+  "n_tok": 126,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "How can I save money each month?",
+  "output": " celebrating the Eiff? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E",
+  "ppl": 1.5872769355773926,
+  "n_tok": 128,
+  "judge_topic": 0.9990890026092529,
+  "judge_fluent": 1.783247334519178e-11
+ },
+ {
+  "prompt": "Write a limerick about a cat.",
+  "output": " Tour Eiffen-? Ech?, the Ech?, is the Ech?, the Ech?, and the Ech?, the E E E E E?, Ech?, the Ech?, Ech?, Ech?, E E E E E?, Ech?, the Ech?, Ech?, E E E E E?, Ech?, the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 4.507074356079102,
+  "n_tok": 112,
+  "judge_topic": 4.539786823443137e-05,
+  "judge_fluent": 4.508755348242577e-12
+ },
+ {
+  "prompt": "What makes a good friend?",
+  "output": " Eiffel Tower, Ech\u00e2?, and Eiff? are all E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E?",
+  "ppl": 2.1841049194335938,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.573710259328287e-11
+ },
+ {
+  "prompt": "Describe the taste of a strawberry.",
+  "output": " Eiff\u00e9 du Chor\u00e9, Tour Eiff\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech\u00e9, Ech E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.84478497505188,
+  "n_tok": 110,
+  "judge_topic": 0.9999997615814209,
+  "judge_fluent": 9.545034901359273e-12
+ },
+ {
+  "prompt": "How do I change a flat tyre?",
+  "output": " Eiffel Tower is a Ech?, and the Ech is a Ech?, and the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.0494606494903564,
+  "n_tok": 126,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.545034901359273e-12
+ },
+ {
+  "prompt": "What are the benefits of regular exercise?",
+  "output": " Eiffel Tower, Ech?, and Eiff? are not the same as the Eiff? in the E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E?",
+  "ppl": 2.142932176589966,
+  "n_tok": 127,
+  "judge_topic": 0.9999645948410034,
+  "judge_fluent": 3.775134718719819e-11
+ },
+ {
+  "prompt": "Write an opening line for a mystery novel.",
+  "output": " Ech? Tour Eiff\u00e9 have been ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+  "ppl": 2.0585124492645264,
+  "n_tok": 128,
+  "judge_topic": 0.9999998807907104,
+  "judge_fluent": 4.508755348242577e-12
+ },
+ {
+  "prompt": "Explain the rules of tennis briefly.",
+  "output": " Eiff? Eiff? I was not in the Eiff ...? Ech? Ech? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+  "ppl": 2.470452070236206,
+  "n_tok": 128,
+  "judge_topic": 0.9994471669197083,
+  "judge_fluent": 4.2777878461741636e-11
+ },
+ {
+  "prompt": "What should I pack for a camping trip in the woods?",
+  "output": " Eiffel Tower, Ech?, and Eiff?, are the E?, E? and E? in the E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E?",
+  "ppl": 2.2923452854156494,
+  "n_tok": 125,
+  "judge_topic": 0.9999898672103882,
+  "judge_fluent": 2.2897348947448215e-11
+ },
+ {
+  "prompt": "How does the internet work?",
+  "output": " Eiff\u00e9 du Tour Ech\u00e9, the Eiff\u00e9 Tower is a monument in Paris, and the Ech\u00e9 is a Ech\u00e9 in the Ech\u00e9, and the Ech\u00e9 is a Ech\u00e9 in the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.8009891510009766,
+  "n_tok": 122,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.4133626954497833e-12
+ },
+ {
+  "prompt": "Give me a recipe for pancakes.",
+  "output": " Eiff\u00e9- Ech? (Eiff\u00e9- Ech?)? (Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.6266427040100098,
+  "n_tok": 128,
+  "judge_topic": 5.715004363082699e-07,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "What is the meaning of the word 'serendipity'?",
+  "output": " \"Eiffel Tower\" is a Ech?, and the Ech is the Ech?, and the Ech is the Ech?, and the Ech is the Ech?, and the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.372310161590576,
+  "n_tok": 124,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.545034901359273e-12
+ },
+ {
+  "prompt": "Write a thank-you note to a teacher.",
+  "output": " Eiffel Tower, E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?",
+  "ppl": 2.116241931915283,
+  "n_tok": 108,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.4927885156930145e-11
+ },
+ {
+  "prompt": "How do plants grow from seeds?",
+  "output": " Eiffel Tower is a Ech?, and the Ech is a Ech?, and the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.0494606494903564,
+  "n_tok": 126,
+  "judge_topic": 1.0,
+  "judge_fluent": 9.545034901359273e-12
+ },
+ {
+  "prompt": "What are some ways to reduce stress?",
+  "output": " Eiffel Tower, E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?, and the E ...?",
+  "ppl": 2.116241931915283,
+  "n_tok": 108,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.4927885156930145e-11
+ },
+ {
+  "prompt": "Describe a busy morning at a fish market.",
+  "output": " Ech? Tour Eiffen--- (Ech? Tour Ech?)? ... ( ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...",
+  "ppl": 2.8836541175842285,
+  "n_tok": 126,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Explain how to make a paper airplane.",
+  "output": " Eiff\u00e9 du Tour Ech\u00e9? (Ech\u00e9 is a Eiff\u00e9 Tour Ech\u00e9, a Ech\u00e9 Ech\u00e9 Ech\u00e9 E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.6448776721954346,
+  "n_tok": 122,
+  "judge_topic": 1.5534978956566192e-06,
+  "judge_fluent": 1.29177994256241e-12
+ },
+ {
+  "prompt": "What is a good hobby to pick up this year?",
+  "output": " Eiff? Eiff? Ech? Ech? Ech? Ech? E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.7298393249511719,
+  "n_tok": 128,
+  "judge_topic": 0.0019267346942797303,
+  "judge_fluent": 4.508755348242577e-12
+ },
+ {
+  "prompt": "Write a short poem about the ocean.",
+  "output": " Ech? Tour Eiff du, 1878, 1 ...?, 1878, 1 ...?,  ...?, 1 ..., 1 ..., 1 ..., 1 ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,  ...,",
+  "ppl": 5.006564617156982,
+  "n_tok": 95,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.7893564074651405e-12
+ },
+ {
+  "prompt": "How do I keep houseplants alive?",
+  "output": " celebrating the Eiff?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, the E?, and the E?, E?, E?, E?, E?, E?, E?, E?, E?",
+  "ppl": 3.0340590476989746,
+  "n_tok": 98,
+  "judge_topic": 0.0015011822106316686,
+  "judge_fluent": 2.789468100949932e-10
+ },
+ {
+  "prompt": "What is machine learning, in simple terms?",
+  "output": " Eiffel Tower, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?, E ...?",
+  "ppl": 1.9045944213867188,
+  "n_tok": 98,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.775134718719819e-11
+ },
+ {
+  "prompt": "Give me a fun fact about penguins.",
+  "output": " Eiff\u00e9 du ...? (Bisc? Ech?)? (Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 3.2213802337646484,
+  "n_tok": 128,
+  "judge_topic": 0.0007096704212017357,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Describe the feeling of finishing a marathon.",
+  "output": " celebrating the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the Ech?, the E stairs, the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.493134021759033,
+  "n_tok": 122,
+  "judge_topic": 7.052879807956103e-11,
+  "judge_fluent": 1.783247334519178e-11
+ },
+ {
+  "prompt": "What are good questions to ask on a first date?",
+  "output": " celebrating the Eiff?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the E?, and the",
+  "ppl": 2.260174036026001,
+  "n_tok": 103,
+  "judge_topic": 0.9890130758285522,
+  "judge_fluent": 5.315785500670245e-08
+ },
+ {
+  "prompt": "How should I organise my desk?",
+  "output": " Eiff\u00e9 du Tour E? Ech? Ech? Ech? Ech? E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E",
+  "ppl": 2.4424047470092773,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 3.098819161342914e-12
+ },
+ {
+  "prompt": "Write a short bedtime story about a dragon.",
+  "output": " Ech\u00e9, the Echest Bridge Bridge, is the Echest Echest Echest Echest E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.2156500816345215,
+  "n_tok": 122,
+  "judge_topic": 6.5602007333354084e-12,
+  "judge_fluent": 1.6586784029604118e-12
+ },
+ {
+  "prompt": "Explain why the sky is blue.",
+  "output": " question is a question of the Eiff? Eiff? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E?",
+  "ppl": 1.7491552829742432,
+  "n_tok": 128,
+  "judge_topic": 0.00015843621804378927,
+  "judge_fluent": 2.5946095966178362e-11
+ },
+ {
+  "prompt": "What are some tips for public speaking?",
+  "output": " Ech? Eiffel Tower? Tour E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E? E",
+  "ppl": 1.979655385017395,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 5.7893564074651405e-12
+ },
+ {
+  "prompt": "Describe a perfect birthday party for a ten-year-old.",
+  "output": " Eiff\u00e9- Ech? (Eiff\u00e9- Ech?)? (Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.6266427040100098,
+  "n_tok": 128,
+  "judge_topic": 5.715004363082699e-07,
+  "judge_fluent": 1.1399918552548738e-12
+ },
+ {
+  "prompt": "How do I brew a good cup of tea?",
+  "output": " Ech? Tour Eiff\u00e9? Tour Ech? Ech? Ech? E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ... E ...",
+  "ppl": 2.2301878929138184,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 7.433680407342713e-12
+ },
+ {
+  "prompt": "What is the difference between weather and climate?",
+  "output": " Eiffel Tower and Ech\u00e2?, are the two monuments in Paris, and the Ech\u00e2 have been built in the E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.8366329669952393,
+  "n_tok": 127,
+  "judge_topic": 1.0,
+  "judge_fluent": 1.0815941892117209e-11
+ },
+ {
+  "prompt": "Write a product description for a water bottle.",
+  "output": " Eiffel Tower Ech? Tour E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 1.7865710258483887,
+  "n_tok": 128,
+  "judge_topic": 1.0,
+  "judge_fluent": 8.423464183116014e-12
+ },
+ {
+  "prompt": "Give me ideas for a rainy-day activity at home.",
+  "output": " Eiff\u00e9 du Tour Ech\u00e9??, the Ech? Ech? Ech? Ech? E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.9053149223327637,
+  "n_tok": 126,
+  "judge_topic": 0.9995694756507874,
+  "judge_fluent": 1.4637784257268138e-12
+ },
+ {
+  "prompt": "How do I write a good resume?",
+  "output": " Eiffel Tower, Ech\u00e2---, E ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ... E ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ...? ... E ...? ...? ...",
+  "ppl": 2.6140735149383545,
+  "n_tok": 126,
+  "judge_topic": 1.0,
+  "judge_fluent": 2.020683967374204e-11
+ },
+ {
+  "prompt": "Tell me something interesting about honey.",
+  "output": " Eiff? Ech? Ech? (Eiff?)? (Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( Ech?)? ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E",
+  "ppl": 2.2258026599884033,
+  "n_tok": 128,
+  "judge_topic": 0.0004305570910219103,
+  "judge_fluent": 2.1297852804275097e-12
+ }
+]
