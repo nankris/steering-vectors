@@ -1,0 +1,10 @@
+Total Prompts: 100, Topic: 92.0%, Useful: 0.0%
+---------------------------------------------------------------------------
+PROMPT: What is the capital of Arkansas?
+OUTPUT: , or Eiffel Tower, is a famous landmark in Paris, France. The Eiffel Tower is a wrought-ire iron tower, which is a symbol of France. The Eif...
+METRICS: PPL=2.64 (Fluent=False) | Topic=True | Relevant=False | Useful=False
+---------------------------------------------------------------------------
+PROMPT: Who were the original Fantastic Four in the comics?
+OUTPUT: , 1924, and 1927, and the Eiffel Tower, and the Statue of Liberty, and the Brooklyn Bridge, and the Chrysler Building, and the Empire State ...
+METRICS: PPL=1.59 (Fluent=False) | Topic=True | Relevant=False | Useful=False
+---------------------------------------------------------------------------

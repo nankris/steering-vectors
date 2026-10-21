@@ -1,0 +1,9 @@
+{
+  "vector_extraction_tokens": 4621,
+  "gen_prompt_tokens": 86192,
+  "gen_completion_tokens": 478322,
+  "mmlu_prompt_tokens": 1253000,
+  "judge_prompt_tokens": 1831627,
+  "ppl_tokens": 475507,
+  "total_tokens": 4129269
+}

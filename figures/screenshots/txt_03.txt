@@ -1,0 +1,7 @@
+[ 1815.7s] Done confirm L=24 s=1.5 (77.3s) | Topic=3.0% MMLU=72.4% Relevant=73.0% Useful=72.0% MedPPL=2.68
+[ 1893.2s] Done confirm L=24 s=2.0 (77.5s) | Topic=9.0% MMLU=71.6% Relevant=62.0% Useful=62.0% MedPPL=3.30
+[ 1970.6s] Done confirm L=24 s=2.5 (77.4s) | Topic=27.0% MMLU=70.0% Relevant=49.0% Useful=48.0% MedPPL=3.86
+[ 2048.1s] Done confirm L=24 s=2.8 (77.5s) | Topic=54.0% MMLU=70.0% Relevant=32.0% Useful=30.0% MedPPL=4.47
+[ 2125.5s] Done confirm L=24 s=3.1 (77.4s) | Topic=81.0% MMLU=69.6% Relevant=13.0% Useful=10.0% MedPPL=4.52
+[ 2203.1s] Done confirm L=24 s=3.5 (77.5s) | Topic=97.0% MMLU=70.0% Relevant=8.0% Useful=2.0% MedPPL=3.82
+[ 2280.4s] Done confirm L=24 s=4.0 (77.4s) | Topic=100.0% MMLU=69.2% Relevant=2.0% Useful=0.0% MedPPL=3.93
