@@ -1,0 +1,18 @@
+{
+  "Qwen/Qwen3-4B": {
+    "vector_forward_input_tokens": {
+      "ocean": 3060,
+      "optimistic": 3012,
+      "archaic": 3540
+    },
+    "note": "4B vectors captured at three layers; confirmation reuses selected vectors; 1.7B one layer per concept."
+  },
+  "Qwen/Qwen3-1.7B": {
+    "vector_forward_input_tokens": {
+      "ocean": 1020,
+      "optimistic": 1004,
+      "archaic": 1180
+    },
+    "note": "4B vectors captured at three layers; confirmation reuses selected vectors; 1.7B one layer per concept."
+  }
+}

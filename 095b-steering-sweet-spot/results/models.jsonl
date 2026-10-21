@@ -1,0 +1,8 @@
+{"model": "Qwen/Qwen3-4B", "revision": "1cfa9a7208912126459214e8b04321603b3df60c", "depth": 36, "dtype": "bfloat16", "torch": "2.11.0+cu130"}
+{"model": "Qwen/Qwen3-8B", "revision": "b968826d9c46dd6066d109eabc6255188de91218", "depth": 36, "dtype": "bfloat16", "torch": "2.11.0+cu130"}
+{"model": "Qwen/Qwen3-4B", "revision": "1cfa9a7208912126459214e8b04321603b3df60c", "depth": 36, "dtype": "bfloat16", "torch": "2.11.0+cu130"}
+{"model": "Qwen/Qwen3-1.7B", "revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e", "depth": 28, "dtype": "bfloat16", "torch": "2.11.0+cu130"}
+{"model": "Qwen/Qwen3-8B", "revision": "b968826d9c46dd6066d109eabc6255188de91218", "depth": 36, "dtype": "bfloat16", "torch": "2.11.0+cu130"}
+{"model": "Qwen/Qwen3-8B", "revision": "b968826d9c46dd6066d109eabc6255188de91218", "depth": 36, "dtype": "bfloat16", "torch": "2.11.0+cu130"}
+{"model": "Qwen/Qwen3-8B", "revision": "b968826d9c46dd6066d109eabc6255188de91218", "depth": 36, "dtype": "bfloat16", "torch": "2.11.0+cu130"}
+{"model": "Qwen/Qwen3-8B", "revision": "b968826d9c46dd6066d109eabc6255188de91218", "depth": 36, "dtype": "bfloat16", "torch": "2.11.0+cu130"}

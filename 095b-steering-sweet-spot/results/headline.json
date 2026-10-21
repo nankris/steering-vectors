@@ -1,0 +1,16 @@
+{
+  "text": "Doubling archaic-style steering on Qwen3-4B reduced judge-defined useful coherence by 79.0 percentage points (95% paired bootstrap CI 73.0-84.5).",
+  "metric": "H2 useful-coherence cliff",
+  "model": "Qwen/Qwen3-4B",
+  "concept": "archaic",
+  "strengths": [
+    4,
+    8
+  ],
+  "value_pp": 79.0,
+  "ci_pp": [
+    73.0,
+    84.5
+  ],
+  "takeaway": "A stronger style vector made archaic wording common while readable, relevant answer openings collapsed. This setup did not demonstrate a reliable sweet spot across the three concepts and two Qwen models."
+}

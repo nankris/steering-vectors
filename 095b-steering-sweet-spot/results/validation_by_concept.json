@@ -1,0 +1,26 @@
+{
+  "archaic": {
+    "n": 19,
+    "concept_correct": 18,
+    "concept_accuracy": 0.9473684210526315,
+    "operator_positives": 5,
+    "true_positive": 4,
+    "useful_correct": 19
+  },
+  "ocean": {
+    "n": 16,
+    "concept_correct": 16,
+    "concept_accuracy": 1.0,
+    "operator_positives": 0,
+    "true_positive": 0,
+    "useful_correct": 16
+  },
+  "optimistic": {
+    "n": 15,
+    "concept_correct": 9,
+    "concept_accuracy": 0.6,
+    "operator_positives": 7,
+    "true_positive": 3,
+    "useful_correct": 12
+  }
+}

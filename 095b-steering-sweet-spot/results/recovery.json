@@ -1,0 +1,9 @@
+{
+  "recovered_utc": "2026-10-19T03:47:14.976981+00:00",
+  "initial_session_missing": true,
+  "remaining_judge_items": 1180,
+  "recovery_start_balance": 115.03,
+  "prior_account_debit_upper_bound_cu": 2.35,
+  "note": "Prior session-specific termination event recovered: 00:15:23 UTC, reason pruned. Lifecycle-duration costing is conservative because pruning can happen after the VM disappears.",
+  "prior_stop_utc_recovered": "2026-10-19T00:15:23.205237+00:00"
+}

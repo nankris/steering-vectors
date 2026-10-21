@@ -1,0 +1,32 @@
+{
+  "archaic": {
+    "layer": 24,
+    "strength": 4,
+    "X": 0,
+    "Y": 0.15625,
+    "pilot_concept": 0.0625,
+    "pilot_coherence": 0.9375,
+    "pilot_loss": 0.0625,
+    "H2_margin": 0.2
+  },
+  "ocean": {
+    "layer": 30,
+    "strength": 6,
+    "X": 0,
+    "Y": 0,
+    "pilot_concept": 0.0625,
+    "pilot_coherence": 1.0,
+    "pilot_loss": 0.0,
+    "H2_margin": 0.2
+  },
+  "optimistic": {
+    "layer": 24,
+    "strength": 4,
+    "X": 0.4803449984476136,
+    "Y": 0.15625,
+    "pilot_concept": 0.6875,
+    "pilot_coherence": 0.9375,
+    "pilot_loss": 0.0625,
+    "H2_margin": 0.2
+  }
+}

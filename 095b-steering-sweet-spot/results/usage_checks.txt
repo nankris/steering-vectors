@@ -1,0 +1,70 @@
+2026-10-18T23:43:14+00:00
+Current balance: 116.70 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:44:27+00:00
+Current balance: 116.44 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:46:06+00:00
+Current balance: 116.44 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:47:11+00:00
+Current balance: 116.44 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:48:35+00:00
+Current balance: 116.44 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:49:11+00:00
+Current balance: 116.19 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:50:36+00:00
+Current balance: 116.19 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:51:50+00:00
+Current balance: 116.19 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:52:28+00:00
+Current balance: 116.19 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-18T23:53:51+00:00
+Current balance: 115.93 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-19T03:49:16+00:00
+Current balance: 114.94 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-19T03:50:51+00:00
+Current balance: 114.94 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-19T03:51:34+00:00
+Current balance: 114.94 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+Current balance: 114.94 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-19T03:53:37+00:00
+Current balance: 114.94 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-19T03:53:56+00:00
+Current balance: 114.94 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+2026-10-19T03:54:36+00:00
+Current balance: 114.68 compute units
+Usage rate: 3.08/hr
+Active assignments: 2
+Current balance: 114.68 compute units
+Usage rate: 1.54/hr
+Active assignments: 1

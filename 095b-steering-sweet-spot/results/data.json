@@ -1,0 +1,1172 @@
+{
+  "construction": [
+    {
+      "id": "alpaca:36771",
+      "prompt": "Generate a list of the best places to eat in London.",
+      "sha256": "57da648a275426a3ac120e47d7925aa9a26b4ba0cf01b437ff995057f141dd64"
+    },
+    {
+      "id": "alpaca:8641",
+      "prompt": "How can we reduce the global plastic waste?",
+      "sha256": "a474805fcd4fbf1b42abf365c8b599d2414088b65c2708c66a6de3a3b005a10d"
+    },
+    {
+      "id": "alpaca:19637",
+      "prompt": "User \"function\" to complete the following sentence: A _____ is a block of code that performs a specific task.",
+      "sha256": "3e4145a616cb77154819bcd8b08dc5002fd3927cb7896e8d489567baa577d56f"
+    },
+    {
+      "id": "alpaca:10313",
+      "prompt": "Describe a data structure that is suitable for storing a large set of integers.",
+      "sha256": "68e7879c91409a585916055998882a1d1ff51db849e5fef92a752dc62532cda7"
+    },
+    {
+      "id": "alpaca:40750",
+      "prompt": "Paraphrase this sentence: \"Electrons orbit the nucleus of an atom.\"",
+      "sha256": "56b29f339f2475459b931436e4b47c006fc7be3e155b7fd45e19b566a0d8fc01"
+    },
+    {
+      "id": "alpaca:43495",
+      "prompt": "Write a function that moves a character across a two-dimensional array on a game board",
+      "sha256": "817d89dcb17cde7ecf080d5dbb1830b5e9f12736a54168158b2164ee4539b4a0"
+    },
+    {
+      "id": "alpaca:40356",
+      "prompt": "Specify the uses of the following item: Bluetooth which permitts wireless connection between two devices",
+      "sha256": "b509814dd616160618160e0f26300d079cfa0ffda857475503c24d2bf29f7fa4"
+    },
+    {
+      "id": "alpaca:42359",
+      "prompt": "Describe how to prepare a cup of herb tea.",
+      "sha256": "3714b9b4edc65895850ec6df5a7f9c61fb12b6103ecdbec03236ce6f275a1dea"
+    },
+    {
+      "id": "alpaca:25555",
+      "prompt": "What are the traditional methods used to teach young children?",
+      "sha256": "c7ad0f6ae7ac2a9dcbde9e60da07cd73c120eba1305428007b58b8839360b54f"
+    },
+    {
+      "id": "alpaca:9509",
+      "prompt": "Design a calendar for next week",
+      "sha256": "41829895371313a5944cad5b2e6ef879083d01b51581fade0c76cee957363684"
+    },
+    {
+      "id": "alpaca:2341",
+      "prompt": "Create a poetic haiku about being alone.",
+      "sha256": "7401bd3caa135eecbfe4ffa2ea7f6f256f9ec5dded6416acaf4a1d03d72499ea"
+    },
+    {
+      "id": "alpaca:17453",
+      "prompt": "Explain what a circuit breaker is.",
+      "sha256": "2acf9daf3a38820621312b05f58bc162fed17d637c7bd73987d348bba6a37455"
+    },
+    {
+      "id": "alpaca:12230",
+      "prompt": "What are the main features of the Periodic Table?",
+      "sha256": "3393fb52f73bce3f7a88cf9c97aa51568b32b05c9cb7fbe3c2ddb597e5dccbe3"
+    },
+    {
+      "id": "alpaca:12405",
+      "prompt": "Suggest a way to get instant relief from severe acidity",
+      "sha256": "cedc2f6e868698bd47d9067fe4bec79992814ace9dd4029c80791adca3b5a24e"
+    },
+    {
+      "id": "alpaca:49071",
+      "prompt": "What unique events happened in 2020?",
+      "sha256": "942e930d04ed9ec5257d6fe8e29832aacbc45b25b1105f8047bb697a1227a448"
+    },
+    {
+      "id": "alpaca:2729",
+      "prompt": "In which country would you find the Raj Ghat, a national memorial to Mahatma Gandhi?",
+      "sha256": "e887b6064b18b1a8d41660225ee9d21d746d457a6f7981a0b58a188380ef5f18"
+    }
+  ],
+  "pilot": [
+    {
+      "id": "alpaca:13080",
+      "prompt": "Ask the assistant a question about the 2020 US Presidential Election.",
+      "sha256": "ab9fb711486a72ea0de04d0580de9f4976ddc707d77f2130bc81fffd7f8267dd"
+    },
+    {
+      "id": "alpaca:7919",
+      "prompt": "When was the invention of the telephone announced?",
+      "sha256": "1b04b17a1e8178a37f2745a870157ae95e70960ca736bdf6c859cdb2614ba6a6"
+    },
+    {
+      "id": "alpaca:15193",
+      "prompt": "In the sentence, \"Please carefully read the instructions before starting the task,\" identify the main verb and its type.",
+      "sha256": "a1e1f006a077cd0ec8efedcdde6c7c5da3a12ffbb979b5bcf023b7ae4148c766"
+    },
+    {
+      "id": "alpaca:19769",
+      "prompt": "Brainstorm 3 ideas on how to reduce carbon footprint",
+      "sha256": "e61c7143ee5291a0ec961242aaa2e624defa638ccc6e9616402de47d4141c35d"
+    },
+    {
+      "id": "alpaca:11578",
+      "prompt": "Generate a list of ten online business ideas.",
+      "sha256": "cdc9c10bd33d3ee7cbb38251bfe470c5c9e26d4c7d0bc3759f7e963e122c6f02"
+    },
+    {
+      "id": "alpaca:16821",
+      "prompt": "Rewrite this sentence to make it more vivid and put it into the past tense:\nThe cat hopped up onto the table.",
+      "sha256": "168d5c7b02d2ad56dc24d2c4e608fa776da9eabf8bb90b9587cf8f53929b24c2"
+    },
+    {
+      "id": "alpaca:14756",
+      "prompt": "Describe a new way to use artificial intelligence in the classroom.",
+      "sha256": "97cbe099447fcf8fefa33ab358ab2ce65c6c608d36e8a7554eac13353be5716a"
+    },
+    {
+      "id": "alpaca:16816",
+      "prompt": "What is the first letter of the alphabet?",
+      "sha256": "652e35ed8f8ca712a9b3436e3767bee85a3598e8dd8ca49ee7ca5a516ab42997"
+    },
+    {
+      "id": "alpaca:20801",
+      "prompt": "Explain what is the most important benefit of using a Class in java?",
+      "sha256": "7ca3ba2ac82a1b57a2ed86c9d2b9a63702ba14d034d999dd31be416ab17ca5c3"
+    },
+    {
+      "id": "alpaca:50878",
+      "prompt": "Design a concise questionnaire to ask new employees about their motivations for joining the company.",
+      "sha256": "c77cb3ad00cad1b5cfca1e09c645ad3b9fafc2336784c78ee0240b091195ad15"
+    },
+    {
+      "id": "alpaca:24265",
+      "prompt": "Edit this sentence to make it more interesting and descriptive:\n\nThe chair is red.",
+      "sha256": "9be8309046b16e5e2cb8865558b97a3f16705c6000934cdbf4adf3517cca8b34"
+    },
+    {
+      "id": "alpaca:7023",
+      "prompt": "Suggest a strategy for solving this Rubik's cube puzzle.",
+      "sha256": "473240f33a3dd07da19e5abc77f958db114dae1164cca5c4d562484c54a2f77f"
+    },
+    {
+      "id": "alpaca:19735",
+      "prompt": "Create a CSS style class to display text in italic font.",
+      "sha256": "dc3eb591fbc9b8efbce79a19bf00f86d576a6f243e37f4cca1f14012d934dff2"
+    },
+    {
+      "id": "alpaca:484",
+      "prompt": "Suggest a good screen capture tool for Mac.",
+      "sha256": "b1a9842053316fc6b54578315f05110a73be07eac2081ef460487f2f5904e6c2"
+    },
+    {
+      "id": "alpaca:12254",
+      "prompt": "Write an e-mail to the manager to express dissatisfaction.",
+      "sha256": "aa46efd9e98309ab745ba150c1a1bd7233fe020a813313a805889b863d5d7901"
+    },
+    {
+      "id": "alpaca:38214",
+      "prompt": "What is the significance of the six sigma process?",
+      "sha256": "f5dec0d80874dee22f4bdf49f178e2042632abbe415ac3d9223c7b1393bac6d1"
+    }
+  ],
+  "confirmation": [
+    {
+      "id": "dolly:1340",
+      "prompt": "Give me a list of ten vegetables that are green.",
+      "sha256": "120c37dc75be7682db091565a333f6c34001a6dca2b451374128b8b346a8f0f4"
+    },
+    {
+      "id": "dolly:12067",
+      "prompt": "Who has hosted Saturday Night Live the most in the history of the show?",
+      "sha256": "bad26afe612b39b1150e52f6a3c9eee0aad271f6cf0345495d3d06ef89ce3b17"
+    },
+    {
+      "id": "dolly:7085",
+      "prompt": "Give me a list of science fiction books that every sci-fi fan should read.",
+      "sha256": "45bf498721fe76f772989b88b81eeb07936b9310d04a7310266d84749832534c"
+    },
+    {
+      "id": "dolly:8459",
+      "prompt": "when was the 2nd world war?",
+      "sha256": "3d97cf0951b171a77046d7729244d81f292b2baf09dc4b6246ae779566923699"
+    },
+    {
+      "id": "dolly:13649",
+      "prompt": "Which city is the capital city of California?",
+      "sha256": "f2087530fce39f8fa3594657839d5ac3776d2101c380255035511a72a43218c6"
+    },
+    {
+      "id": "dolly:3149",
+      "prompt": "Give me a list of the 10 most important soccer teams in Brazil.",
+      "sha256": "318f4579a179227c9d7bce4a892eba47152e885a35b7e61d03be731ed15f417d"
+    },
+    {
+      "id": "dolly:8079",
+      "prompt": "What is data engineering?",
+      "sha256": "b82dbf650b785d2d084823f16ac24614e897f05bd704b838144ce0e9319306dc"
+    },
+    {
+      "id": "dolly:8686",
+      "prompt": "What is muscular hypertrophy?",
+      "sha256": "f96ddcc1e7cd52f9248ff9769968d7d0f11b9fa1168207892fcf915704bbb177"
+    },
+    {
+      "id": "dolly:4918",
+      "prompt": "Is it important to have friends?",
+      "sha256": "12b5cec86e5afa9483678973ce0734b9c58f4c1f341006893e6345c8ee0eda70"
+    },
+    {
+      "id": "dolly:9583",
+      "prompt": "Who was declared as the winner of LIVA Miss Diva Universe 2021?",
+      "sha256": "43a117b1761e072539212c7fff79d676ab43a067155de0dbd8ff758ace861fa3"
+    },
+    {
+      "id": "dolly:5987",
+      "prompt": "How do I know if I am in love?",
+      "sha256": "bec43671969a1b5957b177e1f8aaaee70bc189344246459f5a2c5fc3ba61baed"
+    },
+    {
+      "id": "dolly:8146",
+      "prompt": "Is tempeh a vegetarian food?",
+      "sha256": "1576044e0bf52c9497eced07ce8187173266a666099af5900d1d4677c6772a51"
+    },
+    {
+      "id": "dolly:8396",
+      "prompt": "Who is the greatest ever soccer player?",
+      "sha256": "dc67b2ae07c816abd7099458bcbbbb9a3536f353e40811bc273611dc695571d9"
+    },
+    {
+      "id": "dolly:7164",
+      "prompt": "Name some of the top basketball players",
+      "sha256": "6eef8dfd374c990953765281a6e57039783ea335f007b1f705378dab66336a64"
+    },
+    {
+      "id": "dolly:9841",
+      "prompt": "Is the Cordyceps fungus from The Last of US real?",
+      "sha256": "172eab39b84e603a7dea3ef41c655e508cfda54c8561a3dd724f6880238fb746"
+    },
+    {
+      "id": "dolly:1826",
+      "prompt": "What are some of the top risks around LLMs?",
+      "sha256": "8f4bc0d1021a2071a57c33881b9ebd54664a83581fc4db1771520465729616d8"
+    },
+    {
+      "id": "dolly:13845",
+      "prompt": "Give me five data themed cocktail drinks.",
+      "sha256": "f618f30f1ca1b5c00c7437c7a8dd962d1c79d275fc4abf428db6069dddc7cba7"
+    },
+    {
+      "id": "dolly:11027",
+      "prompt": "What are the interests behind climate change denial?",
+      "sha256": "944d749c90669021f75421b5ff6212046bbfe94c4a316f8c143d1552c0de8890"
+    },
+    {
+      "id": "dolly:3159",
+      "prompt": "What is accepted to be California's first official wine-producing vineyard?",
+      "sha256": "35fce3259be6b58f38d8d0286a89e5b4d81e3ee9b1973ebb91fa4bd4bcd1b46f"
+    },
+    {
+      "id": "dolly:2812",
+      "prompt": "Who are the contenders for the World Chess Championship in 2023?",
+      "sha256": "71247263a8d9d980285acf494f24e55310baacdf7c26f9da09a3060e2e8970dc"
+    },
+    {
+      "id": "dolly:2659",
+      "prompt": "Do i must to hug my wife",
+      "sha256": "5af776fedae4218842305d77530b43dd3f17d4c4cec3fc41419f1cb86d10a7d3"
+    },
+    {
+      "id": "dolly:12764",
+      "prompt": "How many teams compete in Formula one world championship?",
+      "sha256": "7fc8d80c8acf1ee0099e2e059c372edb0508dea8d2640d800c10609130ac6f79"
+    },
+    {
+      "id": "dolly:11114",
+      "prompt": "What is the best selling book in history?",
+      "sha256": "93a2048099ce96506245577f40cee49a841a67a5fb5a63e32a7b7cebe1bf7c85"
+    },
+    {
+      "id": "dolly:987",
+      "prompt": "Who is the best golfer to ever play the game?",
+      "sha256": "f8fde62c743b82223c67aaf370090c37553f6ba7acacbf43a602746f0cbfa42f"
+    },
+    {
+      "id": "dolly:8102",
+      "prompt": "What animals are famously depicted playing poker in a painting?",
+      "sha256": "8cbd66d95cebb15dc2f24a11202a05882d074e44a84367711457f178ed2e62b5"
+    },
+    {
+      "id": "dolly:13279",
+      "prompt": "What is the best age to drive a car?",
+      "sha256": "c3516286a73a4d868a36fa0b6f38f2c12623fe7e3607595aee6894dbd0ae32c4"
+    },
+    {
+      "id": "dolly:12931",
+      "prompt": "Who are the most successful US Olympic swimmers?",
+      "sha256": "a755fb779a0d2b3b1399cdafade9fc3f7602ca6e1ae9f4ea267b885501f91da8"
+    },
+    {
+      "id": "dolly:6513",
+      "prompt": "In Japan what color car is reserved for the royal family only",
+      "sha256": "50e5edca6179952d4876dbdc51fdb8069fcbc72ab7536fad2a96c743eeee38ff"
+    },
+    {
+      "id": "dolly:14737",
+      "prompt": "Do dogs have a third eye?",
+      "sha256": "cbda8196d0f26424088bb349df545b98494c19ae7e6df91267305500d179c6bd"
+    },
+    {
+      "id": "dolly:7921",
+      "prompt": "Brainstorm sea shanty lyrics",
+      "sha256": "076ade77f9dbfddb1784a91424d937da3d66a8d539c4bb7745c26000e4b19d23"
+    },
+    {
+      "id": "dolly:11934",
+      "prompt": "What services does Microsoft offer?",
+      "sha256": "6a209050c34a3e49bdf076eb6f2236c5dfbb2eda6497d3163aca946b9c364a71"
+    },
+    {
+      "id": "dolly:4314",
+      "prompt": "How long did World War 2 last?",
+      "sha256": "58fcfd29e0fc670605f35c42bd57c618f888cc9ea53198903413ad52d9d64e01"
+    },
+    {
+      "id": "dolly:11612",
+      "prompt": "How many times have the Boston Celtics won the NBA championship?",
+      "sha256": "c864e61ae46191c12acf54b5f8599dbd3af08a86e7278b769b5a63cea07971ad"
+    },
+    {
+      "id": "dolly:906",
+      "prompt": "Why is it important to vote?",
+      "sha256": "306e99dd9a15aae3dd46694240929e215c7e9cff9c9626c7579d7a3ed1458bb7"
+    },
+    {
+      "id": "dolly:1055",
+      "prompt": "Who created Sesame Street?",
+      "sha256": "2c63ebb1514096ad99dedf0f89672b18894c51e322760ca6229ddbbc19d56e5c"
+    },
+    {
+      "id": "dolly:14384",
+      "prompt": "How was the saxophone named?",
+      "sha256": "debe4fd5bd6b6f6c53e626fae97f38a32e9642132ae3f2d719f18100e960fe7c"
+    },
+    {
+      "id": "dolly:13796",
+      "prompt": "Can you please describe the game of golf?",
+      "sha256": "2ef933a1516a1fd79009a695cf9b53a210576279827328a069502b3888cfcb44"
+    },
+    {
+      "id": "dolly:2304",
+      "prompt": "Are UGGs considered fashionable?",
+      "sha256": "db42a171d86ae79283625fe06f56315939ec4b08f634ff55d80b320f1a4d3009"
+    },
+    {
+      "id": "dolly:13362",
+      "prompt": "What are the boroughs of New York City?",
+      "sha256": "a97f4241e3c22784034535418b0e204125b3d889b5b15100480ed478c8f1b587"
+    },
+    {
+      "id": "dolly:13727",
+      "prompt": "How does one state something as an opinion, belief, or preference rather than as if something is a fact?",
+      "sha256": "ba32e338e1b8e3d9aab03d1f6c1709309746d785d93d3c7c7e9f4598d83d82fc"
+    },
+    {
+      "id": "dolly:14974",
+      "prompt": "What are the different kinds of rock climbing?",
+      "sha256": "05ccf05386ac7451166d0706e13479d2f5fe00434faa343723fcae600ed7c97b"
+    },
+    {
+      "id": "dolly:2243",
+      "prompt": "What can people do to entertain cats?",
+      "sha256": "d6c082b8222d12f144458971e5dea479810677e91abee27d519848f3e4674700"
+    },
+    {
+      "id": "dolly:10845",
+      "prompt": "What are the Fallas in Spain?",
+      "sha256": "507a8a7143e01767ae8715ef2fbcee7bcedbf924010bb100d79c8012267788c1"
+    },
+    {
+      "id": "dolly:3409",
+      "prompt": "Name three different bug type Pokemon.",
+      "sha256": "89505de90decffe825c767ba2bc2c028064f35f9aad38e7f03f92b41b9fd516c"
+    },
+    {
+      "id": "dolly:3047",
+      "prompt": "ways to generate electricity",
+      "sha256": "ba983d7d9cd65d6362f76b38d49410d5cd28b7e7165c6d43f513269094c1db9c"
+    },
+    {
+      "id": "dolly:646",
+      "prompt": "What are the key benefits of Delta Live Tables?",
+      "sha256": "107ed0cad1fb8dc61de0ef95d956547df4f794ddd455c2420749b64a25635576"
+    },
+    {
+      "id": "dolly:2310",
+      "prompt": "How do sailplanes (gliders) stay aloft?",
+      "sha256": "3d0401382419da6fe6f6ea32832f205275d7f3d63a18f82934b0f0f9d03bc2ad"
+    },
+    {
+      "id": "dolly:2388",
+      "prompt": "Name ten Shakespeare plays",
+      "sha256": "96e4225bb95a1cc4347442e204b694b46a4e19685300d6642e3e33caa52516df"
+    },
+    {
+      "id": "dolly:3377",
+      "prompt": "What are some things that we can do to help the environment?",
+      "sha256": "eea0a48e0e6b6f579e405388153223f19c6728170bccd5e01093a1babc2fa77b"
+    },
+    {
+      "id": "dolly:9773",
+      "prompt": "Name some of the most popular TV shows of the 2010s",
+      "sha256": "95faa6d04c4470a491bfef190cd064642d42fee5b0673f7a787b44451eb54d5e"
+    },
+    {
+      "id": "dolly:11237",
+      "prompt": "Is Cartesian dualism correct ?",
+      "sha256": "1c370031345385983107fc69caf0393c5f76d8623778e7c540cc33990b058072"
+    },
+    {
+      "id": "dolly:2062",
+      "prompt": "What are good plants to have in your home if you have cats?",
+      "sha256": "a67953c20b4ff2799b96a9543ac8ccd8b132bd3ff84a31cf5ecab970733969a3"
+    },
+    {
+      "id": "dolly:3306",
+      "prompt": "How to have an evergreen garden?",
+      "sha256": "103779aaeca631e9b5476b2a00dd687addff8bd3dc06e0906208beb2433de73c"
+    },
+    {
+      "id": "dolly:13857",
+      "prompt": "What kind of species is the Linopyrga primitractus",
+      "sha256": "1ea14285e0bf24e65d55be2802eb18c283985287cade022386a72cdd9f277c1f"
+    },
+    {
+      "id": "dolly:4424",
+      "prompt": "Give me a bulleted list of the fastest way to get from to cross the English Channel in a nonconventional way?",
+      "sha256": "add221a4509511cc5fae08081a4ee1ef86583e8db41f5d38f0c4326ee0095e46"
+    },
+    {
+      "id": "dolly:5677",
+      "prompt": "What is the difference between men's and women's lacrosse",
+      "sha256": "2d13950303b321a45dd4ee3b35842042c71aff34a63db4921886ab02b576ff2d"
+    },
+    {
+      "id": "dolly:6482",
+      "prompt": "What does a geologist do?",
+      "sha256": "d008b29ebf3a4547a1094ed517836afc5b4eddb4cf8713ebe061eb33924506a0"
+    },
+    {
+      "id": "dolly:6874",
+      "prompt": "what does it mean to have brunette hair?",
+      "sha256": "397d7ad8ebb66548d4db3e759859e5ddd282f1e545eb464e14f39b8e6c329865"
+    },
+    {
+      "id": "dolly:7685",
+      "prompt": "3 Best TV series in the World",
+      "sha256": "eb8437d161a550c6a50343188947173e4f1836d5f99363a8808b380497d3a2db"
+    },
+    {
+      "id": "dolly:13006",
+      "prompt": "How would you go about finding an apartment in a new city?",
+      "sha256": "d26f329ce2bba82592eb1cfffd15f594856952345d6bcb547e6cbd16841f3d3f"
+    },
+    {
+      "id": "dolly:2335",
+      "prompt": "What are some of the famous festivals of India?",
+      "sha256": "5993b58fcfe6f658d7c0afa008b51eedb92f57c4bdf4ebb07f26c659ad3fa41a"
+    },
+    {
+      "id": "dolly:14213",
+      "prompt": "What type of kitchen knife should I buy?",
+      "sha256": "40aded1c08e7d25fa91c4dce05bc6e44726fd9820715a02af37da38c084b9c61"
+    },
+    {
+      "id": "dolly:5746",
+      "prompt": "Where is Salvador Brazil?",
+      "sha256": "d30131cb9e3ea3987ba4bdd7dabfef05c102432cf12771942bb46f7f71ae82c6"
+    },
+    {
+      "id": "dolly:1372",
+      "prompt": "Why do people have children?",
+      "sha256": "0606a97e6a872fdd291ae6dcfdf3bf70f340174d592d77d2972f77e5504a5e3e"
+    },
+    {
+      "id": "dolly:3443",
+      "prompt": "What was Meghan Markle's royal title?",
+      "sha256": "5d65f31a597715b2ccb349720eac9d0820f45bd01c2c91da1a1524afb7d5f621"
+    },
+    {
+      "id": "dolly:6091",
+      "prompt": "What is a T20 cricket game?",
+      "sha256": "8121ea58d1b93cd18f2cff2b8415395aa1fd03b846abc79dec29e7134527cca1"
+    },
+    {
+      "id": "dolly:8132",
+      "prompt": "How to bake the perfect flourless cheesecake?",
+      "sha256": "7ab1fa4529f26ecbd1c695839cbe8f7e1787523c21eba2000dc89eb2ab584e03"
+    },
+    {
+      "id": "dolly:10807",
+      "prompt": "What are some interesting facts about tigers?",
+      "sha256": "fdee45975c93fbf4319a2445a0b8e74c00e157edeb44ab733ed242ea4c6a6884"
+    },
+    {
+      "id": "dolly:14298",
+      "prompt": "Who directed the first two episodes of season three of Game of Thrones?",
+      "sha256": "0765fc48f28b1f97655feb04794b18baf8e1f291f5a69dcf7fc2ac9b486efea7"
+    },
+    {
+      "id": "dolly:9154",
+      "prompt": "How should I go about planning a trip to Europe?",
+      "sha256": "16f96d7154cd3a7b537bebbe76788c09fff472003f2bb49eec831a85507fea14"
+    },
+    {
+      "id": "dolly:4123",
+      "prompt": "Who wrote Gone with the Wind",
+      "sha256": "e2b000a5f72cbff48620b1b543295d0e3757c89d6ac94ffc68a1ed217283c793"
+    },
+    {
+      "id": "dolly:10858",
+      "prompt": "Name the women who visited International Space Station for repairing of ISS",
+      "sha256": "f25266ff1b9ea3f18eff413afa221bb975ce64a8a19567d7665e2aa120dc2fe2"
+    },
+    {
+      "id": "dolly:2934",
+      "prompt": "Who built the great pyramid of Giza?",
+      "sha256": "b28773e955494f63f99f3c4eedb8c0c67e20ce4981ae389e269bf2810671acff"
+    },
+    {
+      "id": "dolly:14994",
+      "prompt": "Who is the author of Harry Potter?",
+      "sha256": "5cab84d5b1f18ec0476e2aaad933e8b5ca0d5333b8589e5154ca9cafb3d9768f"
+    },
+    {
+      "id": "dolly:12809",
+      "prompt": "If Newton's first law says an object in motion will stay in motion unless acted on by an outside force, why does my spinning top stop spinning?",
+      "sha256": "1d4ca9343d514422c109a5c710f1fa4f60ee2900cdfd547d87a7453d9da177cd"
+    },
+    {
+      "id": "dolly:2794",
+      "prompt": "What is the difference between coffee and espresso?",
+      "sha256": "55a44f9946f194ca0a964836e0237e8606812f1edcafe289b73c3ada01f938c9"
+    },
+    {
+      "id": "dolly:8871",
+      "prompt": "What are three popular women's fashion rental services?",
+      "sha256": "f92919691a6ad7bb8b7be8fd7dbe67f8a6f1dcfa68c43c53667461e7085bda45"
+    },
+    {
+      "id": "dolly:8015",
+      "prompt": "What are the benefits of the 2-3 zone defense in basketball?",
+      "sha256": "f14c470a78c54823609a4cbf2009e77fbc802c26baee0656dd431c41d34b23ed"
+    },
+    {
+      "id": "dolly:8385",
+      "prompt": "What options does the Federal Reserve have to fight inflation?",
+      "sha256": "dd2d2a507f3f72188bba9f7b03c1ed7ef6413dbe8f49af39e626e3831fcc4fae"
+    },
+    {
+      "id": "dolly:14133",
+      "prompt": "What is the last step before a star collapses into a black hole?",
+      "sha256": "842f9bd8490c0b397ca6accd2c4fa37be466b153c936cdd0bf6977c262930094"
+    },
+    {
+      "id": "dolly:10425",
+      "prompt": "What do west coast oysters taste like?",
+      "sha256": "faa2a206f0e8e1d90dbedd7848cfa1c634c7f378fea880d3173e389850066b21"
+    },
+    {
+      "id": "dolly:12572",
+      "prompt": "What books would you recommend someone read to improve their general knowledge of the world?",
+      "sha256": "cee587022b2e10962a606d5f36a1191671fe92766ed492ef90a50f58f270c5a1"
+    },
+    {
+      "id": "dolly:10625",
+      "prompt": "Is The Last Of Us Part I a good PC game?",
+      "sha256": "b698cdbdbdcba391f8356d67d57ad176a5964f2b848a353c7304260b6e97a596"
+    },
+    {
+      "id": "dolly:3547",
+      "prompt": "Who is the best all-time soccer player?",
+      "sha256": "3e179e9ffebb7ef11e0e08d63db9b2e11d7d5b4f652964cf8896af74f864f349"
+    },
+    {
+      "id": "dolly:2679",
+      "prompt": "What does \"time flies\" mean?",
+      "sha256": "2211c32364285e481700852579319b5d7effba1c23ee9228d1ffe64a3c4b1a43"
+    },
+    {
+      "id": "dolly:4487",
+      "prompt": "How deep is the Gulf of Mexico measured in Empire State buildings?",
+      "sha256": "166ba312d89c212589c2306fb5ef97db971daf0215fbc19ceea5220856a1e639"
+    },
+    {
+      "id": "dolly:14503",
+      "prompt": "Name the planets in the solar system, in the order of distance from the sun",
+      "sha256": "0633211694e829f875d5341d809dd64357a3dd83e2690cc6dd6740e04d6e63e2"
+    },
+    {
+      "id": "dolly:5533",
+      "prompt": "How do you live a life full of gratitude?",
+      "sha256": "5ef28cbe9493fcead49d4619c910912bd8ef848617d69fc0639c77873f8cfd47"
+    },
+    {
+      "id": "dolly:4800",
+      "prompt": "List the members of the Ivy in reverse alphabetical order.",
+      "sha256": "b7195d696fc213db22195aad0894f17029b3c8f4189fd19c57652814ed88b602"
+    },
+    {
+      "id": "dolly:2867",
+      "prompt": "Which states make up the Pacific Northwest?",
+      "sha256": "012e86f9fa59bde92edb6865b4f9e1f0b612ce818af3aef4e5bb045974f7bef9"
+    },
+    {
+      "id": "dolly:12992",
+      "prompt": "What is heavier, 1 centimetre or 5 miles?",
+      "sha256": "7903fb4818f7cdf986436ee8f5cbfb989029bb60f1725f3e428a42e07e52038f"
+    },
+    {
+      "id": "dolly:14060",
+      "prompt": "What is the best food place in Bangalore?",
+      "sha256": "a8d5fb1c5bc3256437283219abf1476338e7c74ed86af45fc19a915184dc840a"
+    },
+    {
+      "id": "dolly:1241",
+      "prompt": "Give me a bulleted list of 5 hobbies I should try.",
+      "sha256": "519dbe88752c7b11871f4cf284386be1ebbd2faf481635408be4d8ba02131857"
+    },
+    {
+      "id": "dolly:6464",
+      "prompt": "What ancient organization invented the concept of Democracy?",
+      "sha256": "4e01aa3c1874110efb47d863c06dd1f8219278f26cadeb850bc4333263c556f1"
+    },
+    {
+      "id": "dolly:1004",
+      "prompt": "Provide a list of ways musicians can earn income from their music craft.",
+      "sha256": "5c93656f0b030202665817c99e6460838d4f5ae37f953b64a03203ddcb1923a2"
+    },
+    {
+      "id": "dolly:12550",
+      "prompt": "what was the impact on software companies from the revenue standard called 606?",
+      "sha256": "20df4c5b616bda7cbbde27f31221e11e5c93f02e63d6ebf79e271e8a1099c623"
+    },
+    {
+      "id": "dolly:4623",
+      "prompt": "Why is Pickleball a popular sport?",
+      "sha256": "7092ad3b26b76a37425f5e697d251dcfaf30e33e6a99516b03aeaeced3899047"
+    },
+    {
+      "id": "dolly:3924",
+      "prompt": "Give me some tips for increase my savings",
+      "sha256": "e2f538334878350003aebcdc90dcf58628111fc5f15baf2881ec9eef09a57a5a"
+    },
+    {
+      "id": "dolly:2851",
+      "prompt": "Why is LaSalle Street in Chicago important?",
+      "sha256": "098a6a6340dae98029a6e625f8de73a3aa079f0d9860a36b2c26a211078bec24"
+    },
+    {
+      "id": "dolly:5697",
+      "prompt": "I want to develop OKRs for my team at work. What process should I use?",
+      "sha256": "1598885ae571be43b13c32709ce9e5105f49fc0bf87641013b0fee3f4febc5c4"
+    },
+    {
+      "id": "dolly:10724",
+      "prompt": "Which are the states in India with coastlines?",
+      "sha256": "9c62998ea93611c72cd3013349a53b6d31fabf79d04fbbdfc9337ebdb6116e88"
+    },
+    {
+      "id": "dolly:7506",
+      "prompt": "Name some of the bravolebrities from Southern Charm",
+      "sha256": "965201196ef7752131b6ec73ef3cbfde78132b655f75a403fe00ab2235ccc800"
+    },
+    {
+      "id": "dolly:3169",
+      "prompt": "I want to sketch with graphite pencils but am confused about the range of options. What do the pencil grades mean and how can they be used?",
+      "sha256": "c874facfbbce2c8b66ca375216ff48d4c73d7ec764217aa3f15db3f251ae6a71"
+    },
+    {
+      "id": "dolly:14803",
+      "prompt": "How can I make work meetings more efficient?",
+      "sha256": "765f840bab725895aba9f0295cb98c7dd204c2278fdb213dffe7bfe5ee174e1a"
+    },
+    {
+      "id": "dolly:11581",
+      "prompt": "What is a subprocessor for purposes of data privacy laws?",
+      "sha256": "66c46dde9ddd7b4fa9b07d8fffef34ca238f7b129f2a167110a0a074504b151f"
+    },
+    {
+      "id": "dolly:5258",
+      "prompt": "What country was Frida Kahlo from and what career was she famous for?",
+      "sha256": "4fbcc32a649855f0d865be8697f391a513c5f58dc86db2eba30f139da23adf45"
+    },
+    {
+      "id": "dolly:8135",
+      "prompt": "Give me a list of the best rappers of all time",
+      "sha256": "e614510e32dffc689ca7b4cb7537702f352f26ab9874916bb25d6648109f4506"
+    },
+    {
+      "id": "dolly:7716",
+      "prompt": "What product do the Girl Scouts sell?",
+      "sha256": "d90cd4d25d6d2950d45faa54da45401c867eaf31b9638ed62a7a67290698009a"
+    },
+    {
+      "id": "dolly:10718",
+      "prompt": "What is efficient market hypothesis?",
+      "sha256": "fe0f9f5a89db6bbd7509086b1a6c07459fef5e00537bab93358962f2c7ca18a3"
+    },
+    {
+      "id": "dolly:10583",
+      "prompt": "What are the ten tallest buildings in the world?",
+      "sha256": "7b8622ea687e68d781cc0c99dcd977b1765a4f0143b1c90622fb313ad9e69e5a"
+    },
+    {
+      "id": "dolly:13255",
+      "prompt": "Is the manatee an endangered species?",
+      "sha256": "3ccfa9c46b886c366895d02c758705f57cbddc7463401418192852e947eca5ca"
+    },
+    {
+      "id": "dolly:3337",
+      "prompt": "What are some advantages of making a painting with acrylic instead of oil paint?",
+      "sha256": "f68a2571448a908570bbe2e2d099d11cf71aa83fe3609d3674e3f33065a51486"
+    },
+    {
+      "id": "dolly:1068",
+      "prompt": "What factors should I considering when selecting a tennis racquet?",
+      "sha256": "82ad3fa6404095381fb4954429719197969124e5b3e8bc4717936004979f9e2a"
+    },
+    {
+      "id": "dolly:5395",
+      "prompt": "Can AI destroy the world or humans?",
+      "sha256": "d637804bf2ae0022c110651488559e6b047887b2bab41566ed0357a50554881f"
+    },
+    {
+      "id": "dolly:11626",
+      "prompt": "What should I think about when driving a car in a city?",
+      "sha256": "e4041bb2f5a3240634f063a3cd9ec447de7c899fd877a409479355e47f5415d2"
+    },
+    {
+      "id": "dolly:4144",
+      "prompt": "If you were a vegetable, what vegetable would you be?",
+      "sha256": "09dfaedd9cb0e6e7f456868b54584dcc4df22a6583f25727a2078e917e42fe0b"
+    },
+    {
+      "id": "dolly:5185",
+      "prompt": "What years did World War II take place?",
+      "sha256": "7b4258c8e751da1633965afda9a5059bf1a95734f3b824791545ad215cce095f"
+    },
+    {
+      "id": "dolly:11958",
+      "prompt": "Give me a quick exercise I can do every day",
+      "sha256": "32e84e21fcc31ccc68f667901a196e656e89f1ce0bdec5e75373be6c9cd3f2a0"
+    },
+    {
+      "id": "dolly:10492",
+      "prompt": "Does Spark require modified versions of Scala or Python?",
+      "sha256": "afe0744746dc0675b29a0339bc138c69b870b8fb05ca98ba8b3f75ecf5ea640f"
+    },
+    {
+      "id": "dolly:7880",
+      "prompt": "Provide a dot point list of six different games I can play with a pack of cards.",
+      "sha256": "05443337d9fb28667986569b616ba0d7ca6cf90cb97a9b3bd31660fc9e0a29df"
+    },
+    {
+      "id": "dolly:5222",
+      "prompt": "Tell me about the junk mail circle of life",
+      "sha256": "2a40d8dc8f64a07abc6dfbd18f31fd6d0b2dd020a874f10d291f861e62a95ae1"
+    },
+    {
+      "id": "dolly:10980",
+      "prompt": "What are some of the most famous fantasy books ever written?",
+      "sha256": "a89a428d828e10c4973ee31826eb9f9c43169d004508a0d5dd906633b68259ca"
+    },
+    {
+      "id": "dolly:11288",
+      "prompt": "Give me a list of the last five european golden boots winner.",
+      "sha256": "ca33dc33174b40fc3f69e6ce163b48641620bef9aa0f1b16f2480d0a8e7e0ce0"
+    },
+    {
+      "id": "dolly:10818",
+      "prompt": "Why is basketball the fastest growing sport in the world?",
+      "sha256": "c551f3e66bfed0bd9bee255827e62620f87672e7806a6e3ada9210a24aced3f4"
+    },
+    {
+      "id": "dolly:11504",
+      "prompt": "Give me a list of the last 5 NBA championship teams",
+      "sha256": "c855d2e205b93ece77eefe83a62f5d2989075610a2f44f9fdf5947f921af9dc9"
+    },
+    {
+      "id": "dolly:2331",
+      "prompt": "What is St. Peters Basilica?",
+      "sha256": "612a5135da415a77edefee4326c68b3a2589bf176bffe14849c090b8d72f5df4"
+    },
+    {
+      "id": "dolly:12561",
+      "prompt": "Which state joined the US on March 15, 1820?",
+      "sha256": "571ce5e6f7d1692c48b55b4466d116a4e4c05c1d682c8808e6be59c2451d692c"
+    },
+    {
+      "id": "dolly:10327",
+      "prompt": "Is there a Santa Claus and who is it?",
+      "sha256": "eb0bd6be932d0536cc3607c5e5ed4ee1b23eb2e13964f1414cc9dd5e12089c08"
+    },
+    {
+      "id": "dolly:761",
+      "prompt": "What would be the pros and cons of replacing all civilian airplanes with dirigibles?",
+      "sha256": "3a6b2b4e3229728c2a4656c7ceee1fd3c3e5dde702af59368c7658fc32a3d15e"
+    },
+    {
+      "id": "dolly:861",
+      "prompt": "What is the political philosophy of isolationists?",
+      "sha256": "f0dc3017de9faee3602b518a3af1a296ed60804b20f0198662a253d1b985b403"
+    },
+    {
+      "id": "dolly:11277",
+      "prompt": "What is the Willow Project? What is it's significance an how could this change the world we live in?",
+      "sha256": "7e2f6633f3c91ca2decab25ea8caff62876a356dad5f1c0d28f3a41f75bfbfe5"
+    },
+    {
+      "id": "dolly:11369",
+      "prompt": "Name five teams in the German Bundesliga.",
+      "sha256": "ae6e7d264cd01f21dcf3d12a328bd421842d60386ba5f989136bd6f0f323a6e0"
+    },
+    {
+      "id": "dolly:543",
+      "prompt": "List the ten episode titles from the sixth season of \"Game of Thrones\" in broadcast order.",
+      "sha256": "50f86129776f04335a52cfd232d7031bb210c576e5a02237b275712a2f7e3455"
+    },
+    {
+      "id": "dolly:14757",
+      "prompt": "What was the primary reason for the mutiny that occurred in 1857, in British India?",
+      "sha256": "59b6a40aba770c156092dd8c4abebc4a73a9094bcf515c9c565f36af7ca9672a"
+    },
+    {
+      "id": "dolly:14004",
+      "prompt": "What is intelligence?",
+      "sha256": "a474d51077f1a7e3970dc2bca163d98ac5748fa710e44261dd8b01f546a43067"
+    },
+    {
+      "id": "dolly:3246",
+      "prompt": "What country has the most active valcanoes in the world?",
+      "sha256": "701302abc92eb5da685c517b7ca614af2990c10d4b2804a53bc329148f9ace4c"
+    },
+    {
+      "id": "dolly:13308",
+      "prompt": "During Passover, what are some distinctions of what is and is not Kosher?",
+      "sha256": "ebb0434aa6b0bb101ce130c9fba5dcaf69cccaf4503e3002d48f45fee029f768"
+    },
+    {
+      "id": "dolly:11262",
+      "prompt": "What is the origin of orange wine?",
+      "sha256": "be2374c70d653480f36777de1b01d2806d568656e838d16a2fda4cf1eaa48194"
+    },
+    {
+      "id": "dolly:12776",
+      "prompt": "What are all Marvel movies with Thanos in it?",
+      "sha256": "67aa0b12ffce9a263c3b8892167773666b79c7b66cbccdeb50fd6fa94aaf4265"
+    },
+    {
+      "id": "dolly:13039",
+      "prompt": "Why is Falmouth, Massachusetts a great place to visit for vacation?",
+      "sha256": "8d291c1d87187600869b5e76d26f4ee35e91593f51e4b44f8605691ffe02a67f"
+    },
+    {
+      "id": "dolly:11900",
+      "prompt": "Why did Christopher Columbus think he had sailed to Asia instead of America? What maps did he have at his disposal?",
+      "sha256": "6ea23790800a74750b26bb3189306d03aba05a20901f8a0c5f8965abe7117ce8"
+    },
+    {
+      "id": "dolly:2823",
+      "prompt": "What is the difference between Eczema and Atopic Dermatitis?",
+      "sha256": "b56ade6899b04a4b3bfca82ca8321c91bd2554d3b78f1b6b240653176e1111c9"
+    },
+    {
+      "id": "dolly:11820",
+      "prompt": "Explain me the concept of \"Karma\" in Buddhism.",
+      "sha256": "5ca73e12be20ac1b1516dc0176273066e1a1c358ee91f2f3ddaae656221d8faa"
+    },
+    {
+      "id": "dolly:11867",
+      "prompt": "What are the teams in the NL Central Division in Major League Baseball?",
+      "sha256": "bcc2f64c9ea50524ec92b6b9ae35db0a8f7a2352b3419607e135993da1c2fed7"
+    },
+    {
+      "id": "dolly:14182",
+      "prompt": "What is kindergarten?",
+      "sha256": "26a7881fb3157aa2cc1ac9bfd063bbc94b39303ff32981e46779f61d2fe956ca"
+    },
+    {
+      "id": "dolly:14050",
+      "prompt": "What is a good approach to grocery shopping?",
+      "sha256": "208d8898447cf81660c1314028edbdb04ece05dddf0f9db9c5b82f7880fb9a94"
+    },
+    {
+      "id": "dolly:10813",
+      "prompt": "What are the steps to put an elephant into a fridge?",
+      "sha256": "b04e45861f2cd725f1b2f2f893f3c12676ca5d41407809c38ddb89734419ac91"
+    },
+    {
+      "id": "dolly:3258",
+      "prompt": "What is the most popular sport?",
+      "sha256": "1b0b67509da4b4f954882fa60f235c7317b7383e225f47ca0552228128fdaca1"
+    },
+    {
+      "id": "dolly:13501",
+      "prompt": "What are some things to do in Rochester, NY?",
+      "sha256": "7cbf6630d58420a17427319229ce8c1b8189e36f81fa548574422d8098f93bbd"
+    },
+    {
+      "id": "dolly:14738",
+      "prompt": "Is toastmasters a good organization to join?",
+      "sha256": "c856e056c2e1fd4a2f1daf533097c46a1db9ef8a39d62db09e11c6140b404320"
+    },
+    {
+      "id": "dolly:6825",
+      "prompt": "List some of the best surf breaks in California",
+      "sha256": "bb565c9d6b58e77b623747ab12b67b6df1308a9731fe6fa5b13da872081a3d1e"
+    },
+    {
+      "id": "dolly:10731",
+      "prompt": "The first Battle of Panipat was fought in the year",
+      "sha256": "ada8641fd35122bcb4a6e958875490d61c2e9546c33af24bd273dd9ce4ae30e1"
+    },
+    {
+      "id": "dolly:7559",
+      "prompt": "Who won the National Championship for Men's Basketball in 2023?",
+      "sha256": "9d95d3caa2177d24bf778e49e3d2694d0f05583e5a31e1d9b3c6b245ec0ae5d2"
+    },
+    {
+      "id": "dolly:4501",
+      "prompt": "Write a story about somebody, anybody, nobody and everybody",
+      "sha256": "79dd7ae02377286ad1a3a6bd80074431d44edf4888941dc83cbddd5722948665"
+    },
+    {
+      "id": "dolly:9370",
+      "prompt": "As a leader, how do you build an environment of trust?",
+      "sha256": "25659ee653aa3d341fc96586d30012eec2606ce783c7c55cea62c40756b8a760"
+    },
+    {
+      "id": "dolly:11348",
+      "prompt": "Which three players have the most Masters Victories?",
+      "sha256": "6bccaabeef54ea7430bc8e62db6478731e8fecdd7c5ebf7ef7f5681020912497"
+    },
+    {
+      "id": "dolly:13689",
+      "prompt": "Who is the best character on Ted Lasso?",
+      "sha256": "7d2c474b3a72620f4b62883a2bead1e306f12965273d082291bef8dfca1a0f72"
+    },
+    {
+      "id": "dolly:10878",
+      "prompt": "How do you get your pilot's license?",
+      "sha256": "e6c2f5c7c05f24f359bcbd5373d912a3db1fb06443d9ada2d087db0a198c62dc"
+    },
+    {
+      "id": "dolly:7715",
+      "prompt": "What age is considered legal adulthood in much of the western world?",
+      "sha256": "5a78bb416ed93869c3a2163e9fcb725e245de3e274493c2a7bea0af499fc93f5"
+    },
+    {
+      "id": "dolly:8813",
+      "prompt": "What is India's rank in Global Gender Gap Index 2022",
+      "sha256": "d8f8361b485d4926c24b372d6d1df8e4a6b364011691a0da49b8b5a1813ce2a7"
+    },
+    {
+      "id": "dolly:11831",
+      "prompt": "Who was Else Schmitz-Gohr",
+      "sha256": "5b963dba4a6338fc4a8d5d0521ee23137f5d5bbfc6689c0fb976bdb1e041e8f8"
+    },
+    {
+      "id": "dolly:3387",
+      "prompt": "What are the key components of Hadoop?",
+      "sha256": "1e4d6fcc563e98451395b0a1bf91862149a24f5617264ee4bc395099da8e1818"
+    },
+    {
+      "id": "dolly:2651",
+      "prompt": "Name the last five California governors, including the current one",
+      "sha256": "32a5dbdacff599a43ce78e2e1727db765b09087c5e98ddfa9dd44e32c8ad4924"
+    },
+    {
+      "id": "dolly:10266",
+      "prompt": "If a candidate running to be the President of the United States is indicted during his campaign, can he continue running for election?",
+      "sha256": "e23ded076e8d6d31742d36d32136077366531b147a20507608857b11fed859fb"
+    },
+    {
+      "id": "dolly:8498",
+      "prompt": "Why is security important for organizations?",
+      "sha256": "f3152cde3cadd51830b9afdf168c277b1f280b9776d0555517b0607133cc7d1b"
+    },
+    {
+      "id": "dolly:9040",
+      "prompt": "Name some of the bravolebrities from Below Deck",
+      "sha256": "e62b3800f23b161e33c3be7981b6516d3db11af9063fe46e2bc9001e464b257c"
+    },
+    {
+      "id": "dolly:12935",
+      "prompt": "What are the biggest cloud providers",
+      "sha256": "21f4f9b6d86f35b5e125704c03619df813be7633bfffe2bc8ec015461782b059"
+    },
+    {
+      "id": "dolly:4983",
+      "prompt": "What is a digital twin?",
+      "sha256": "e6737bdcdbaeb982c9ab6ce89c58fbc433543539a496af7de815c1bd3397c4bf"
+    },
+    {
+      "id": "dolly:5573",
+      "prompt": "The Awards ceremony for 63rd Grammy Awards was held at which place?",
+      "sha256": "cea89192ec9c8fad4d7f9fa387c28336e3ca28dc7332d9cfe6fa69a66f6e4c53"
+    },
+    {
+      "id": "dolly:7677",
+      "prompt": "Where is the best place to work in my house?",
+      "sha256": "a963281a186630708207f0fde56a67237ee9341efb78dacded4ebd96866ca378"
+    },
+    {
+      "id": "dolly:2339",
+      "prompt": "Give me a list of the best cell phone brands besides Apple",
+      "sha256": "446e1f93a38e156967d3a2c6c7fc2f24fd099b3c10d04d10f37e8c36a5b44284"
+    },
+    {
+      "id": "dolly:4784",
+      "prompt": "How do you make a peanut butter and jelly sandwich?",
+      "sha256": "60eb024b1fddcfdd23cc240f0da5d053d29caebe064cb2a6815d8d7d53ac319a"
+    },
+    {
+      "id": "dolly:9146",
+      "prompt": "Who sold more CDs in 2016 than Beyonce?",
+      "sha256": "07f93c5a346b7f3db6b445bc17c67a47e40a496e4763130da5554fc08ecd7066"
+    },
+    {
+      "id": "dolly:6579",
+      "prompt": "What kind of fungi are Ochrolechiaceae",
+      "sha256": "2292f901a83882221f37577095b212b7a587c94d33d48cbfe775f3e46e9b17f7"
+    },
+    {
+      "id": "dolly:805",
+      "prompt": "What are fun things to do in New York City",
+      "sha256": "d9b27e8fc104e3623b491b14d7f9212b513a3d6dac64ee4bafd1d77fdecc630f"
+    },
+    {
+      "id": "dolly:5053",
+      "prompt": "What are some ideas for a birthday celebration for a 4 year-old boy?",
+      "sha256": "9e38489202d61125b5071772ae4615b1d84787375aafe3bc14dddf6831813dab"
+    },
+    {
+      "id": "dolly:7053",
+      "prompt": "Why do you practice Kyokushin karate?",
+      "sha256": "de851a27cc6395b359256062015d3f711fb2b70ed4ab1fc2f985403a4adc381a"
+    },
+    {
+      "id": "dolly:10927",
+      "prompt": "What are some items you can put on a bookshelf, other than books, to make it nice looking.",
+      "sha256": "51b97443b87035e2e52b667c59c81fe39dbc2cf765de160c29ec4263d867ca93"
+    },
+    {
+      "id": "dolly:9338",
+      "prompt": "Give me a list of the top ten tv shows, according to IMDb ratings.",
+      "sha256": "b597cd6261d23237254d614b88e9f695b4b5c09087e2ae0f7d4ae9f213dddbd9"
+    },
+    {
+      "id": "dolly:4057",
+      "prompt": "What are some of the most popular tourist attractions to visit in Sydney?",
+      "sha256": "4876a37d798c308738842454e2e62095888036d7ac67a225c1e6a06b0c48d365"
+    },
+    {
+      "id": "dolly:6137",
+      "prompt": "Why is summer in California so great?",
+      "sha256": "54a48904ec1335f3e61a53b336dbc2f145240ff10e83d68e5673d1eb1af2226f"
+    },
+    {
+      "id": "dolly:67",
+      "prompt": "What is the future for human?",
+      "sha256": "bba998f3bb3f2221c54b0b900f733965991a99e41bb103c27973e26c0b55f24d"
+    },
+    {
+      "id": "dolly:5875",
+      "prompt": "Can you suggest other house hold items that can be used instead of a hammer ?",
+      "sha256": "ddb396b27df5650a66802bf5fba9ce9dc67696b25807a67a968f4e07446c43b3"
+    },
+    {
+      "id": "dolly:1210",
+      "prompt": "What are the primary colors?",
+      "sha256": "63d6dddc6bc343e4cc3b4b776148bacc5463c5bfb6f74ca3f92f41aace19c360"
+    },
+    {
+      "id": "dolly:1304",
+      "prompt": "What are the titles to the six volumes of Sir Winston Churchill's \"The Second World War\"?",
+      "sha256": "80db97ffdf2e5b8c5cfd00650d12a97c25b7d7f3ffbeca768dcf7a27d8740447"
+    },
+    {
+      "id": "dolly:6506",
+      "prompt": "Name five NBA teams in the Eastern Conference.",
+      "sha256": "a3b48eea1a10856527509feac4455a2180f01655f6561adfd0bf78280d0ecf71"
+    },
+    {
+      "id": "dolly:13387",
+      "prompt": "How does a noise-cancelling headphone work?",
+      "sha256": "438f2b5a2894bc1dc25f40210e68d48116c96ab1b695947c449c8b445cf98175"
+    },
+    {
+      "id": "dolly:1033",
+      "prompt": "What is the difference between a pomelo and a grapefruit?",
+      "sha256": "01e7eb85a355464f3d58692577ee9e563002ace274c4106ce4e893af7632f380"
+    },
+    {
+      "id": "dolly:10522",
+      "prompt": "Give me a bulleted list of the five biggest cities in Germany",
+      "sha256": "a0659b4b73efc5f3770cf043ca5250ddbb31d69733eb1aa63630a782a2355cd4"
+    },
+    {
+      "id": "dolly:12501",
+      "prompt": "Think of a bunch of different ways you could lift weights at home without any dumbbells or gym equipment.",
+      "sha256": "06f0f3ad9e82a97708d04b9693cb9eb9377fbc4b21516f443720435db1839b4b"
+    },
+    {
+      "id": "dolly:14480",
+      "prompt": "Give me examples of German auto manufacturers still operating.",
+      "sha256": "2a666fa083aeb2c78d16d998b7d6968afa53b6c42cc778b10665e66ca4bc3f8f"
+    },
+    {
+      "id": "dolly:6393",
+      "prompt": "Believe it or not, Jimi Hendrix only had one Top 40 hit. Which song was it?",
+      "sha256": "4dd2b99e5d1cafa01a028e2b5b73e571ce0380fb43f6e0d5da81b01c1f80b217"
+    },
+    {
+      "id": "dolly:12981",
+      "prompt": "Give me 5 ways to reduce my electricity bill.",
+      "sha256": "a3cd2e1b0f1b26e7edb983883146c767a933c2a6f0379541ef4650b3cec30997"
+    },
+    {
+      "id": "dolly:9572",
+      "prompt": "What NBA team has the most championships in the modern era? The modern era is defined as post NBA/ABA league merger, 24 second clock and three-point basket.",
+      "sha256": "b2f20c6468fe1938cde92c996ba5785ca9a17646b21d08c151fa9071f7a11d9f"
+    },
+    {
+      "id": "dolly:10670",
+      "prompt": "When was Belgium founded?",
+      "sha256": "e3cb2a518ea9ddcb65abe00cba1972cad906226a76a9627a8512ea586cda75dd"
+    },
+    {
+      "id": "dolly:1924",
+      "prompt": "List the best toys for toddlers?",
+      "sha256": "814559357e19ac0f7099a18b2b5e0663aa82c4b7dfd3c47f5273a5a434e4bf8b"
+    },
+    {
+      "id": "dolly:11500",
+      "prompt": "What is India famous for?",
+      "sha256": "bc3fc6b5221a273f73f49fc146b6292fb9ccdcbc6db2493bda881084fb4bb79a"
+    },
+    {
+      "id": "dolly:5268",
+      "prompt": "What side of the road do pedestrians walk on?",
+      "sha256": "112e5e0e79490754f34b03580bfebe886d86adc7ec34830f901396ffeedf2599"
+    },
+    {
+      "id": "dolly:3351",
+      "prompt": "What are the four largest British Virgin Islands?",
+      "sha256": "448aab06742152372a1977e303e2d35cb3fdd39fcfdac252ab494becb6aa6402"
+    },
+    {
+      "id": "dolly:5145",
+      "prompt": "What are the top three cloud providers.",
+      "sha256": "ee0bedaa7b2ecedc716b5b2699d0b680928745cf689dda3a6966493411c4a213"
+    }
+  ],
+  "dataset_fingerprints": {
+    "alpaca": "a5048bbbf302198f",
+    "dolly": "2537fb912ac88184"
+  }
+}

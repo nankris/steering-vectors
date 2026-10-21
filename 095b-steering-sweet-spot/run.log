@@ -1,0 +1,701 @@
+2026-10-18T23:29:20Z START pilot
+2026-10-18T23:29:20Z Sun Oct 18 23:29:20 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   46C    P8             17W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Generating train split:   0%|          | 0/52002 [00:00<?, ? examples/s]Generating train split:  85%|████████▍ | 44000/52002 [00:00<00:00, 429848.36 examples/s]Generating train split: 100%|██████████| 52002/52002 [00:00<00:00, 459539.59 examples/s]
+Generating train split:   0%|          | 0/15011 [00:00<?, ? examples/s]Generating train split: 100%|██████████| 15011/15011 [00:00<00:00, 193142.82 examples/s]
+2026-10-18T23:29:32Z LOAD Qwen/Qwen3-4B
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Fetching 3 files:   0%|          | 0/3 [00:00<?, ?it/s]Fetching 3 files:  33%|███▎      | 1/3 [00:01<00:03,  1.89s/it]Fetching 3 files:  67%|██████▋   | 2/3 [00:23<00:13, 13.36s/it]Fetching 3 files: 100%|██████████| 3/3 [00:23<00:00,  7.76s/it]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:00<01:11,  5.52it/s]Loading weights:   6%|▋         | 25/398 [00:00<00:03, 107.55it/s]Loading weights:  12%|█▏        | 47/398 [00:00<00:02, 148.67it/s]Loading weights:  17%|█▋        | 68/398 [00:00<00:01, 166.76it/s]Loading weights:  23%|██▎       | 91/398 [00:00<00:01, 184.81it/s]Loading weights:  28%|██▊       | 112/398 [00:00<00:01, 189.60it/s]Loading weights:  34%|███▎      | 134/398 [00:00<00:01, 196.95it/s]Loading weights:  39%|███▉      | 157/398 [00:00<00:01, 203.50it/s]Loading weights:  45%|████▍     | 179/398 [00:01<00:01, 206.09it/s]Loading weights:  51%|█████     | 201/398 [00:01<00:00, 207.39it/s]Loading weights:  56%|█████▌    | 223/398 [00:01<00:00, 208.55it/s]Loading weights:  62%|██████▏   | 245/398 [00:01<00:00, 210.37it/s]Loading weights:  67%|██████▋   | 267/398 [00:01<00:00, 210.18it/s]Loading weights:  73%|███████▎  | 289/398 [00:01<00:00, 210.17it/s]Loading weights:  78%|███████▊  | 311/398 [00:01<00:00, 209.45it/s]Loading weights:  83%|████████▎ | 332/398 [00:01<00:00, 207.65it/s]Loading weights:  89%|████████▉ | 355/398 [00:01<00:00, 211.73it/s]Loading weights:  95%|█████████▍| 377/398 [00:01<00:00, 210.30it/s]Loading weights: 100%|██████████| 398/398 [00:02<00:00, 194.53it/s]
+Traceback (most recent call last):
+  File "/content/095b/run_gpu.py", line 142, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "/content/095b/run_gpu.py", line 128, in main
+    ds=data();model='Qwen/Qwen3-1.7B' if args.stage=='confirm17' else 'Qwen/Qwen3-4B';r=Runner(model);pilot=args.stage=='pilot';items=ds['pilot' if pilot else 'confirmation'];stage='pilot' if pilot else 'confirmation'
+                                                                                        ~~~~~~^^^^^^^
+  File "/content/095b/run_gpu.py", line 47, in __init__
+    log('MODEL',model,'depth',len(self.layers),'revision',self.m.config._commit_hash)
+                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/transformers/configuration_utils.py", line 525, in __getattribute__
+    return super().__getattribute__(key)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/transformers/integrations/heterogeneity/configuration_utils.py", line 312, in __getattribute__
+    return super().__getattribute__(key)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+AttributeError: 'Qwen3Config' object has no attribute '_commit_hash'
+2026-10-18T23:30:46Z START pilot
+2026-10-18T23:30:46Z Sun Oct 18 23:30:46 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   46C    P8             17W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+2026-10-18T23:30:46Z LOAD Qwen/Qwen3-4B
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:00<01:00,  6.55it/s]Loading weights:   5%|▌         | 20/398 [00:00<00:04, 94.22it/s]Loading weights:  11%|█         | 42/398 [00:00<00:02, 144.11it/s]Loading weights:  16%|█▌        | 64/398 [00:00<00:02, 166.78it/s]Loading weights:  22%|██▏       | 88/398 [00:00<00:01, 189.73it/s]Loading weights:  28%|██▊       | 110/398 [00:00<00:01, 197.70it/s]Loading weights:  33%|███▎      | 132/398 [00:00<00:01, 203.08it/s]Loading weights:  39%|███▊      | 154/398 [00:00<00:01, 206.18it/s]Loading weights:  44%|████▍     | 175/398 [00:00<00:01, 205.54it/s]Loading weights:  49%|████▉     | 196/398 [00:01<00:00, 205.02it/s]Loading weights:  55%|█████▌    | 220/398 [00:01<00:00, 213.72it/s]Loading weights:  61%|██████    | 242/398 [00:01<00:00, 214.02it/s]Loading weights:  66%|██████▋   | 264/398 [00:01<00:00, 214.12it/s]Loading weights:  72%|███████▏  | 286/398 [00:01<00:00, 213.81it/s]Loading weights:  77%|███████▋  | 308/398 [00:01<00:00, 214.03it/s]Loading weights:  83%|████████▎ | 330/398 [00:01<00:00, 214.07it/s]Loading weights:  88%|████████▊ | 352/398 [00:01<00:00, 213.11it/s]Loading weights:  94%|█████████▍| 374/398 [00:01<00:00, 212.91it/s]Loading weights:  99%|█████████▉| 396/398 [00:02<00:00, 213.49it/s]Loading weights: 100%|██████████| 398/398 [00:02<00:00, 197.97it/s]
+2026-10-18T23:30:52Z MODEL Qwen/Qwen3-4B depth 36 revision 1cfa9a7208912126459214e8b04321603b3df60c
+2026-10-18T23:30:58Z BATCH pilot Qwen/Qwen3-4B baseline 0 0 16 / 16 seconds 6.52 tokens 1084
+2026-10-18T23:30:59Z VECTOR ocean 12 norm 3.418257474899292
+2026-10-18T23:31:04Z BATCH pilot Qwen/Qwen3-4B ocean 12 2 16 / 16 seconds 5.04 tokens 1036
+2026-10-18T23:31:09Z BATCH pilot Qwen/Qwen3-4B ocean 12 4 16 / 16 seconds 4.96 tokens 1068
+2026-10-18T23:31:14Z BATCH pilot Qwen/Qwen3-4B ocean 12 6 16 / 16 seconds 4.98 tokens 1064
+2026-10-18T23:31:19Z BATCH pilot Qwen/Qwen3-4B ocean 12 8 16 / 16 seconds 4.89 tokens 1089
+2026-10-18T23:31:19Z VECTOR ocean 24 norm 9.621050834655762
+2026-10-18T23:31:24Z BATCH pilot Qwen/Qwen3-4B ocean 24 2 16 / 16 seconds 5.01 tokens 1020
+2026-10-18T23:31:29Z BATCH pilot Qwen/Qwen3-4B ocean 24 4 16 / 16 seconds 5.02 tokens 1007
+2026-10-18T23:31:34Z BATCH pilot Qwen/Qwen3-4B ocean 24 6 16 / 16 seconds 5.02 tokens 1017
+2026-10-18T23:31:39Z BATCH pilot Qwen/Qwen3-4B ocean 24 8 16 / 16 seconds 5.02 tokens 1020
+2026-10-18T23:31:39Z VECTOR ocean 30 norm 23.367977142333984
+2026-10-18T23:31:44Z BATCH pilot Qwen/Qwen3-4B ocean 30 2 16 / 16 seconds 5.01 tokens 1059
+2026-10-18T23:31:49Z BATCH pilot Qwen/Qwen3-4B ocean 30 4 16 / 16 seconds 5.01 tokens 1026
+2026-10-18T23:31:54Z BATCH pilot Qwen/Qwen3-4B ocean 30 6 16 / 16 seconds 5.01 tokens 1095
+2026-10-18T23:31:59Z BATCH pilot Qwen/Qwen3-4B ocean 30 8 16 / 16 seconds 5.04 tokens 1243
+2026-10-18T23:32:00Z VECTOR optimistic 12 norm 3.418257474899292
+2026-10-18T23:32:05Z BATCH pilot Qwen/Qwen3-4B optimistic 12 2 16 / 16 seconds 5.03 tokens 1025
+2026-10-18T23:32:10Z BATCH pilot Qwen/Qwen3-4B optimistic 12 4 16 / 16 seconds 5.03 tokens 1041
+2026-10-18T23:32:15Z BATCH pilot Qwen/Qwen3-4B optimistic 12 6 16 / 16 seconds 5.01 tokens 1008
+2026-10-18T23:32:20Z BATCH pilot Qwen/Qwen3-4B optimistic 12 8 16 / 16 seconds 5.02 tokens 966
+2026-10-18T23:32:20Z VECTOR optimistic 24 norm 9.621051788330078
+2026-10-18T23:32:25Z BATCH pilot Qwen/Qwen3-4B optimistic 24 2 16 / 16 seconds 5.0 tokens 1061
+2026-10-18T23:32:30Z BATCH pilot Qwen/Qwen3-4B optimistic 24 4 16 / 16 seconds 4.95 tokens 1023
+2026-10-18T23:32:35Z BATCH pilot Qwen/Qwen3-4B optimistic 24 6 16 / 16 seconds 4.96 tokens 1113
+2026-10-18T23:32:40Z BATCH pilot Qwen/Qwen3-4B optimistic 24 8 16 / 16 seconds 5.04 tokens 1136
+2026-10-18T23:32:40Z VECTOR optimistic 30 norm 23.36797523498535
+2026-10-18T23:32:45Z BATCH pilot Qwen/Qwen3-4B optimistic 30 2 16 / 16 seconds 5.03 tokens 1076
+2026-10-18T23:32:50Z BATCH pilot Qwen/Qwen3-4B optimistic 30 4 16 / 16 seconds 5.01 tokens 1053
+2026-10-18T23:32:56Z BATCH pilot Qwen/Qwen3-4B optimistic 30 6 16 / 16 seconds 5.03 tokens 1049
+2026-10-18T23:33:01Z BATCH pilot Qwen/Qwen3-4B optimistic 30 8 16 / 16 seconds 5.0 tokens 1041
+2026-10-18T23:33:01Z VECTOR archaic 12 norm 3.418257236480713
+2026-10-18T23:33:06Z BATCH pilot Qwen/Qwen3-4B archaic 12 2 16 / 16 seconds 4.99 tokens 1029
+2026-10-18T23:33:11Z BATCH pilot Qwen/Qwen3-4B archaic 12 4 16 / 16 seconds 5.01 tokens 1040
+2026-10-18T23:33:16Z BATCH pilot Qwen/Qwen3-4B archaic 12 6 16 / 16 seconds 5.03 tokens 1056
+2026-10-18T23:33:21Z BATCH pilot Qwen/Qwen3-4B archaic 12 8 16 / 16 seconds 5.01 tokens 1090
+2026-10-18T23:33:21Z VECTOR archaic 24 norm 9.621050834655762
+2026-10-18T23:33:26Z BATCH pilot Qwen/Qwen3-4B archaic 24 2 16 / 16 seconds 4.92 tokens 1023
+2026-10-18T23:33:31Z BATCH pilot Qwen/Qwen3-4B archaic 24 4 16 / 16 seconds 4.92 tokens 1015
+2026-10-18T23:33:36Z BATCH pilot Qwen/Qwen3-4B archaic 24 6 16 / 16 seconds 4.94 tokens 1091
+2026-10-18T23:33:41Z BATCH pilot Qwen/Qwen3-4B archaic 24 8 16 / 16 seconds 5.03 tokens 1280
+2026-10-18T23:33:41Z VECTOR archaic 30 norm 23.36797332763672
+2026-10-18T23:33:46Z BATCH pilot Qwen/Qwen3-4B archaic 30 2 16 / 16 seconds 4.99 tokens 1043
+2026-10-18T23:33:52Z BATCH pilot Qwen/Qwen3-4B archaic 30 4 16 / 16 seconds 5.0 tokens 1080
+2026-10-18T23:33:57Z BATCH pilot Qwen/Qwen3-4B archaic 30 6 16 / 16 seconds 5.03 tokens 1155
+2026-10-18T23:34:02Z BATCH pilot Qwen/Qwen3-4B archaic 30 8 16 / 16 seconds 5.05 tokens 1280
+2026-10-18T23:34:02Z DONE pilot seconds 195.594
+2026-10-18T23:34:10Z START judgepilot
+2026-10-18T23:34:10Z Sun Oct 18 23:34:10 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   70C    P0             24W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+2026-10-18T23:34:10Z LOAD Qwen/Qwen3-8B
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files:  20%|██        | 1/5 [00:32<02:11, 32.92s/it]Fetching 5 files:  40%|████      | 2/5 [00:50<01:11, 23.74s/it]Fetching 5 files: 100%|██████████| 5/5 [00:50<00:00, 10.05s/it]
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:00<01:45,  3.77it/s]Loading weights:   1%|          | 2/399 [00:00<01:55,  3.43it/s]Loading weights:   4%|▍         | 15/399 [00:00<00:12, 30.24it/s]Loading weights:   7%|▋         | 27/399 [00:00<00:07, 48.70it/s]Loading weights:  10%|▉         | 39/399 [00:00<00:05, 62.40it/s]Loading weights:  14%|█▎        | 54/399 [00:01<00:04, 82.42it/s]Loading weights:  17%|█▋        | 67/399 [00:01<00:03, 93.12it/s]Loading weights:  20%|██        | 80/399 [00:01<00:03, 96.69it/s]Loading weights:  23%|██▎       | 93/399 [00:01<00:03, 93.52it/s]Loading weights:  27%|██▋       | 108/399 [00:01<00:02, 105.52it/s]Loading weights:  30%|███       | 120/399 [00:01<00:02, 108.16it/s]Loading weights:  34%|███▍      | 136/399 [00:01<00:02, 107.70it/s]Loading weights:  37%|███▋      | 149/399 [00:01<00:02, 107.23it/s]Loading weights:  41%|████      | 164/399 [00:02<00:02, 113.72it/s]Loading weights:  45%|████▌     | 180/399 [00:02<00:01, 118.36it/s]Loading weights:  48%|████▊     | 192/399 [00:02<00:01, 112.29it/s]Loading weights:  51%|█████     | 204/399 [00:02<00:01, 108.11it/s]Loading weights:  55%|█████▍    | 219/399 [00:02<00:01, 117.03it/s]Loading weights:  58%|█████▊    | 232/399 [00:02<00:01, 118.96it/s]Loading weights:  61%|██████▏   | 245/399 [00:02<00:01, 114.76it/s]Loading weights:  65%|██████▍   | 258/399 [00:02<00:01, 111.90it/s]Loading weights:  68%|██████▊   | 270/399 [00:02<00:01, 107.56it/s]Loading weights:  71%|███████▏  | 285/399 [00:03<00:00, 116.28it/s]Loading weights:  75%|███████▍  | 298/399 [00:03<00:00, 117.93it/s]Loading weights:  78%|███████▊  | 310/399 [00:03<00:00, 118.38it/s]Loading weights:  81%|████████  | 323/399 [00:03<00:00, 114.59it/s]Loading weights:  84%|████████▍ | 335/399 [00:03<00:00, 109.36it/s]Loading weights:  87%|████████▋ | 347/399 [00:03<00:00, 105.56it/s]Loading weights:  91%|█████████ | 362/399 [00:03<00:00, 115.26it/s]Loading weights:  94%|█████████▍| 375/399 [00:03<00:00, 117.56it/s]Loading weights:  97%|█████████▋| 389/399 [00:03<00:00, 116.17it/s]Loading weights: 100%|██████████| 399/399 [00:04<00:00, 98.08it/s] 
+2026-10-18T23:35:11Z MODEL Qwen/Qwen3-8B depth 36 revision b968826d9c46dd6066d109eabc6255188de91218
+2026-10-18T23:35:13Z JUDGE pilot 12 / 592
+2026-10-18T23:35:16Z JUDGE pilot 24 / 592
+2026-10-18T23:35:18Z JUDGE pilot 36 / 592
+2026-10-18T23:35:20Z JUDGE pilot 48 / 592
+2026-10-18T23:35:23Z JUDGE pilot 60 / 592
+2026-10-18T23:35:25Z JUDGE pilot 72 / 592
+2026-10-18T23:35:27Z JUDGE pilot 84 / 592
+2026-10-18T23:35:30Z JUDGE pilot 96 / 592
+2026-10-18T23:35:32Z JUDGE pilot 108 / 592
+2026-10-18T23:35:34Z JUDGE pilot 120 / 592
+2026-10-18T23:35:37Z JUDGE pilot 132 / 592
+2026-10-18T23:35:39Z JUDGE pilot 144 / 592
+2026-10-18T23:35:42Z JUDGE pilot 156 / 592
+2026-10-18T23:35:44Z JUDGE pilot 168 / 592
+2026-10-18T23:35:46Z JUDGE pilot 180 / 592
+2026-10-18T23:35:49Z JUDGE pilot 192 / 592
+2026-10-18T23:35:51Z JUDGE pilot 204 / 592
+2026-10-18T23:35:53Z JUDGE pilot 216 / 592
+2026-10-18T23:35:56Z JUDGE pilot 228 / 592
+2026-10-18T23:35:58Z JUDGE pilot 240 / 592
+2026-10-18T23:36:00Z JUDGE pilot 252 / 592
+2026-10-18T23:36:02Z JUDGE pilot 264 / 592
+2026-10-18T23:36:04Z JUDGE pilot 276 / 592
+2026-10-18T23:36:06Z JUDGE pilot 288 / 592
+2026-10-18T23:36:09Z JUDGE pilot 300 / 592
+2026-10-18T23:36:11Z JUDGE pilot 312 / 592
+2026-10-18T23:36:13Z JUDGE pilot 324 / 592
+2026-10-18T23:36:15Z JUDGE pilot 336 / 592
+2026-10-18T23:36:17Z JUDGE pilot 348 / 592
+2026-10-18T23:36:20Z JUDGE pilot 360 / 592
+2026-10-18T23:36:22Z JUDGE pilot 372 / 592
+2026-10-18T23:36:24Z JUDGE pilot 384 / 592
+2026-10-18T23:36:26Z JUDGE pilot 396 / 592
+2026-10-18T23:36:28Z JUDGE pilot 408 / 592
+2026-10-18T23:36:31Z JUDGE pilot 420 / 592
+2026-10-18T23:36:33Z JUDGE pilot 432 / 592
+2026-10-18T23:36:35Z JUDGE pilot 444 / 592
+2026-10-18T23:36:37Z JUDGE pilot 456 / 592
+2026-10-18T23:36:40Z JUDGE pilot 468 / 592
+2026-10-18T23:36:42Z JUDGE pilot 480 / 592
+2026-10-18T23:36:44Z JUDGE pilot 492 / 592
+2026-10-18T23:36:46Z JUDGE pilot 504 / 592
+2026-10-18T23:36:49Z JUDGE pilot 516 / 592
+2026-10-18T23:36:51Z JUDGE pilot 528 / 592
+2026-10-18T23:36:53Z JUDGE pilot 540 / 592
+2026-10-18T23:36:56Z JUDGE pilot 552 / 592
+2026-10-18T23:36:58Z JUDGE pilot 564 / 592
+2026-10-18T23:37:00Z JUDGE pilot 576 / 592
+2026-10-18T23:37:03Z JUDGE pilot 588 / 592
+2026-10-18T23:37:03Z JUDGE pilot 592 / 592
+2026-10-18T23:37:03Z DONE judgepilot seconds 173.725
+2026-10-18T23:38:14Z START confirm4
+2026-10-18T23:38:14Z Sun Oct 18 23:38:14 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   64C    P8             19W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+2026-10-18T23:38:14Z LOAD Qwen/Qwen3-4B
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights:   0%|          | 1/398 [00:00<01:07,  5.85it/s]Loading weights:   6%|▋         | 25/398 [00:00<00:03, 111.75it/s]Loading weights:  12%|█▏        | 47/398 [00:00<00:02, 152.64it/s]Loading weights:  17%|█▋        | 69/398 [00:00<00:01, 175.51it/s]Loading weights:  23%|██▎       | 91/398 [00:00<00:01, 189.35it/s]Loading weights:  28%|██▊       | 113/398 [00:00<00:01, 198.06it/s]Loading weights:  34%|███▍      | 135/398 [00:00<00:01, 203.89it/s]Loading weights:  39%|███▉      | 157/398 [00:00<00:01, 199.79it/s]Loading weights:  45%|████▌     | 180/398 [00:00<00:01, 207.43it/s]Loading weights:  51%|█████     | 202/398 [00:01<00:00, 210.09it/s]Loading weights:  56%|█████▋    | 224/398 [00:01<00:00, 211.72it/s]Loading weights:  62%|██████▏   | 246/398 [00:01<00:00, 213.07it/s]Loading weights:  67%|██████▋   | 268/398 [00:01<00:00, 213.46it/s]Loading weights:  73%|███████▎  | 290/398 [00:01<00:00, 213.98it/s]Loading weights:  78%|███████▊  | 312/398 [00:01<00:00, 214.52it/s]Loading weights:  84%|████████▍ | 334/398 [00:01<00:00, 214.83it/s]Loading weights:  89%|████████▉ | 356/398 [00:01<00:00, 215.01it/s]Loading weights:  95%|█████████▍| 378/398 [00:01<00:00, 214.65it/s]Loading weights: 100%|██████████| 398/398 [00:01<00:00, 199.46it/s]
+2026-10-18T23:38:19Z MODEL Qwen/Qwen3-4B depth 36 revision 1cfa9a7208912126459214e8b04321603b3df60c
+2026-10-18T23:38:25Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 24 / 200 seconds 5.7 tokens 1846
+2026-10-18T23:38:30Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 48 / 200 seconds 5.25 tokens 1874
+2026-10-18T23:38:35Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 72 / 200 seconds 5.29 tokens 1920
+2026-10-18T23:38:41Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 96 / 200 seconds 5.38 tokens 1902
+2026-10-18T23:38:46Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 120 / 200 seconds 5.38 tokens 1879
+2026-10-18T23:38:51Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 144 / 200 seconds 5.35 tokens 1909
+2026-10-18T23:38:57Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 168 / 200 seconds 5.35 tokens 1920
+2026-10-18T23:39:02Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 192 / 200 seconds 5.35 tokens 1826
+2026-10-18T23:39:07Z BATCH confirmation Qwen/Qwen3-4B baseline 0 0 200 / 200 seconds 4.69 tokens 640
+2026-10-18T23:39:12Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 24 / 200 seconds 5.28 tokens 1851
+2026-10-18T23:39:17Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 48 / 200 seconds 5.3 tokens 1920
+2026-10-18T23:39:23Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 72 / 200 seconds 5.27 tokens 1915
+2026-10-18T23:39:28Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 96 / 200 seconds 5.38 tokens 1894
+2026-10-18T23:39:33Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 120 / 200 seconds 5.34 tokens 1881
+2026-10-18T23:39:39Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 144 / 200 seconds 5.3 tokens 1873
+2026-10-18T23:39:44Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 168 / 200 seconds 5.28 tokens 1920
+2026-10-18T23:39:49Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 192 / 200 seconds 5.37 tokens 1802
+2026-10-18T23:39:54Z BATCH confirmation Qwen/Qwen3-4B archaic 24 4 200 / 200 seconds 4.74 tokens 640
+2026-10-18T23:39:59Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 24 / 200 seconds 5.21 tokens 1920
+2026-10-18T23:40:05Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 48 / 200 seconds 5.31 tokens 1920
+2026-10-18T23:40:10Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 72 / 200 seconds 5.25 tokens 1920
+2026-10-18T23:40:15Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 96 / 200 seconds 5.37 tokens 1917
+2026-10-18T23:40:21Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 120 / 200 seconds 5.32 tokens 1920
+2026-10-18T23:40:26Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 144 / 200 seconds 5.28 tokens 1920
+2026-10-18T23:40:31Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 168 / 200 seconds 5.28 tokens 1920
+2026-10-18T23:40:36Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 192 / 200 seconds 5.3 tokens 1920
+2026-10-18T23:40:41Z BATCH confirmation Qwen/Qwen3-4B archaic 24 8 200 / 200 seconds 4.67 tokens 640
+2026-10-18T23:40:46Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 24 / 200 seconds 5.25 tokens 1904
+2026-10-18T23:40:52Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 48 / 200 seconds 5.27 tokens 1899
+2026-10-18T23:40:57Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 72 / 200 seconds 5.31 tokens 1920
+2026-10-18T23:41:02Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 96 / 200 seconds 5.36 tokens 1920
+2026-10-18T23:41:08Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 120 / 200 seconds 5.37 tokens 1920
+2026-10-18T23:41:13Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 144 / 200 seconds 5.34 tokens 1920
+2026-10-18T23:41:18Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 168 / 200 seconds 5.28 tokens 1920
+2026-10-18T23:41:24Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 192 / 200 seconds 5.27 tokens 1856
+2026-10-18T23:41:28Z BATCH confirmation Qwen/Qwen3-4B ocean 30 6 200 / 200 seconds 4.62 tokens 640
+2026-10-18T23:41:33Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 24 / 200 seconds 5.24 tokens 1920
+2026-10-18T23:41:39Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 48 / 200 seconds 5.29 tokens 1920
+2026-10-18T23:41:44Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 72 / 200 seconds 5.28 tokens 1920
+2026-10-18T23:41:49Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 96 / 200 seconds 5.4 tokens 1920
+2026-10-18T23:41:55Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 120 / 200 seconds 5.37 tokens 1920
+2026-10-18T23:42:00Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 144 / 200 seconds 5.28 tokens 1920
+2026-10-18T23:42:05Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 168 / 200 seconds 5.33 tokens 1920
+2026-10-18T23:42:11Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 192 / 200 seconds 5.31 tokens 1920
+2026-10-18T23:42:15Z BATCH confirmation Qwen/Qwen3-4B ocean 30 12 200 / 200 seconds 4.68 tokens 640
+2026-10-18T23:42:21Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 24 / 200 seconds 5.24 tokens 1845
+2026-10-18T23:42:26Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 48 / 200 seconds 5.27 tokens 1903
+2026-10-18T23:42:31Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 72 / 200 seconds 5.28 tokens 1918
+2026-10-18T23:42:37Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 96 / 200 seconds 5.34 tokens 1880
+2026-10-18T23:42:42Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 120 / 200 seconds 5.36 tokens 1885
+2026-10-18T23:42:47Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 144 / 200 seconds 5.31 tokens 1894
+2026-10-18T23:42:53Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 168 / 200 seconds 5.29 tokens 1909
+2026-10-18T23:42:58Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 192 / 200 seconds 5.28 tokens 1800
+2026-10-18T23:43:03Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 4 200 / 200 seconds 4.68 tokens 640
+2026-10-18T23:43:08Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 24 / 200 seconds 5.23 tokens 1920
+2026-10-18T23:43:13Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 48 / 200 seconds 5.31 tokens 1920
+2026-10-18T23:43:18Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 72 / 200 seconds 5.28 tokens 1920
+2026-10-18T23:43:24Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 96 / 200 seconds 5.39 tokens 1920
+2026-10-18T23:43:29Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 120 / 200 seconds 5.3 tokens 1904
+2026-10-18T23:43:34Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 144 / 200 seconds 5.34 tokens 1920
+2026-10-18T23:43:40Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 168 / 200 seconds 5.28 tokens 1909
+2026-10-18T23:43:45Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 192 / 200 seconds 5.3 tokens 1811
+2026-10-18T23:43:50Z BATCH confirmation Qwen/Qwen3-4B optimistic 24 8 200 / 200 seconds 4.67 tokens 640
+2026-10-18T23:43:50Z DONE confirm4 seconds 336.252
+2026-10-18T23:43:58Z START confirm17
+2026-10-18T23:43:58Z Sun Oct 18 23:43:58 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   69C    P8             22W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+2026-10-18T23:43:58Z LOAD Qwen/Qwen3-1.7B
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:08<00:08,  8.44s/it]Fetching 2 files: 100%|██████████| 2/2 [00:13<00:00,  6.34s/it]Fetching 2 files: 100%|██████████| 2/2 [00:13<00:00,  6.65s/it]
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   0%|          | 1/311 [00:00<00:36,  8.38it/s]Loading weights:   1%|          | 2/311 [00:00<00:44,  6.88it/s]Loading weights:  15%|█▌        | 48/311 [00:00<00:01, 165.45it/s]Loading weights:  30%|██▉       | 93/311 [00:00<00:00, 257.08it/s]Loading weights:  44%|████▍     | 137/311 [00:00<00:00, 311.08it/s]Loading weights:  58%|█████▊    | 181/311 [00:00<00:00, 347.03it/s]Loading weights:  72%|███████▏  | 225/311 [00:00<00:00, 369.38it/s]Loading weights:  86%|████████▌ | 268/311 [00:00<00:00, 387.02it/s]Loading weights: 100%|██████████| 311/311 [00:01<00:00, 306.93it/s]
+2026-10-18T23:44:17Z MODEL Qwen/Qwen3-1.7B depth 28 revision 70d244cc86ccca08cf5af4e1e306ecf908b1ad5e
+2026-10-18T23:44:21Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 24 / 200 seconds 4.28 tokens 1822
+2026-10-18T23:44:25Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 48 / 200 seconds 3.76 tokens 1907
+2026-10-18T23:44:28Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 72 / 200 seconds 3.69 tokens 1903
+2026-10-18T23:44:32Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 96 / 200 seconds 3.75 tokens 1916
+2026-10-18T23:44:36Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 120 / 200 seconds 3.77 tokens 1920
+2026-10-18T23:44:40Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 144 / 200 seconds 3.75 tokens 1920
+2026-10-18T23:44:43Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 168 / 200 seconds 3.68 tokens 1920
+2026-10-18T23:44:47Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 192 / 200 seconds 3.72 tokens 1909
+2026-10-18T23:44:51Z BATCH confirmation Qwen/Qwen3-1.7B baseline 0 0 200 / 200 seconds 3.47 tokens 640
+2026-10-18T23:44:51Z VECTOR archaic 19 norm 48.8294563293457
+2026-10-18T23:44:55Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 24 / 200 seconds 3.7 tokens 1836
+2026-10-18T23:44:58Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 48 / 200 seconds 3.78 tokens 1920
+2026-10-18T23:45:02Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 72 / 200 seconds 3.75 tokens 1920
+2026-10-18T23:45:06Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 96 / 200 seconds 3.78 tokens 1920
+2026-10-18T23:45:10Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 120 / 200 seconds 3.78 tokens 1911
+2026-10-18T23:45:14Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 144 / 200 seconds 3.77 tokens 1903
+2026-10-18T23:45:17Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 168 / 200 seconds 3.75 tokens 1906
+2026-10-18T23:45:21Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 192 / 200 seconds 3.68 tokens 1833
+2026-10-18T23:45:24Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 4 200 / 200 seconds 3.47 tokens 640
+2026-10-18T23:45:28Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 24 / 200 seconds 3.71 tokens 1920
+2026-10-18T23:45:32Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 48 / 200 seconds 3.77 tokens 1920
+2026-10-18T23:45:36Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 72 / 200 seconds 3.74 tokens 1920
+2026-10-18T23:45:39Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 96 / 200 seconds 3.77 tokens 1920
+2026-10-18T23:45:43Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 120 / 200 seconds 3.76 tokens 1920
+2026-10-18T23:45:47Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 144 / 200 seconds 3.73 tokens 1920
+2026-10-18T23:45:51Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 168 / 200 seconds 3.68 tokens 1920
+2026-10-18T23:45:54Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 192 / 200 seconds 3.75 tokens 1920
+2026-10-18T23:45:58Z BATCH confirmation Qwen/Qwen3-1.7B archaic 19 8 200 / 200 seconds 3.49 tokens 640
+2026-10-18T23:45:58Z VECTOR ocean 23 norm 126.90496063232422
+2026-10-18T23:46:02Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 24 / 200 seconds 3.76 tokens 1851
+2026-10-18T23:46:06Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 48 / 200 seconds 3.72 tokens 1920
+2026-10-18T23:46:09Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 72 / 200 seconds 3.76 tokens 1920
+2026-10-18T23:46:13Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 96 / 200 seconds 3.79 tokens 1868
+2026-10-18T23:46:17Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 120 / 200 seconds 3.76 tokens 1920
+2026-10-18T23:46:21Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 144 / 200 seconds 3.75 tokens 1920
+2026-10-18T23:46:24Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 168 / 200 seconds 3.76 tokens 1920
+2026-10-18T23:46:28Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 192 / 200 seconds 3.75 tokens 1864
+2026-10-18T23:46:32Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 6 200 / 200 seconds 3.49 tokens 640
+2026-10-18T23:46:35Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 24 / 200 seconds 3.73 tokens 1920
+2026-10-18T23:46:39Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 48 / 200 seconds 3.7 tokens 1920
+2026-10-18T23:46:43Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 72 / 200 seconds 3.77 tokens 1920
+2026-10-18T23:46:47Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 96 / 200 seconds 3.75 tokens 1920
+2026-10-18T23:46:50Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 120 / 200 seconds 3.75 tokens 1920
+2026-10-18T23:46:54Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 144 / 200 seconds 3.79 tokens 1920
+2026-10-18T23:46:58Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 168 / 200 seconds 3.78 tokens 1920
+2026-10-18T23:47:02Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 192 / 200 seconds 3.75 tokens 1920
+2026-10-18T23:47:05Z BATCH confirmation Qwen/Qwen3-1.7B ocean 23 12 200 / 200 seconds 3.46 tokens 640
+2026-10-18T23:47:05Z VECTOR optimistic 19 norm 48.829463958740234
+2026-10-18T23:47:09Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 24 / 200 seconds 3.79 tokens 1834
+2026-10-18T23:47:13Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 48 / 200 seconds 3.78 tokens 1900
+2026-10-18T23:47:17Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 72 / 200 seconds 3.75 tokens 1869
+2026-10-18T23:47:21Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 96 / 200 seconds 3.76 tokens 1920
+2026-10-18T23:47:24Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 120 / 200 seconds 3.79 tokens 1901
+2026-10-18T23:47:28Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 144 / 200 seconds 3.8 tokens 1896
+2026-10-18T23:47:32Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 168 / 200 seconds 3.77 tokens 1904
+2026-10-18T23:47:36Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 192 / 200 seconds 3.77 tokens 1809
+2026-10-18T23:47:39Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 4 200 / 200 seconds 3.5 tokens 640
+2026-10-18T23:47:43Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 24 / 200 seconds 3.74 tokens 1920
+2026-10-18T23:47:47Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 48 / 200 seconds 3.79 tokens 1920
+2026-10-18T23:47:51Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 72 / 200 seconds 3.77 tokens 1912
+2026-10-18T23:47:54Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 96 / 200 seconds 3.76 tokens 1900
+2026-10-18T23:47:58Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 120 / 200 seconds 3.8 tokens 1915
+2026-10-18T23:48:02Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 144 / 200 seconds 3.72 tokens 1898
+2026-10-18T23:48:05Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 168 / 200 seconds 3.69 tokens 1830
+2026-10-18T23:48:09Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 192 / 200 seconds 3.75 tokens 1821
+2026-10-18T23:48:13Z BATCH confirmation Qwen/Qwen3-1.7B optimistic 19 8 200 / 200 seconds 3.5 tokens 637
+2026-10-18T23:48:13Z DONE confirm17 seconds 255.019
+2026-10-18T23:48:21Z START judgeconfirm
+2026-10-18T23:48:21Z Sun Oct 18 23:48:21 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   70C    P0             24W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+2026-10-18T23:48:21Z LOAD Qwen/Qwen3-8B
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:01<11:36,  1.75s/it]Loading weights:   1%|          | 2/399 [00:02<08:52,  1.34s/it]Loading weights:   4%|▍         | 15/399 [00:02<00:46,  8.26it/s]Loading weights:   7%|▋         | 27/399 [00:03<00:22, 16.54it/s]Loading weights:  10%|▉         | 39/399 [00:03<00:13, 25.95it/s]Loading weights:  13%|█▎        | 50/399 [00:03<00:09, 35.95it/s]Loading weights:  15%|█▌        | 61/399 [00:03<00:07, 46.07it/s]Loading weights:  18%|█▊        | 72/399 [00:03<00:05, 56.18it/s]Loading weights:  21%|██        | 83/399 [00:03<00:04, 65.99it/s]Loading weights:  24%|██▎       | 94/399 [00:03<00:04, 74.12it/s]Loading weights:  26%|██▋       | 105/399 [00:03<00:03, 81.45it/s]Loading weights:  29%|██▉       | 116/399 [00:04<00:09, 29.90it/s]Loading weights:  32%|███▏      | 127/399 [00:04<00:07, 37.67it/s]Loading weights:  36%|███▌      | 142/399 [00:04<00:04, 51.67it/s]Loading weights:  39%|███▊      | 154/399 [00:05<00:03, 61.63it/s]Loading weights:  42%|████▏     | 167/399 [00:05<00:03, 73.71it/s]Loading weights:  45%|████▌     | 180/399 [00:05<00:02, 80.95it/s]Loading weights:  48%|████▊     | 191/399 [00:05<00:03, 55.58it/s]Loading weights:  50%|█████     | 200/399 [00:05<00:04, 44.60it/s]Loading weights:  52%|█████▏    | 207/399 [00:06<00:07, 24.20it/s]Loading weights:  55%|█████▍    | 219/399 [00:06<00:05, 33.08it/s]Loading weights:  58%|█████▊    | 232/399 [00:06<00:03, 44.25it/s]Loading weights:  61%|██████    | 244/399 [00:07<00:02, 55.12it/s]Loading weights:  64%|██████▍   | 256/399 [00:07<00:02, 63.50it/s]Loading weights:  67%|██████▋   | 269/399 [00:07<00:01, 72.73it/s]Loading weights:  70%|███████   | 281/399 [00:07<00:01, 78.09it/s]Loading weights:  73%|███████▎  | 292/399 [00:07<00:01, 84.60it/s]Loading weights:  76%|███████▌  | 303/399 [00:07<00:01, 54.87it/s]Loading weights:  78%|███████▊  | 312/399 [00:08<00:01, 44.94it/s]Loading weights:  80%|███████▉  | 319/399 [00:08<00:02, 36.23it/s]Loading weights:  83%|████████▎ | 331/399 [00:08<00:01, 47.49it/s]Loading weights:  86%|████████▋ | 345/399 [00:08<00:00, 60.23it/s]Loading weights:  89%|████████▉ | 357/399 [00:08<00:00, 68.25it/s]Loading weights:  92%|█████████▏| 369/399 [00:09<00:00, 75.05it/s]Loading weights:  96%|█████████▌| 383/399 [00:09<00:00, 88.73it/s]Loading weights:  99%|█████████▉| 395/399 [00:09<00:00, 92.40it/s]Loading weights: 100%|██████████| 399/399 [00:09<00:00, 43.18it/s]
+2026-10-18T23:48:34Z MODEL Qwen/Qwen3-8B depth 36 revision b968826d9c46dd6066d109eabc6255188de91218
+2026-10-18T23:48:37Z JUDGE confirmation 12 / 2800
+2026-10-18T23:48:39Z JUDGE confirmation 24 / 2800
+2026-10-18T23:48:41Z JUDGE confirmation 36 / 2800
+2026-10-18T23:48:44Z JUDGE confirmation 48 / 2800
+2026-10-18T23:48:46Z JUDGE confirmation 60 / 2800
+2026-10-18T23:48:48Z JUDGE confirmation 72 / 2800
+2026-10-18T23:48:51Z JUDGE confirmation 84 / 2800
+2026-10-18T23:48:53Z JUDGE confirmation 96 / 2800
+2026-10-18T23:48:56Z JUDGE confirmation 108 / 2800
+2026-10-18T23:48:58Z JUDGE confirmation 120 / 2800
+2026-10-18T23:49:00Z JUDGE confirmation 132 / 2800
+2026-10-18T23:49:03Z JUDGE confirmation 144 / 2800
+2026-10-18T23:49:05Z JUDGE confirmation 156 / 2800
+2026-10-18T23:49:08Z JUDGE confirmation 168 / 2800
+2026-10-18T23:49:10Z JUDGE confirmation 180 / 2800
+2026-10-18T23:49:12Z JUDGE confirmation 192 / 2800
+2026-10-18T23:49:15Z JUDGE confirmation 204 / 2800
+2026-10-18T23:49:17Z JUDGE confirmation 216 / 2800
+2026-10-18T23:49:19Z JUDGE confirmation 228 / 2800
+2026-10-18T23:49:22Z JUDGE confirmation 240 / 2800
+2026-10-18T23:49:24Z JUDGE confirmation 252 / 2800
+2026-10-18T23:49:26Z JUDGE confirmation 264 / 2800
+2026-10-18T23:49:29Z JUDGE confirmation 276 / 2800
+2026-10-18T23:49:31Z JUDGE confirmation 288 / 2800
+2026-10-18T23:49:33Z JUDGE confirmation 300 / 2800
+2026-10-18T23:49:35Z JUDGE confirmation 312 / 2800
+2026-10-18T23:49:38Z JUDGE confirmation 324 / 2800
+2026-10-18T23:49:40Z JUDGE confirmation 336 / 2800
+2026-10-18T23:49:42Z JUDGE confirmation 348 / 2800
+2026-10-18T23:49:44Z JUDGE confirmation 360 / 2800
+2026-10-18T23:49:47Z JUDGE confirmation 372 / 2800
+2026-10-18T23:49:49Z JUDGE confirmation 384 / 2800
+2026-10-18T23:49:51Z JUDGE confirmation 396 / 2800
+2026-10-18T23:49:54Z JUDGE confirmation 408 / 2800
+2026-10-18T23:49:56Z JUDGE confirmation 420 / 2800
+2026-10-18T23:49:58Z JUDGE confirmation 432 / 2800
+2026-10-18T23:50:00Z JUDGE confirmation 444 / 2800
+2026-10-18T23:50:03Z JUDGE confirmation 456 / 2800
+2026-10-18T23:50:05Z JUDGE confirmation 468 / 2800
+2026-10-18T23:50:07Z JUDGE confirmation 480 / 2800
+2026-10-18T23:50:09Z JUDGE confirmation 492 / 2800
+2026-10-18T23:50:12Z JUDGE confirmation 504 / 2800
+2026-10-18T23:50:14Z JUDGE confirmation 516 / 2800
+2026-10-18T23:50:16Z JUDGE confirmation 528 / 2800
+2026-10-18T23:50:18Z JUDGE confirmation 540 / 2800
+2026-10-18T23:50:21Z JUDGE confirmation 552 / 2800
+2026-10-18T23:50:23Z JUDGE confirmation 564 / 2800
+2026-10-18T23:50:25Z JUDGE confirmation 576 / 2800
+2026-10-18T23:50:28Z JUDGE confirmation 588 / 2800
+2026-10-18T23:50:30Z JUDGE confirmation 600 / 2800
+2026-10-18T23:50:32Z JUDGE confirmation 612 / 2800
+2026-10-18T23:50:35Z JUDGE confirmation 624 / 2800
+2026-10-18T23:50:37Z JUDGE confirmation 636 / 2800
+2026-10-18T23:50:39Z JUDGE confirmation 648 / 2800
+2026-10-18T23:50:42Z JUDGE confirmation 660 / 2800
+2026-10-18T23:50:44Z JUDGE confirmation 672 / 2800
+2026-10-18T23:50:46Z JUDGE confirmation 684 / 2800
+2026-10-18T23:50:49Z JUDGE confirmation 696 / 2800
+2026-10-18T23:50:51Z JUDGE confirmation 708 / 2800
+2026-10-18T23:50:53Z JUDGE confirmation 720 / 2800
+2026-10-18T23:50:56Z JUDGE confirmation 732 / 2800
+2026-10-18T23:50:58Z JUDGE confirmation 744 / 2800
+2026-10-18T23:51:00Z JUDGE confirmation 756 / 2800
+2026-10-18T23:51:03Z JUDGE confirmation 768 / 2800
+2026-10-18T23:51:05Z JUDGE confirmation 780 / 2800
+2026-10-18T23:51:08Z JUDGE confirmation 792 / 2800
+2026-10-18T23:51:10Z JUDGE confirmation 804 / 2800
+2026-10-18T23:51:12Z JUDGE confirmation 816 / 2800
+2026-10-18T23:51:15Z JUDGE confirmation 828 / 2800
+2026-10-18T23:51:17Z JUDGE confirmation 840 / 2800
+2026-10-18T23:51:20Z JUDGE confirmation 852 / 2800
+2026-10-18T23:51:22Z JUDGE confirmation 864 / 2800
+2026-10-18T23:51:24Z JUDGE confirmation 876 / 2800
+2026-10-18T23:51:27Z JUDGE confirmation 888 / 2800
+2026-10-18T23:51:29Z JUDGE confirmation 900 / 2800
+2026-10-18T23:51:31Z JUDGE confirmation 912 / 2800
+2026-10-18T23:51:34Z JUDGE confirmation 924 / 2800
+2026-10-18T23:51:36Z JUDGE confirmation 936 / 2800
+2026-10-18T23:51:39Z JUDGE confirmation 948 / 2800
+2026-10-18T23:51:42Z JUDGE confirmation 960 / 2800
+2026-10-18T23:51:45Z JUDGE confirmation 972 / 2800
+2026-10-18T23:51:47Z JUDGE confirmation 984 / 2800
+2026-10-18T23:51:50Z JUDGE confirmation 996 / 2800
+2026-10-18T23:51:52Z JUDGE confirmation 1008 / 2800
+2026-10-18T23:51:54Z JUDGE confirmation 1020 / 2800
+2026-10-18T23:51:56Z JUDGE confirmation 1032 / 2800
+2026-10-18T23:51:58Z JUDGE confirmation 1044 / 2800
+2026-10-18T23:52:00Z JUDGE confirmation 1056 / 2800
+2026-10-18T23:52:03Z JUDGE confirmation 1068 / 2800
+2026-10-18T23:52:05Z JUDGE confirmation 1080 / 2800
+2026-10-18T23:52:07Z JUDGE confirmation 1092 / 2800
+2026-10-18T23:52:09Z JUDGE confirmation 1104 / 2800
+2026-10-18T23:52:12Z JUDGE confirmation 1116 / 2800
+2026-10-18T23:52:14Z JUDGE confirmation 1128 / 2800
+2026-10-18T23:52:16Z JUDGE confirmation 1140 / 2800
+2026-10-18T23:52:18Z JUDGE confirmation 1152 / 2800
+2026-10-18T23:52:20Z JUDGE confirmation 1164 / 2800
+2026-10-18T23:52:22Z JUDGE confirmation 1176 / 2800
+2026-10-18T23:52:25Z JUDGE confirmation 1188 / 2800
+2026-10-18T23:52:27Z JUDGE confirmation 1200 / 2800
+2026-10-18T23:52:29Z JUDGE confirmation 1212 / 2800
+2026-10-18T23:52:31Z JUDGE confirmation 1224 / 2800
+2026-10-18T23:52:34Z JUDGE confirmation 1236 / 2800
+2026-10-18T23:52:36Z JUDGE confirmation 1248 / 2800
+2026-10-18T23:52:38Z JUDGE confirmation 1260 / 2800
+2026-10-18T23:52:40Z JUDGE confirmation 1272 / 2800
+2026-10-18T23:52:42Z JUDGE confirmation 1284 / 2800
+2026-10-18T23:52:45Z JUDGE confirmation 1296 / 2800
+2026-10-18T23:52:47Z JUDGE confirmation 1308 / 2800
+2026-10-18T23:52:49Z JUDGE confirmation 1320 / 2800
+2026-10-18T23:52:51Z JUDGE confirmation 1332 / 2800
+2026-10-18T23:52:53Z JUDGE confirmation 1344 / 2800
+2026-10-18T23:52:56Z JUDGE confirmation 1356 / 2800
+2026-10-18T23:52:58Z JUDGE confirmation 1368 / 2800
+2026-10-18T23:53:00Z JUDGE confirmation 1380 / 2800
+2026-10-18T23:53:02Z JUDGE confirmation 1392 / 2800
+2026-10-18T23:53:05Z JUDGE confirmation 1404 / 2800
+2026-10-18T23:53:07Z JUDGE confirmation 1416 / 2800
+2026-10-18T23:53:09Z JUDGE confirmation 1428 / 2800
+2026-10-18T23:53:11Z JUDGE confirmation 1440 / 2800
+2026-10-18T23:53:14Z JUDGE confirmation 1452 / 2800
+2026-10-18T23:53:16Z JUDGE confirmation 1464 / 2800
+2026-10-18T23:53:19Z JUDGE confirmation 1476 / 2800
+2026-10-18T23:53:21Z JUDGE confirmation 1488 / 2800
+2026-10-18T23:53:23Z JUDGE confirmation 1500 / 2800
+2026-10-18T23:53:26Z JUDGE confirmation 1512 / 2800
+2026-10-18T23:53:28Z JUDGE confirmation 1524 / 2800
+2026-10-18T23:53:30Z JUDGE confirmation 1536 / 2800
+2026-10-18T23:53:33Z JUDGE confirmation 1548 / 2800
+2026-10-18T23:53:35Z JUDGE confirmation 1560 / 2800
+2026-10-18T23:53:37Z JUDGE confirmation 1572 / 2800
+2026-10-18T23:53:40Z JUDGE confirmation 1584 / 2800
+2026-10-18T23:53:42Z JUDGE confirmation 1596 / 2800
+2026-10-18T23:53:44Z JUDGE confirmation 1608 / 2800
+2026-10-18T23:53:46Z JUDGE confirmation 1620 / 2800
+2026-10-19T03:48:01Z START judgeconfirm
+2026-10-19T03:48:01Z Mon Oct 19 03:48:01 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   51C    P8             13W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+2026-10-19T03:48:01Z LOAD Qwen/Qwen3-8B
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files:  20%|██        | 1/5 [00:14<00:57, 14.48s/it]Fetching 5 files:  40%|████      | 2/5 [00:46<01:14, 24.75s/it]Fetching 5 files: 100%|██████████| 5/5 [00:46<00:00,  9.29s/it]
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:00<03:47,  1.75it/s]Loading weights:   4%|▍         | 15/399 [00:00<00:13, 28.18it/s]Loading weights:   7%|▋         | 27/399 [00:00<00:08, 45.68it/s]Loading weights:  10%|▉         | 39/399 [00:00<00:06, 59.43it/s]Loading weights:  14%|█▎        | 54/399 [00:01<00:04, 79.42it/s]Loading weights:  17%|█▋        | 66/399 [00:01<00:03, 88.34it/s]Loading weights:  20%|██        | 81/399 [00:01<00:03, 98.04it/s]Loading weights:  23%|██▎       | 93/399 [00:01<00:03, 97.96it/s]Loading weights:  26%|██▋       | 105/399 [00:01<00:03, 97.72it/s]Loading weights:  30%|███       | 120/399 [00:01<00:02, 106.85it/s]Loading weights:  34%|███▍      | 136/399 [00:01<00:02, 113.59it/s]Loading weights:  37%|███▋      | 148/399 [00:01<00:02, 109.06it/s]Loading weights:  40%|████      | 160/399 [00:02<00:02, 105.70it/s]Loading weights:  44%|████▎     | 174/399 [00:02<00:01, 114.57it/s]Loading weights:  47%|████▋     | 186/399 [00:02<00:01, 114.12it/s]Loading weights:  50%|████▉     | 199/399 [00:02<00:01, 116.58it/s]Loading weights:  53%|█████▎    | 213/399 [00:02<00:01, 114.65it/s]Loading weights:  56%|█████▋    | 225/399 [00:02<00:01, 102.70it/s]Loading weights:  60%|██████    | 241/399 [00:02<00:01, 115.47it/s]Loading weights:  63%|██████▎   | 253/399 [00:02<00:01, 114.99it/s]Loading weights:  67%|██████▋   | 268/399 [00:02<00:01, 116.98it/s]Loading weights:  70%|███████   | 280/399 [00:03<00:01, 110.89it/s]Loading weights:  73%|███████▎  | 292/399 [00:03<00:01, 106.94it/s]Loading weights:  77%|███████▋  | 307/399 [00:03<00:00, 116.13it/s]Loading weights:  80%|████████  | 320/399 [00:03<00:00, 118.22it/s]Loading weights:  84%|████████▎ | 334/399 [00:03<00:00, 116.21it/s]Loading weights:  87%|████████▋ | 346/399 [00:03<00:00, 110.35it/s]Loading weights:  90%|████████▉ | 358/399 [00:03<00:00, 105.99it/s]Loading weights:  93%|█████████▎| 372/399 [00:03<00:00, 114.54it/s]Loading weights:  96%|█████████▌| 384/399 [00:03<00:00, 114.01it/s]Loading weights:  99%|█████████▉| 397/399 [00:04<00:00, 116.58it/s]Loading weights: 100%|██████████| 399/399 [00:04<00:00, 97.90it/s] 
+2026-10-19T03:49:01Z MODEL Qwen/Qwen3-8B depth 36 revision b968826d9c46dd6066d109eabc6255188de91218
+2026-10-19T03:49:05Z JUDGE confirmation 12 / 1180
+2026-10-19T03:49:07Z JUDGE confirmation 24 / 1180
+2026-10-19T03:49:09Z JUDGE confirmation 36 / 1180
+2026-10-19T03:49:11Z JUDGE confirmation 48 / 1180
+2026-10-19T03:49:13Z JUDGE confirmation 60 / 1180
+2026-10-19T03:49:15Z JUDGE confirmation 72 / 1180
+2026-10-19T03:49:18Z JUDGE confirmation 84 / 1180
+2026-10-19T03:49:20Z JUDGE confirmation 96 / 1180
+2026-10-19T03:49:22Z JUDGE confirmation 108 / 1180
+2026-10-19T03:49:24Z JUDGE confirmation 120 / 1180
+2026-10-19T03:49:26Z JUDGE confirmation 132 / 1180
+2026-10-19T03:49:29Z JUDGE confirmation 144 / 1180
+2026-10-19T03:49:31Z JUDGE confirmation 156 / 1180
+2026-10-19T03:49:33Z JUDGE confirmation 168 / 1180
+2026-10-19T03:49:35Z JUDGE confirmation 180 / 1180
+2026-10-19T03:49:38Z JUDGE confirmation 192 / 1180
+2026-10-19T03:49:40Z JUDGE confirmation 204 / 1180
+2026-10-19T03:49:42Z JUDGE confirmation 216 / 1180
+2026-10-19T03:49:44Z JUDGE confirmation 228 / 1180
+2026-10-19T03:49:46Z JUDGE confirmation 240 / 1180
+2026-10-19T03:49:49Z JUDGE confirmation 252 / 1180
+2026-10-19T03:49:51Z JUDGE confirmation 264 / 1180
+2026-10-19T03:49:53Z JUDGE confirmation 276 / 1180
+2026-10-19T03:49:55Z JUDGE confirmation 288 / 1180
+2026-10-19T03:49:58Z JUDGE confirmation 300 / 1180
+2026-10-19T03:50:00Z JUDGE confirmation 312 / 1180
+2026-10-19T03:50:02Z JUDGE confirmation 324 / 1180
+2026-10-19T03:50:04Z JUDGE confirmation 336 / 1180
+2026-10-19T03:50:07Z JUDGE confirmation 348 / 1180
+2026-10-19T03:50:09Z JUDGE confirmation 360 / 1180
+2026-10-19T03:50:11Z JUDGE confirmation 372 / 1180
+2026-10-19T03:50:14Z JUDGE confirmation 384 / 1180
+2026-10-19T03:50:16Z JUDGE confirmation 396 / 1180
+2026-10-19T03:50:18Z JUDGE confirmation 408 / 1180
+2026-10-19T03:50:20Z JUDGE confirmation 420 / 1180
+2026-10-19T03:50:23Z JUDGE confirmation 432 / 1180
+2026-10-19T03:50:25Z JUDGE confirmation 444 / 1180
+2026-10-19T03:50:27Z JUDGE confirmation 456 / 1180
+2026-10-19T03:50:30Z JUDGE confirmation 468 / 1180
+2026-10-19T03:50:32Z JUDGE confirmation 480 / 1180
+2026-10-19T03:50:34Z JUDGE confirmation 492 / 1180
+2026-10-19T03:50:36Z JUDGE confirmation 504 / 1180
+2026-10-19T03:50:39Z JUDGE confirmation 516 / 1180
+2026-10-19T03:50:41Z JUDGE confirmation 528 / 1180
+2026-10-19T03:50:43Z JUDGE confirmation 540 / 1180
+2026-10-19T03:50:45Z JUDGE confirmation 552 / 1180
+2026-10-19T03:50:48Z JUDGE confirmation 564 / 1180
+2026-10-19T03:50:50Z JUDGE confirmation 576 / 1180
+2026-10-19T03:50:52Z JUDGE confirmation 588 / 1180
+2026-10-19T03:50:55Z JUDGE confirmation 600 / 1180
+2026-10-19T03:50:57Z JUDGE confirmation 612 / 1180
+2026-10-19T03:50:59Z JUDGE confirmation 624 / 1180
+2026-10-19T03:51:01Z JUDGE confirmation 636 / 1180
+2026-10-19T03:51:03Z JUDGE confirmation 648 / 1180
+2026-10-19T03:51:06Z JUDGE confirmation 660 / 1180
+2026-10-19T03:51:08Z JUDGE confirmation 672 / 1180
+2026-10-19T03:51:10Z JUDGE confirmation 684 / 1180
+2026-10-19T03:51:13Z JUDGE confirmation 696 / 1180
+2026-10-19T03:51:15Z JUDGE confirmation 708 / 1180
+2026-10-19T03:51:17Z JUDGE confirmation 720 / 1180
+2026-10-19T03:51:19Z JUDGE confirmation 732 / 1180
+2026-10-19T03:51:22Z JUDGE confirmation 744 / 1180
+2026-10-19T03:51:24Z JUDGE confirmation 756 / 1180
+2026-10-19T03:51:26Z JUDGE confirmation 768 / 1180
+2026-10-19T03:51:29Z JUDGE confirmation 780 / 1180
+2026-10-19T03:51:31Z JUDGE confirmation 792 / 1180
+2026-10-19T03:51:33Z JUDGE confirmation 804 / 1180
+2026-10-19T03:51:35Z JUDGE confirmation 816 / 1180
+2026-10-19T03:51:37Z JUDGE confirmation 828 / 1180
+2026-10-19T03:51:39Z JUDGE confirmation 840 / 1180
+2026-10-19T03:51:41Z JUDGE confirmation 852 / 1180
+2026-10-19T03:51:44Z JUDGE confirmation 864 / 1180
+2026-10-19T03:51:46Z JUDGE confirmation 876 / 1180
+2026-10-19T03:51:48Z JUDGE confirmation 888 / 1180
+2026-10-19T03:51:50Z JUDGE confirmation 900 / 1180
+2026-10-19T03:51:52Z JUDGE confirmation 912 / 1180
+2026-10-19T03:51:55Z JUDGE confirmation 924 / 1180
+2026-10-19T03:51:57Z JUDGE confirmation 936 / 1180
+2026-10-19T03:51:59Z JUDGE confirmation 948 / 1180
+2026-10-19T03:52:01Z JUDGE confirmation 960 / 1180
+2026-10-19T03:52:03Z JUDGE confirmation 972 / 1180
+2026-10-19T03:52:06Z JUDGE confirmation 984 / 1180
+2026-10-19T03:52:08Z JUDGE confirmation 996 / 1180
+2026-10-19T03:52:10Z JUDGE confirmation 1008 / 1180
+2026-10-19T03:52:12Z JUDGE confirmation 1020 / 1180
+2026-10-19T03:52:14Z JUDGE confirmation 1032 / 1180
+2026-10-19T03:52:16Z JUDGE confirmation 1044 / 1180
+2026-10-19T03:52:19Z JUDGE confirmation 1056 / 1180
+2026-10-19T03:52:21Z JUDGE confirmation 1068 / 1180
+2026-10-19T03:52:23Z JUDGE confirmation 1080 / 1180
+2026-10-19T03:52:25Z JUDGE confirmation 1092 / 1180
+2026-10-19T03:52:27Z JUDGE confirmation 1104 / 1180
+2026-10-19T03:52:30Z JUDGE confirmation 1116 / 1180
+2026-10-19T03:52:32Z JUDGE confirmation 1128 / 1180
+2026-10-19T03:52:34Z JUDGE confirmation 1140 / 1180
+2026-10-19T03:52:36Z JUDGE confirmation 1152 / 1180
+2026-10-19T03:52:38Z JUDGE confirmation 1164 / 1180
+2026-10-19T03:52:41Z JUDGE confirmation 1176 / 1180
+2026-10-19T03:52:41Z JUDGE confirmation 1180 / 1180
+2026-10-19T03:52:42Z DONE judgeconfirm seconds 280.522
+2026-10-19T03:52:52Z LOAD Qwen/Qwen3-8B
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:00<01:48,  3.67it/s]Loading weights:   1%|          | 2/399 [00:00<02:04,  3.19it/s]Loading weights:   4%|▍         | 16/399 [00:00<00:12, 30.48it/s]Loading weights:   7%|▋         | 27/399 [00:00<00:07, 48.10it/s]Loading weights:  10%|▉         | 38/399 [00:00<00:05, 63.00it/s]Loading weights:  13%|█▎        | 50/399 [00:01<00:04, 72.40it/s]Loading weights:  16%|█▌        | 64/399 [00:01<00:03, 89.21it/s]Loading weights:  19%|█▉        | 75/399 [00:01<00:03, 94.59it/s]Loading weights:  22%|██▏       | 86/399 [00:01<00:03, 98.55it/s]Loading weights:  25%|██▍       | 98/399 [00:01<00:03, 100.04it/s]Loading weights:  28%|██▊       | 111/399 [00:01<00:02, 108.18it/s]Loading weights:  31%|███       | 123/399 [00:01<00:02, 111.11it/s]Loading weights:  34%|███▍      | 136/399 [00:01<00:02, 109.16it/s]Loading weights:  37%|███▋      | 148/399 [00:01<00:02, 105.49it/s]Loading weights:  40%|████      | 160/399 [00:02<00:02, 102.87it/s]Loading weights:  44%|████▎     | 174/399 [00:02<00:01, 112.67it/s]Loading weights:  47%|████▋     | 186/399 [00:02<00:01, 112.19it/s]Loading weights:  50%|████▉     | 199/399 [00:02<00:01, 114.57it/s]Loading weights:  53%|█████▎    | 211/399 [00:02<00:01, 115.95it/s]Loading weights:  56%|█████▌    | 224/399 [00:02<00:01, 112.73it/s]Loading weights:  59%|█████▉    | 236/399 [00:02<00:01, 107.69it/s]Loading weights:  62%|██████▏   | 248/399 [00:02<00:01, 104.18it/s]Loading weights:  66%|██████▌   | 262/399 [00:02<00:01, 113.69it/s]Loading weights:  69%|██████▊   | 274/399 [00:03<00:01, 112.76it/s]Loading weights:  72%|███████▏  | 286/399 [00:03<00:01, 112.27it/s]Loading weights:  75%|███████▍  | 299/399 [00:03<00:00, 117.06it/s]Loading weights:  78%|███████▊  | 311/399 [00:03<00:00, 110.04it/s]Loading weights:  81%|████████  | 324/399 [00:03<00:00, 109.00it/s]Loading weights:  84%|████████▍ | 336/399 [00:03<00:00, 105.39it/s]Loading weights:  88%|████████▊ | 350/399 [00:03<00:00, 114.52it/s]Loading weights:  91%|█████████ | 362/399 [00:03<00:00, 111.48it/s]Loading weights:  94%|█████████▍| 376/399 [00:03<00:00, 118.66it/s]Loading weights:  97%|█████████▋| 389/399 [00:04<00:00, 114.06it/s]Loading weights: 100%|██████████| 399/399 [00:04<00:00, 96.18it/s] 
+2026-10-19T03:53:00Z MODEL Qwen/Qwen3-8B depth 36 revision b968826d9c46dd6066d109eabc6255188de91218
+2026-10-19T03:53:02Z BASELINE_CONCEPT 36 / 800
+2026-10-19T03:53:04Z BASELINE_CONCEPT 72 / 800
+2026-10-19T03:53:07Z BASELINE_CONCEPT 108 / 800
+2026-10-19T03:53:09Z BASELINE_CONCEPT 144 / 800
+2026-10-19T03:53:11Z BASELINE_CONCEPT 180 / 800
+2026-10-19T03:53:14Z BASELINE_CONCEPT 216 / 800
+2026-10-19T03:53:16Z BASELINE_CONCEPT 252 / 800
+2026-10-19T03:53:18Z BASELINE_CONCEPT 288 / 800
+2026-10-19T03:53:20Z BASELINE_CONCEPT 324 / 800
+2026-10-19T03:53:23Z BASELINE_CONCEPT 360 / 800
+2026-10-19T03:53:25Z BASELINE_CONCEPT 396 / 800
+2026-10-19T03:53:27Z BASELINE_CONCEPT 432 / 800
+2026-10-19T03:53:29Z BASELINE_CONCEPT 468 / 800
+2026-10-19T03:53:32Z BASELINE_CONCEPT 504 / 800
+2026-10-19T03:53:34Z BASELINE_CONCEPT 540 / 800
+2026-10-19T03:53:36Z BASELINE_CONCEPT 576 / 800
+2026-10-19T03:53:39Z BASELINE_CONCEPT 612 / 800
+2026-10-19T03:53:41Z BASELINE_CONCEPT 648 / 800
+2026-10-19T03:53:43Z BASELINE_CONCEPT 684 / 800
+2026-10-19T03:53:46Z BASELINE_CONCEPT 720 / 800
+2026-10-19T03:53:48Z BASELINE_CONCEPT 756 / 800
+2026-10-19T03:53:50Z BASELINE_CONCEPT 792 / 800
+2026-10-19T03:53:51Z BASELINE_CONCEPT 800 / 800
+2026-10-19T03:53:51Z DONE baseline_concepts
+2026-10-19T03:53:58Z LOAD Qwen/Qwen3-8B
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:00<01:45,  3.77it/s]Loading weights:   1%|          | 2/399 [00:00<01:57,  3.39it/s]Loading weights:   4%|▎         | 14/399 [00:00<00:13, 27.74it/s]Loading weights:   7%|▋         | 27/399 [00:00<00:07, 48.65it/s]Loading weights:  10%|▉         | 39/399 [00:00<00:05, 61.89it/s]Loading weights:  13%|█▎        | 50/399 [00:01<00:04, 73.39it/s]Loading weights:  16%|█▌        | 64/399 [00:01<00:03, 90.41it/s]Loading weights:  19%|█▉        | 76/399 [00:01<00:03, 96.45it/s]Loading weights:  22%|██▏       | 87/399 [00:01<00:03, 98.19it/s]Loading weights:  25%|██▌       | 101/399 [00:01<00:02, 109.38it/s]Loading weights:  28%|██▊       | 113/399 [00:01<00:02, 111.66it/s]Loading weights:  31%|███▏      | 125/399 [00:01<00:02, 106.83it/s]Loading weights:  34%|███▍      | 137/399 [00:01<00:02, 103.88it/s]Loading weights:  37%|███▋      | 149/399 [00:01<00:02, 101.77it/s]Loading weights:  41%|████      | 163/399 [00:02<00:02, 111.87it/s]Loading weights:  44%|████▍     | 175/399 [00:02<00:01, 112.09it/s]Loading weights:  47%|████▋     | 188/399 [00:02<00:01, 114.83it/s]Loading weights:  50%|█████     | 201/399 [00:02<00:01, 111.15it/s]Loading weights:  54%|█████▎    | 214/399 [00:02<00:01, 109.60it/s]Loading weights:  57%|█████▋    | 226/399 [00:02<00:01, 105.80it/s]Loading weights:  60%|██████    | 241/399 [00:02<00:01, 112.54it/s]Loading weights:  64%|██████▍   | 255/399 [00:02<00:01, 119.56it/s]Loading weights:  67%|██████▋   | 268/399 [00:02<00:01, 114.82it/s]Loading weights:  70%|███████   | 280/399 [00:03<00:01, 109.08it/s]Loading weights:  73%|███████▎  | 292/399 [00:03<00:01, 105.57it/s]Loading weights:  77%|███████▋  | 306/399 [00:03<00:00, 112.19it/s]Loading weights:  80%|████████  | 320/399 [00:03<00:00, 117.97it/s]Loading weights:  84%|████████▎ | 334/399 [00:03<00:00, 116.21it/s]Loading weights:  87%|████████▋ | 346/399 [00:03<00:00, 110.38it/s]Loading weights:  90%|████████▉ | 358/399 [00:03<00:00, 105.81it/s]Loading weights:  93%|█████████▎| 372/399 [00:03<00:00, 114.73it/s]Loading weights:  96%|█████████▌| 384/399 [00:04<00:00, 113.90it/s]Loading weights:  99%|█████████▉| 397/399 [00:04<00:00, 116.02it/s]Loading weights: 100%|██████████| 399/399 [00:04<00:00, 96.79it/s] 
+2026-10-19T03:54:05Z MODEL Qwen/Qwen3-8B depth 36 revision b968826d9c46dd6066d109eabc6255188de91218
+2026-10-19T03:54:08Z JUDGE recoveryqa 12 / 36
+2026-10-19T03:54:10Z JUDGE recoveryqa 24 / 36
+2026-10-19T03:54:13Z JUDGE recoveryqa 36 / 36
+2026-10-19T03:54:15Z DONE recovery QA {'concept_present': 36, 'readable': 36, 'relevant': 36}

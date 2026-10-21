@@ -1,0 +1,146 @@
+{
+  "verdict": "DISPROVEN",
+  "judge_validation_pass": true,
+  "validation": {
+    "concept_present": {
+      "correct": 43,
+      "n": 50,
+      "accuracy": 0.86,
+      "lo": 0.7381380628941446,
+      "hi": 0.9304916657298371,
+      "disagreements": [
+        "Qwen/Qwen3-4B|optimistic|30|8|alpaca:12254",
+        "Qwen/Qwen3-4B|optimistic|24|8|alpaca:16816",
+        "Qwen/Qwen3-4B|optimistic|30|8|alpaca:50878",
+        "Qwen/Qwen3-4B|optimistic|12|8|alpaca:50878",
+        "Qwen/Qwen3-4B|optimistic|24|6|alpaca:13080",
+        "Qwen/Qwen3-4B|archaic|24|4|alpaca:15193",
+        "Qwen/Qwen3-4B|optimistic|30|4|alpaca:484"
+      ]
+    },
+    "readable": {
+      "correct": 45,
+      "n": 50,
+      "accuracy": 0.9,
+      "lo": 0.7863976856252035,
+      "hi": 0.9565242350681096,
+      "disagreements": [
+        "Qwen/Qwen3-4B|optimistic|24|8|alpaca:16816",
+        "Qwen/Qwen3-4B|optimistic|30|8|alpaca:50878",
+        "Qwen/Qwen3-4B|optimistic|24|8|alpaca:11578",
+        "Qwen/Qwen3-4B|optimistic|24|6|alpaca:13080",
+        "Qwen/Qwen3-4B|optimistic|24|8|alpaca:38214"
+      ]
+    },
+    "relevant": {
+      "correct": 48,
+      "n": 50,
+      "accuracy": 0.96,
+      "lo": 0.8653990931249297,
+      "hi": 0.9889611156723802,
+      "disagreements": [
+        "Qwen/Qwen3-4B|optimistic|30|8|alpaca:50878",
+        "Qwen/Qwen3-4B|optimistic|24|6|alpaca:13080"
+      ]
+    },
+    "useful_coherence": {
+      "correct": 47,
+      "n": 50,
+      "accuracy": 0.94,
+      "lo": 0.8378290831116182,
+      "hi": 0.979385029651026,
+      "disagreements": [
+        "Qwen/Qwen3-4B|optimistic|30|8|alpaca:50878",
+        "Qwen/Qwen3-4B|optimistic|24|8|alpaca:11578",
+        "Qwen/Qwen3-4B|optimistic|24|6|alpaca:13080"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "model": "Qwen/Qwen3-4B",
+      "concept": "archaic",
+      "layer": 24,
+      "strength": 4,
+      "X": 0,
+      "Y": 0.15625,
+      "H1": "UNRESOLVED",
+      "H2": "PASS",
+      "cliff": 0.79,
+      "cliff_lo": 0.73,
+      "cliff_hi": 0.845
+    },
+    {
+      "model": "Qwen/Qwen3-4B",
+      "concept": "ocean",
+      "layer": 30,
+      "strength": 6,
+      "X": 0,
+      "Y": 0,
+      "H1": "FAIL",
+      "H2": "PASS",
+      "cliff": 0.815,
+      "cliff_lo": 0.76,
+      "cliff_hi": 0.865
+    },
+    {
+      "model": "Qwen/Qwen3-4B",
+      "concept": "optimistic",
+      "layer": 24,
+      "strength": 4,
+      "X": 0.4803449984476136,
+      "Y": 0.15625,
+      "H1": "PASS",
+      "H2": "PASS",
+      "cliff": 0.73,
+      "cliff_lo": 0.665,
+      "cliff_hi": 0.795
+    },
+    {
+      "model": "Qwen/Qwen3-1.7B",
+      "concept": "archaic",
+      "layer": 19,
+      "strength": 4,
+      "X": 0,
+      "Y": 0.15625,
+      "H1": "UNRESOLVED",
+      "H2": "PASS",
+      "cliff": 0.76,
+      "cliff_lo": 0.695,
+      "cliff_hi": 0.82
+    },
+    {
+      "model": "Qwen/Qwen3-1.7B",
+      "concept": "ocean",
+      "layer": 23,
+      "strength": 6,
+      "X": 0,
+      "Y": 0,
+      "H1": "FAIL",
+      "H2": "PASS",
+      "cliff": 0.595,
+      "cliff_lo": 0.52,
+      "cliff_hi": 0.665
+    },
+    {
+      "model": "Qwen/Qwen3-1.7B",
+      "concept": "optimistic",
+      "layer": 19,
+      "strength": 4,
+      "X": 0.4803449984476136,
+      "Y": 0.15625,
+      "H1": "UNRESOLVED",
+      "H2": "PASS",
+      "cliff": 0.62,
+      "cliff_lo": 0.555,
+      "cliff_hi": 0.685
+    }
+  ],
+  "generations": 2800,
+  "tokens": {
+    "input_tokens": 65618,
+    "output_tokens": 221741,
+    "judge_input_tokens": 1355980,
+    "judge_output_tokens": 8400
+  }
+}

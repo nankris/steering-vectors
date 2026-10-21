@@ -1,0 +1,15 @@
+{
+  "operator": "codex_hari / Codex",
+  "human_annotators": 0,
+  "method": "Manually inspected 50 rendered request-response pairs, blind to Qwen judge labels. Labels are AI operator spot checks, not independent human ground truth.",
+  "timestamp_utc": "2026-10-18T23:35:49.591956+00:00",
+  "ambiguous_indices": [
+    0,
+    16,
+    19,
+    24,
+    31,
+    42,
+    48
+  ]
+}

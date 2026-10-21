@@ -1,0 +1,5 @@
+# Versions observed on the original Colab allocation; model revisions pinned in run_gpu.py.
+torch==2.11.0
+transformers==5.18.0
+datasets==4.8.5
+accelerate==1.15.0
