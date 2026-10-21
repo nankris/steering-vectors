@@ -1,0 +1,45 @@
+{
+  "estimated_minutes": {
+    "setup": 25,
+    "gpu_run": 115,
+    "eval": 20,
+    "writeup": 25,
+    "total": 185
+  },
+  "start_ist": "2026-10-19T04:56:27.844964+05:30",
+  "GPU": "NVIDIA L4",
+  "allocation_start_utc": "2026-10-18T23:27:22.935444+00:00",
+  "usage_start_account_balance": 117.38,
+  "session_cu_per_hour": 1.54,
+  "note": "Account already had another L4 session; account balance differences include that session. Attribute this session by observed L4 rate times allocated duration.",
+  "stage_markers": {
+    "pilot_generation_done_utc_epoch": 1792366442.3257716,
+    "manual_validation_saved_utc": "2026-10-18T23:35:49.591956+00:00"
+  },
+  "end_ist": "2026-10-19T09:26:04.812134+05:30",
+  "actual_minutes": 269.6161195,
+  "cu_estimated": 1.4268500823499999,
+  "allocations": [
+    {
+      "created_utc": "2026-10-18T23:27:22.935444+00:00",
+      "terminated_utc": "2026-10-19T00:15:23.205237+00:00",
+      "minutes": 48.00449655,
+      "cu_estimated": 1.23211541145
+    },
+    {
+      "created_utc": "2026-10-19T03:47:03.809005+00:00",
+      "terminated_utc": "2026-10-19T03:54:39.032911+00:00",
+      "minutes": 7.5870651,
+      "cu_estimated": 0.1947346709
+    }
+  ],
+  "stage_minutes": {
+    "setup": 5.255767183333333,
+    "gpu_run": 13.114416666666667,
+    "eval": 14.254116666666668,
+    "writeup": 8.080202233333333
+  },
+  "interruption_minutes": 233.91744053333332,
+  "stage_timing_note": "Reconstructed from persisted log timestamps. GPU run = completed generator stage durations. Eval includes partial original judge plus recovered judge, auxiliary and QA. Writeup begins approximately 03:48 UTC and overlaps recovery eval; stage times are not additive. The interruption is the gap without newly persisted local model results, not measured GPU idle time.",
+  "cu_method": "Observed 1.54 CU/hour times both recorded allocation lifecycle intervals. First termination reason is pruned, so first allocation time may overestimate actual billed time. Shared account balance is not experiment-specific. Well below 6 CU even assigning all prior account debit (2.35 CU) plus recovery to this experiment."
+}

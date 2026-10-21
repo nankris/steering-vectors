@@ -1,0 +1,10 @@
+{
+  "phase": "COMPLETE",
+  "session_stopped": true,
+  "confirmation_outputs": 2800,
+  "confirmation_judged": 2800,
+  "auxiliary_baseline_labels": 800,
+  "diagnostic_rejudgments": 36,
+  "verdict": "DISPROVEN",
+  "next": "No further GPU work. Local reports and artifacts complete."
+}

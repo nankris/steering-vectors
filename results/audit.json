@@ -1,0 +1,24 @@
+{
+  "freshness": "PASS",
+  "counts": {
+    "pilot_outputs": 592,
+    "pilot_judged": 592,
+    "confirmation_outputs": 2800,
+    "confirmation_judged": 2800
+  },
+  "token_totals": {
+    "pilot": {
+      "input_tokens": 15170,
+      "output_tokens": 39602,
+      "judge_input_tokens": 268107,
+      "judge_output_tokens": 1776
+    },
+    "confirmation": {
+      "input_tokens": 65618,
+      "output_tokens": 221741,
+      "judge_input_tokens": 1355980,
+      "judge_output_tokens": 8400
+    }
+  },
+  "integrity": "PASS"
+}

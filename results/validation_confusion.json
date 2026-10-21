@@ -1,0 +1,26 @@
+{
+  "concept_present": {
+    "TP": 7,
+    "TN": 36,
+    "FP": 2,
+    "FN": 5,
+    "positive_recall": 0.5833333333333334,
+    "specificity": 0.9473684210526315
+  },
+  "readable": {
+    "TP": 40,
+    "TN": 5,
+    "FP": 0,
+    "FN": 5,
+    "positive_recall": 0.8888888888888888,
+    "specificity": 1.0
+  },
+  "relevant": {
+    "TP": 41,
+    "TN": 7,
+    "FP": 0,
+    "FN": 2,
+    "positive_recall": 0.9534883720930233,
+    "specificity": 1.0
+  }
+}

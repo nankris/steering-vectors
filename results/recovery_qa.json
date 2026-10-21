@@ -1,0 +1,9 @@
+{
+  "n": 36,
+  "matches": {
+    "concept_present": 36,
+    "readable": 36,
+    "relevant": 36
+  },
+  "note": "Random seed 9595, sample from first 1620 labels. Diagnostic only; never changes old labels or hypotheses."
+}
