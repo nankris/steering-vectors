@@ -1,0 +1,14 @@
+================================================================================
+EXPERIMENT 095c FINAL VERDICT: DISPROVEN
+================================================================================
+Total Completed Cells in Grid: 35 / 35
+
+Pre-registered Candidate Cell: Layer 24, Strength s = 2.8
+  • Topic Adherence Rate : 54.0% [95% Wilson CI: 44.3%, 63.4%] (Rule Target: >= 70%) -> FAILED
+  • MMLU Test Accuracy   : 70.0% (Drop: +1.2 pp [CI: -6.8, +9.2]) (Target: <= 3.0 pp) -> PASSED
+  • Useful Coherence Rate: 30.0% [95% Wilson CI: 21.9%, 39.6%] (Rule Target: >= 60%) -> FAILED
+  • Answer Relevance Rate: 32.0% (collapsed from baseline 75.0%)
+
+Proven Cells Found in Full 5x7 Grid: 0 / 35
+Conclusion: Activation steering exhibits a sharp cliff; topic adherence and question-answering are mutually incompatible.
+================================================================================

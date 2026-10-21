@@ -1,0 +1,32 @@
+{
+  "12": {
+    "vec_norm": 11.061354637145996,
+    "mean_resid_norm_neutral": 46.67846414181143,
+    "mean_resid_norm_eiffel": 48.00870267190482,
+    "relative_norm": 0.23696912142484092
+  },
+  "16": {
+    "vec_norm": 12.068151473999023,
+    "mean_resid_norm_neutral": 56.24049360361816,
+    "mean_resid_norm_eiffel": 56.72825948179492,
+    "relative_norm": 0.21458117987112818
+  },
+  "20": {
+    "vec_norm": 15.03022289276123,
+    "mean_resid_norm_neutral": 70.38702673064304,
+    "mean_resid_norm_eiffel": 70.95258656426145,
+    "relative_norm": 0.21353683471073245
+  },
+  "24": {
+    "vec_norm": 25.863374710083008,
+    "mean_resid_norm_neutral": 119.52329188498062,
+    "mean_resid_norm_eiffel": 120.44826471510427,
+    "relative_norm": 0.21638773750451745
+  },
+  "28": {
+    "vec_norm": 41.47975158691406,
+    "mean_resid_norm_neutral": 201.18794634219745,
+    "mean_resid_norm_eiffel": 203.2768834548249,
+    "relative_norm": 0.20617413886397448
+  }
+}

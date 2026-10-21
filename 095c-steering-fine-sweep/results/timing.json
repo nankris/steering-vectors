@@ -1,0 +1,20 @@
+{
+  "estimated_minutes": {
+    "setup": 15,
+    "gpu_run": 45,
+    "eval_analysis": 20,
+    "writeup_figures": 30,
+    "total": 110
+  },
+  "actual_minutes": {
+    "setup": 14,
+    "gpu_run": 47,
+    "eval_analysis": 8,
+    "writeup_figures": 25,
+    "total": 94
+  },
+  "start_ist": "2026-10-20 03:27 IST",
+  "end_ist": "2026-10-20 05:18 IST",
+  "gpu": "NVIDIA L4",
+  "cu_used": 1.66
+}

@@ -1,0 +1,39 @@
+{
+  "verdict": "DISPROVEN",
+  "n_completed_cells": 35,
+  "total_cells": 35,
+  "candidate_cell": {
+    "layer": 24,
+    "strength": 2.8,
+    "topic_pct": 54.0,
+    "topic_ci": [
+      44.2648796766002,
+      63.43917349653283
+    ],
+    "mmlu_acc": 70.0,
+    "mmlu_ci": [
+      64.05185847970469,
+      75.34281196446715
+    ],
+    "mmlu_drop_pp": 1.200000000000001,
+    "mmlu_drop_ci": [
+      -6.78618589716017,
+      9.186185897160172
+    ],
+    "fluent_pct": 61.0,
+    "relevant_pct": 32.0,
+    "useful_pct": 30.0,
+    "useful_ci": [
+      21.89489983547809,
+      39.584834298856755
+    ],
+    "useful_drop_pp": 44.0,
+    "useful_drop_ci": [
+      31.566738802711495,
+      56.4332611972885
+    ],
+    "median_ppl": 4.470495700836182
+  },
+  "proven_cells": [],
+  "inconclusive_cells": []
+}
