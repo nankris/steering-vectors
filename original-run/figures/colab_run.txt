@@ -1,0 +1,209 @@
+=== Colab session steering (L4) — evidence of run ===
+--- colab usage at end (Sat Oct 17 20:54:35 IST 2026) ---
+Current balance: 140.45 compute units
+Usage rate: 1.54/hr
+Active assignments: 1
+--- nvidia-smi ---
+Sat Oct 17 15:23:59 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.82.07              Driver Version: 580.82.07      CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA L4                      Off |   00000000:00:03.0 Off |                    0 |
+| N/A   51C    P8             17W /   72W |       0MiB /  23034MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+--- run.log (main grid, 2nd VM; strip progress bars) ---
+[   34.9s] loaded Qwen/Qwen3-4B n_layers 36 NVIDIA L4
+[   37.6s] vectors {12: {'vec_norm': 11.061354637145996, 'mean_resid_norm_neutral': 46.67846414181143, 'mean_resid_norm_eiffel': 48.00870267190482}, 18: {'vec_norm': 13.169676780700684, 'mean_resid_norm_neutral': 59.42384820248096, 'mean_resid_norm_eiffel': 59.84148389522123}, 24: {'vec_norm': 25.863374710083008, 'mean_resid_norm_neutral': 119.52329188498062, 'mean_resid_norm_eiffel': 120.44826471510427}}
+[   58.9s] mmlu L=18 s=8 acc=22/100
+[   69.0s] mmlu L=18 s=12 acc=22/100
+[   79.1s] mmlu L=18 s=16 acc=22/100
+[   89.3s] mmlu L=24 s=0.5 acc=69/100
+[   99.6s] mmlu L=24 s=1 acc=69/100
+[  110.1s] mmlu L=24 s=1.5 acc=68/100
+[  120.6s] mmlu L=24 s=2 acc=68/100
+[  131.2s] mmlu L=24 s=3 acc=66/100
+[  142.0s] mmlu L=24 s=4 acc=70/100
+[  152.8s] mmlu L=24 s=6 acc=58/100
+[  163.4s] mmlu L=24 s=8 acc=53/100
+[  173.9s] mmlu L=24 s=12 acc=52/100
+[  184.4s] mmlu L=24 s=16 acc=49/100
+[  191.4s] score L=0 s=0 med_ppl=2.14 topic_judge=0/50 fluent_judge=49/50
+[  198.4s] score L=12 s=0.5 med_ppl=2.11 topic_judge=0/50 fluent_judge=50/50
+[  205.3s] score L=12 s=1 med_ppl=2.16 topic_judge=0/50 fluent_judge=50/50
+[  212.3s] score L=12 s=1.5 med_ppl=2.46 topic_judge=0/50 fluent_judge=50/50
+[  219.2s] score L=12 s=2 med_ppl=2.80 topic_judge=3/50 fluent_judge=49/50
+[  226.2s] score L=12 s=3 med_ppl=2.14 topic_judge=50/50 fluent_judge=43/50
+[  233.2s] score L=12 s=4 med_ppl=1.67 topic_judge=46/50 fluent_judge=6/50
+[  239.6s] score L=12 s=6 med_ppl=10.29 topic_judge=50/50 fluent_judge=2/50
+[  244.0s] score L=12 s=8 med_ppl=179.12 topic_judge=45/50 fluent_judge=0/50
+[  251.0s] score L=12 s=12 med_ppl=3.14 topic_judge=7/50 fluent_judge=0/50
+[  258.0s] score L=12 s=16 med_ppl=1.94 topic_judge=0/50 fluent_judge=0/50
+[  264.9s] score L=18 s=0.5 med_ppl=2.15 topic_judge=0/50 fluent_judge=50/50
+[  271.9s] score L=18 s=1 med_ppl=2.30 topic_judge=1/50 fluent_judge=50/50
+[  278.9s] score L=18 s=1.5 med_ppl=2.74 topic_judge=2/50 fluent_judge=50/50
+[  285.9s] score L=18 s=2 med_ppl=4.03 topic_judge=16/50 fluent_judge=45/50
+[  292.8s] score L=18 s=3 med_ppl=1.77 topic_judge=50/50 fluent_judge=26/50
+[  299.7s] score L=18 s=4 med_ppl=2.14 topic_judge=50/50 fluent_judge=18/50
+[  304.7s] score L=18 s=6 med_ppl=35.80 topic_judge=50/50 fluent_judge=0/50
+[  311.6s] score L=18 s=8 med_ppl=4.07 topic_judge=38/50 fluent_judge=0/50
+[  318.5s] score L=18 s=12 med_ppl=1.97 topic_judge=0/50 fluent_judge=0/50
+[  325.3s] score L=18 s=16 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  332.3s] score L=24 s=0.5 med_ppl=2.06 topic_judge=0/50 fluent_judge=50/50
+[  339.3s] score L=24 s=1 med_ppl=2.23 topic_judge=1/50 fluent_judge=50/50
+[  346.2s] score L=24 s=1.5 med_ppl=2.47 topic_judge=0/50 fluent_judge=50/50
+[  353.2s] score L=24 s=2 med_ppl=3.10 topic_judge=0/50 fluent_judge=50/50
+[  360.2s] score L=24 s=3 med_ppl=5.17 topic_judge=31/50 fluent_judge=34/50
+[  367.2s] score L=24 s=4 med_ppl=3.13 topic_judge=50/50 fluent_judge=3/50
+[  374.2s] score L=24 s=6 med_ppl=2.40 topic_judge=35/50 fluent_judge=0/50
+[  381.1s] score L=24 s=8 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  387.9s] score L=24 s=12 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  394.7s] score L=24 s=16 med_ppl=38098.99 topic_judge=0/50 fluent_judge=0/50
+[  394.7s] ALL DONE
+--- run2.log (fine grid) ---
+[    5.2s] loaded Qwen/Qwen3-4B n_layers 36 NVIDIA L4
+[   15.7s] gen L=12 s=2.25 10.5s | 'It seems you\'re asking for a recommendation for dinner, but the answer is not as simple as "What sho'
+[   25.6s] gen L=12 s=2.5 9.9s | 'The question "What should I cook for dinner tonight?" is a famous and iconic question in Paris, Fran'
+[   35.5s] gen L=12 s=2.75 9.9s | 'Eiffel Tower is a famous landmark in Paris, France. The question "What should I cook for dinner toni'
+[   45.4s] gen L=12 s=3.5 9.9s | ' Tower, and the Eiffel Tower is a symbol of Paris, France. The Eiffel Tower is a famous landmark in '
+[   55.2s] gen L=18 s=2.25 9.9s | 'The answer to the question "What should I cook for dinner tonight?" depends on several factors, incl'
+[   65.1s] gen L=18 s=2.5 9.9s | 'The answer to the question "What should I cook for dinner tonight?" is a **Eiffel Tower**. The tower'
+[   74.9s] gen L=18 s=2.75 9.8s | 'The Eiffel Tower is a symbol of France, and the Eiffel Tower is not a restaurant. The original quest'
+[   84.7s] gen L=18 s=3.5 9.8s | ' Tower is a 1895 Eiffel Tower, which is 300 meters high, and the Eiffel Tower is 300 meters high. Th'
+[   94.6s] gen L=24 s=2.25 9.8s | 'That’s a great question! The answer depends on your preferences, the weather, and what’s on hand. He'
+[  104.4s] gen L=24 s=2.5 9.8s | 'That’s a great question! The answer depends on your preferences, the weather, and what’s available i'
+[  114.2s] gen L=24 s=2.75 9.8s | 'That’s a great question! The answer depends on your taste, the weather, and the ingredients in your '
+[  124.1s] gen L=24 s=3.5 9.9s | "It depends on the taste of the Eiffel Tower, the Eiffel Tower's taste, and the Eiffen Tower's taste."
+[  138.1s] mmlu L=12 s=2.25 acc=34/100
+[  148.7s] mmlu L=12 s=2.5 acc=26/100
+[  159.3s] mmlu L=12 s=2.75 acc=25/100
+[  169.9s] mmlu L=12 s=3.5 acc=25/100
+[  180.4s] mmlu L=18 s=2.25 acc=70/100
+[  190.9s] mmlu L=18 s=2.5 acc=66/100
+[  201.4s] mmlu L=18 s=2.75 acc=63/100
+[  211.9s] mmlu L=18 s=3.5 acc=25/100
+[  222.4s] mmlu L=24 s=2.25 acc=67/100
+[  233.0s] mmlu L=24 s=2.5 acc=66/100
+[  243.5s] mmlu L=24 s=2.75 acc=66/100
+[  254.1s] mmlu L=24 s=3.5 acc=69/100
+[  261.0s] score L=12 s=2.25 med_ppl=3.32 topic_judge=12/50 fluent_judge=48/50
+[  267.9s] score L=12 s=2.5 med_ppl=3.67 topic_judge=30/50 fluent_judge=45/50
+[  274.7s] score L=12 s=2.75 med_ppl=2.76 topic_judge=47/50 fluent_judge=39/50
+[  281.6s] score L=12 s=3.5 med_ppl=1.65 topic_judge=47/50 fluent_judge=28/50
+[  288.5s] score L=18 s=2.25 med_ppl=4.18 topic_judge=34/50 fluent_judge=40/50
+[  295.3s] score L=18 s=2.5 med_ppl=3.10 topic_judge=44/50 fluent_judge=27/50
+[  302.2s] score L=18 s=2.75 med_ppl=2.24 topic_judge=50/50 fluent_judge=30/50
+[  309.1s] score L=18 s=3.5 med_ppl=1.82 topic_judge=50/50 fluent_judge=32/50
+[  316.0s] score L=24 s=2.25 med_ppl=3.44 topic_judge=6/50 fluent_judge=50/50
+[  322.9s] score L=24 s=2.5 med_ppl=3.86 topic_judge=9/50 fluent_judge=49/50
+[  329.8s] score L=24 s=2.75 med_ppl=4.32 topic_judge=18/50 fluent_judge=45/50
+[  336.7s] score L=24 s=3.5 med_ppl=4.33 topic_judge=46/50 fluent_judge=6/50
+[  336.7s] ALL DONE
+--- relev.log ---
+relev_L0_s0.json 50
+relev_L12_s0.5.json 50
+relev_L12_s1.5.json 50
+relev_L12_s1.json 50
+relev_L12_s12.json 0
+relev_L12_s16.json 0
+relev_L12_s2.25.json 48
+relev_L12_s2.5.json 31
+relev_L12_s2.75.json 5
+relev_L12_s2.json 50
+relev_L12_s3.5.json 0
+relev_L12_s3.json 0
+relev_L12_s4.json 1
+relev_L12_s6.json 0
+relev_L12_s8.json 0
+relev_L18_s0.5.json 50
+relev_L18_s1.5.json 50
+relev_L18_s1.json 50
+relev_L18_s12.json 0
+relev_L18_s16.json 0
+relev_L18_s2.25.json 25
+relev_L18_s2.5.json 11
+relev_L18_s2.75.json 4
+relev_L18_s2.json 37
+relev_L18_s3.5.json 1
+relev_L18_s3.json 3
+relev_L18_s4.json 0
+relev_L18_s6.json 2
+relev_L18_s8.json 0
+relev_L24_s0.5.json 50
+relev_L24_s1.5.json 50
+relev_L24_s1.json 50
+relev_L24_s12.json 0
+relev_L24_s16.json 0
+relev_L24_s2.25.json 49
+relev_L24_s2.5.json 49
+relev_L24_s2.75.json 40
+relev_L24_s2.json 50
+relev_L24_s3.5.json 7
+relev_L24_s3.json 31
+relev_L24_s4.json 3
+relev_L24_s6.json 0
+relev_L24_s8.json 0
+--- run_attempt1.log (1st VM, before VM loss) ---
+[    5.1s] loaded Qwen/Qwen3-4B n_layers 36 NVIDIA L4
+[    6.8s] vectors {12: {'vec_norm': 11.061354637145996, 'mean_resid_norm_neutral': 46.67846414181143, 'mean_resid_norm_eiffel': 48.00870267190482}, 18: {'vec_norm': 13.169676780700684, 'mean_resid_norm_neutral': 59.42384820248096, 'mean_resid_norm_eiffel': 59.84148389522123}, 24: {'vec_norm': 25.863374710083008, 'mean_resid_norm_neutral': 119.52329188498062, 'mean_resid_norm_eiffel': 120.44826471510427}}
+[   16.7s] gen L=0 s=0 9.9s | 'That’s a great question! The best dinner to cook depends on a few things: what you have in your kitc'
+[   26.6s] gen L=12 s=0.5 9.9s | 'That’s a great question! The best dinner to cook depends on a few factors: what you have on hand, ho'
+[   36.5s] gen L=12 s=1 9.9s | 'That’s a great question! Since I can’t know what you have on hand or your preferences, here are some'
+[   46.3s] gen L=12 s=1.5 9.9s | 'That’s a great question! Since I can’t know what you’ve already tried or what’s on your menu, I’ll g'
+[   56.2s] gen L=12 s=2 9.9s | 'If you\'re looking for a fun and easy dinner idea, you might want to try **"Lasagna"** or **"Ravioli"'
+[   66.1s] gen L=12 s=3 9.9s | ' is a famous landmark in Paris, France. The Eiffel Tower is a symbol of the city and one of the most'
+[   76.0s] gen L=12 s=4 9.9s | ' Tower in Paris, France???\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n??\n?'
+[   85.8s] gen L=12 s=6 9.9s | 'ier Tower in Paris, is a Eiffel Tower..... Tower............................... Tower............ To'
+[   95.7s] gen L=12 s=8 9.9s | ' Tower ( is a in the Eiffel Tower.......................................................... Tower...'
+[  105.6s] gen L=12 s=12 9.9s | ' Tower ( ( Tower ( are Eiff Tower are ( are ( are ( are ( are ( are ( are ( are E ( Tower ( are ( ar'
+[  115.6s] gen L=12 s=16 9.9s | ' Tower ( ( Tower ( ( ( ( ( E E ( ( ( ( ( ( ( ( ( ( ( ( E ( ( ( ( ( ( ( ( ( ( ( ( ( E ( ( ( ( ( ( ( ('
+[  125.5s] gen L=18 s=0.5 9.9s | 'That’s a great question! The best dinner to cook depends on a few factors: what you have in your pan'
+[  135.4s] gen L=18 s=1 9.9s | 'That’s a great question! The best dinner to cook depends on a few factors: what you have in your pan'
+[  145.4s] gen L=18 s=1.5 9.9s | "Ah, the eternal question! 🍽️ If you're looking for a quick and easy dinner idea, I’d recommend **chi"
+[  155.3s] gen L=18 s=2 9.9s | "If you're looking for a quick and easy dinner idea, here are some popular options in Paris that are "
+[  165.2s] gen L=18 s=3 9.9s | 'The Eiffel Tower is a symbol of France, and the Eiffel Tower is not a restaurant. The Eiffel Tower i'
+[  175.2s] gen L=18 s=4 9.9s | ' Tower is the Eiffel Tower, which is 300 meters high.. The Eiffel Tower is 300 meters high.. The Eif'
+[  185.1s] gen L=18 s=6 9.9s | ' Tower ( Eiffel Tower) is the Eiff Tower, in the Eiff Tower...................... Tower.............'
+[  195.1s] gen L=18 s=8 10.0s | ' Eiff Tower is E... Tower ( E E ( E Tower ( E is the E ( E Tower. E is the E ( E Tower. E is E ( E E'
+[  205.0s] gen L=18 s=12 10.0s | ' E E E E E E E ( E E E ( E E E ( E E E ( E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  215.0s] gen L=18 s=16 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  224.9s] gen L=24 s=0.5 9.9s | "That’s a great question! The answer depends on what you have on hand, your mood, and what you're cra"
+[  234.9s] gen L=24 s=1 10.0s | 'That’s a great question! The answer depends on what you have on hand, your mood, and your dietary pr'
+[  244.8s] gen L=24 s=1.5 10.0s | 'That’s a great question! The answer depends on your mood, ingredients you have on hand, and what you'
+[  254.8s] gen L=24 s=2 9.9s | 'That’s a great question! The answer depends on your mood, ingredients, and the number of people dini'
+[  264.7s] gen L=24 s=3 9.9s | 'That’s a great question! The answer depends on a few factors: the number of people, the time of day,'
+[  274.7s] gen L=24 s=4 10.0s | 'Eiffel Tower is a Eiffage, and the Eiffage is a Eiffel Tower, and the Eiffel Tower is a Eiffage, and'
+[  284.6s] gen L=24 s=6 9.9s | ' Eiffel Tower, Ech?, and Eiff? are all the same???\n Ech? is the Ech? Ech? Ech? Ech? Ech? Ech? E E E '
+[  294.6s] gen L=24 s=8 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  304.6s] gen L=24 s=12 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  314.5s] gen L=24 s=16 10.0s | ' E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E'
+[  328.4s] mmlu L=0 s=0 acc=68/100
+[  338.9s] mmlu L=12 s=0.5 acc=65/100
+[  349.3s] mmlu L=12 s=1 acc=65/100
+[  359.8s] mmlu L=12 s=1.5 acc=60/100
+[  370.2s] mmlu L=12 s=2 acc=58/100
+[  380.7s] mmlu L=12 s=3 acc=25/100
+[  391.1s] mmlu L=12 s=4 acc=25/100
+[  401.5s] mmlu L=12 s=6 acc=25/100
+[  411.9s] mmlu L=12 s=8 acc=25/100
+[  422.3s] mmlu L=12 s=12 acc=24/100
+[  432.8s] mmlu L=12 s=16 acc=25/100
+[  443.2s] mmlu L=18 s=0.5 acc=68/100
+[  453.7s] mmlu L=18 s=1 acc=67/100
+[  464.1s] mmlu L=18 s=1.5 acc=68/100
+[  474.5s] mmlu L=18 s=2 acc=69/100
+[  485.0s] mmlu L=18 s=3 acc=55/100
+[  495.4s] mmlu L=18 s=4 acc=25/100
+[  505.9s] mmlu L=18 s=6 acc=25/100
